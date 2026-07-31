@@ -1,0 +1,424 @@
+{
+ "schema": "lantern-events/v1",
+ "region": "katy-tx",
+ "generated_at": "2026-07-31T23:10:22Z",
+ "events": [
+  {
+   "name": "52nd Annual Houston Shakespeare Festival: The Comedy of Errors at Miller Outdoor",
+   "date": "2026-07-31",
+   "venue": "Miller Outdoor Theatre",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/52nd-annual-houston-shakespeare-festival-the-comedy-of-errors-at-miller-outdoor-theatre-1/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Catastrophic Theatre: Tamarie’s Greatest Hits, Volume 3 at MATCH",
+   "date": "2026-07-31",
+   "venue": "MATCH: Midtown Arts & Theater Center Houston",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/the-catastrophic-theatre-tamaries-greatest-hits-volume-3-at-match-22/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "The Conjurer: An Intimate Magical Experience with Master Magician Curt Miller in",
+   "date": "2026-07-31",
+   "venue": "Houston Marriott Sugar Land",
+   "town": "Sugar Land",
+   "url": "https://365thingsinhouston.com/calendar/the-conjurer-an-intimate-magical-experience-with-master-magician-curt-miller-in-sugar-land-2026-1-2/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Friday, Jul 31",
+   "date": "2026-07-31",
+   "venue": "",
+   "town": "",
+   "url": "https://houston.kidsoutandabout.com/event-list/2026-07-31",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Fun, Free & Cheap Events | July 31 – August 2",
+   "date": "2026-07-31",
+   "venue": "",
+   "town": "",
+   "url": "https://www.houstononthecheap.com/top-events-in-houston-july-31-august-2-2026/",
+   "source": "Houston on the Cheap"
+  },
+  {
+   "name": "The Girl on the Train at Alley Theatre",
+   "date": "2026-07-31",
+   "venue": "Alley Theatre",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/the-girl-on-the-train-at-alley-theatre-8/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "4th Annual White Linen Market at M-K-T",
+   "date": "2026-08-01",
+   "venue": "M-K-T",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/4th-annual-white-linen-market-at-m-k-t/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "52nd Annual Houston Shakespeare Festival: The Tempest at Miller Outdoor Theatre",
+   "date": "2026-08-01",
+   "venue": "Miller Outdoor Theatre",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/52nd-annual-houston-shakespeare-festival-the-tempest-at-miller-outdoor-theatre-2/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Bun B Presents Been Ridin’ Dirty at Smart Financial Centre",
+   "date": "2026-08-01",
+   "venue": "Smart Financial Centre at Sugar Land",
+   "town": "Sugar Land",
+   "url": "https://365thingsinhouston.com/calendar/bun-b-presents-been-ridin-dirty-at-smart-financial-centre/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Catastrophic Theatre: Tamarie’s Greatest Hits, Volume 3 at MATCH",
+   "date": "2026-08-01",
+   "venue": "MATCH: Midtown Arts & Theater Center Houston",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/the-catastrophic-theatre-tamaries-greatest-hits-volume-3-at-match-23/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "The Conjurer: An Intimate Magical Experience with Master Magician Curt Miller in",
+   "date": "2026-08-01",
+   "venue": "Houston Marriott Sugar Land",
+   "town": "Sugar Land",
+   "url": "https://365thingsinhouston.com/calendar/the-conjurer-an-intimate-magical-experience-with-master-magician-curt-miller-in-sugar-land-2026-2/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Garbage Girlfriend Album Release Show at House of Blues",
+   "date": "2026-08-01",
+   "venue": "House of Blues Houston",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/garbage-girlfriend-album-release-show-in-the-bronze-peacock-room-at-house-of-blues/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "The Girl on the Train at Alley Theatre",
+   "date": "2026-08-01",
+   "venue": "Alley Theatre",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/the-girl-on-the-train-at-alley-theatre-9/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Hot Wheels Monster Trucks Live: Glow-N-Fire at Toyota Center",
+   "date": "2026-08-01",
+   "venue": "Toyota Center",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/hot-wheels-monster-trucks-live-glow-n-fire-at-toyota-center-2026-1/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Road Trips Opening Reception at Archway Gallery",
+   "date": "2026-08-01",
+   "venue": "Archway Gallery",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/road-trips-opening-reception-at-archway-gallery/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "The Girl on the Train at Alley Theatre",
+   "date": "2026-08-02",
+   "venue": "Alley Theatre",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/the-girl-on-the-train-at-alley-theatre-11/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Hot Wheels Monster Trucks Live: Glow-N-Fire at Toyota Center",
+   "date": "2026-08-02",
+   "venue": "Toyota Center",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/hot-wheels-monster-trucks-live-glow-n-fire-at-toyota-center-2/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "52nd Annual Houston Shakespeare Festival: The Tempest at Miller Outdoor Theatre",
+   "date": "2026-08-03",
+   "venue": "Miller Outdoor Theatre",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/52nd-annual-houston-shakespeare-festival-the-tempest-at-miller-outdoor-theatre-3/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "52nd Annual Houston Shakespeare Festival: The Comedy of Errors at Miller Outdoor",
+   "date": "2026-08-04",
+   "venue": "Miller Outdoor Theatre",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/52nd-annual-houston-shakespeare-festival-the-comedy-of-errors-at-miller-outdoor-theatre-2/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Dream Retirement: Social Security Strategy Evening in Tomball",
+   "date": "2026-08-04",
+   "venue": "Hyatt Place Houston NW Vintage Park",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/dream-retirement-social-security-strategy-evening-in-tomball/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "The Girl on the Train at Alley Theatre",
+   "date": "2026-08-04",
+   "venue": "Alley Theatre",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/the-girl-on-the-train-at-alley-theatre-13/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "52nd Annual Houston Shakespeare Festival: The Tempest at Miller Outdoor Theatre",
+   "date": "2026-08-05",
+   "venue": "Miller Outdoor Theatre",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/52nd-annual-houston-shakespeare-festival-the-tempest-at-miller-outdoor-theatre-4/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Dream Retirement: Make Your Money Last Strategy Evening in Kingwood",
+   "date": "2026-08-05",
+   "venue": "Courtyard by Marriott Houston Kingwood",
+   "town": "Kingwood",
+   "url": "https://365thingsinhouston.com/calendar/dream-retirement-make-your-money-last-strategy-evening-in-kingwood/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Ella Mai in Concert at Smart Financial Centre",
+   "date": "2026-08-05",
+   "venue": "Smart Financial Centre at Sugar Land",
+   "town": "Sugar Land",
+   "url": "https://365thingsinhouston.com/calendar/ella-mai-in-concert-at-smart-financial-centre/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "The Girl on the Train at Alley Theatre",
+   "date": "2026-08-05",
+   "venue": "Alley Theatre",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/the-girl-on-the-train-at-alley-theatre-14/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "52nd Annual Houston Shakespeare Festival: The Comedy of Errors at Miller Outdoor",
+   "date": "2026-08-06",
+   "venue": "Miller Outdoor Theatre",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/52nd-annual-houston-shakespeare-festival-the-comedy-of-errors-at-miller-outdoor-theatre-3/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Big3 at Toyota Center",
+   "date": "2026-08-06",
+   "venue": "Toyota Center",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/big3-at-toyota-center-2/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Comedian Affion Crockett at Houston Improv",
+   "date": "2026-08-06",
+   "venue": "Houston Improv",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/comedian-affion-crockett-at-houston-improv-2026-1/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "The Girl on the Train at Alley Theatre",
+   "date": "2026-08-06",
+   "venue": "Alley Theatre",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/the-girl-on-the-train-at-alley-theatre-15/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "52nd Annual Houston Shakespeare Festival: The Tempest at Miller Outdoor Theatre",
+   "date": "2026-08-07",
+   "venue": "Miller Outdoor Theatre",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/52nd-annual-houston-shakespeare-festival-the-tempest-at-miller-outdoor-theatre-5/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Comedian Affion Crockett at Houston Improv",
+   "date": "2026-08-07",
+   "venue": "Houston Improv",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/comedian-affion-crockett-at-houston-improv-2026-2/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "DroneArt Show: Harry Potter at Constellation Field",
+   "date": "2026-08-07",
+   "venue": "Constellation Field",
+   "town": "Sugar Land",
+   "url": "https://365thingsinhouston.com/calendar/droneart-show-harry-potter-at-constellation-field-1/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "The Girl on the Train at Alley Theatre",
+   "date": "2026-08-07",
+   "venue": "Alley Theatre",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/the-girl-on-the-train-at-alley-theatre-16/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Kids Events in Houston in August 2026 Worth Planning For",
+   "date": "2026-08-07",
+   "venue": "",
+   "town": "",
+   "url": "https://www.houstononthecheap.com/kids-events-in-houston-in-august-2026/",
+   "source": "Houston on the Cheap"
+  },
+  {
+   "name": "Your Guide to the Best August 2026 Events in Houston for Adults",
+   "date": "2026-08-07",
+   "venue": "",
+   "town": "",
+   "url": "https://www.houstononthecheap.com/august-2026-events-in-houston-for-adults/",
+   "source": "Houston on the Cheap"
+  },
+  {
+   "name": "52nd Annual Houston Shakespeare Festival: The Comedy of Errors at Miller Outdoor",
+   "date": "2026-08-08",
+   "venue": "Miller Outdoor Theatre",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/52nd-annual-houston-shakespeare-festival-the-comedy-of-errors-at-miller-outdoor-theatre-4/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Comedian Affion Crockett at Houston Improv",
+   "date": "2026-08-08",
+   "venue": "Houston Improv",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/comedian-affion-crockett-at-houston-improv-2026-4/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "DroneArt Show: Harry Potter at Constellation Field",
+   "date": "2026-08-08",
+   "venue": "Constellation Field",
+   "town": "Sugar Land",
+   "url": "https://365thingsinhouston.com/calendar/droneart-show-harry-potter-at-constellation-field-2/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "The Girl on the Train at Alley Theatre",
+   "date": "2026-08-08",
+   "venue": "Alley Theatre",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/the-girl-on-the-train-at-alley-theatre-17/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "The Guess Who in Concert at Smart Financial Centre",
+   "date": "2026-08-08",
+   "venue": "Smart Financial Centre at Sugar Land",
+   "town": "Sugar Land",
+   "url": "https://365thingsinhouston.com/calendar/the-guess-who-in-concert-at-smart-financial-centre/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "The Murder Mystery Co’s Dinner Theater Show at Saltgrass Steak House",
+   "date": "2026-08-08",
+   "venue": "Saltgrass Steak House",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/the-murder-mystery-cos-dinner-theater-show-at-saltgrass-steak-house-august-2026/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Comedian Affion Crockett at Houston Improv",
+   "date": "2026-08-09",
+   "venue": "Houston Improv",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/comedian-affion-crockett-at-houston-improv-2026-6/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "The Girl on the Train at Alley Theatre",
+   "date": "2026-08-09",
+   "venue": "Alley Theatre",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/the-girl-on-the-train-at-alley-theatre-19/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Keith Karnaky Jazz Group at Archway Gallery",
+   "date": "2026-08-09",
+   "venue": "Archway Gallery",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/road-trips-opening-reception-at-archway-gallery-august-2026/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Derek Hough in Symphony of Dance: Encore at Smart Financial Centre",
+   "date": "2026-08-10",
+   "venue": "Smart Financial Centre at Sugar Land",
+   "town": "Sugar Land",
+   "url": "https://365thingsinhouston.com/calendar/derek-hough-in-symphony-of-dance-encore-at-smart-financial-centre/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "The Girl on the Train at Alley Theatre",
+   "date": "2026-08-11",
+   "venue": "Alley Theatre",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/the-girl-on-the-train-at-alley-theatre-21/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "The Girl on the Train at Alley Theatre",
+   "date": "2026-08-12",
+   "venue": "Alley Theatre",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/the-girl-on-the-train-at-alley-theatre-22/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "The Girl on the Train at Alley Theatre",
+   "date": "2026-08-13",
+   "venue": "Alley Theatre",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/the-girl-on-the-train-at-alley-theatre-23/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "The Conjurer: An Intimate Magical Experience with Master Magician Curt Miller in",
+   "date": "2026-08-14",
+   "venue": "South Shore Harbour Resort & Conference Center",
+   "town": "League City",
+   "url": "https://365thingsinhouston.com/calendar/the-conjurer-an-intimate-magical-experience-with-master-magician-curt-miller-in-league-city-2026-1/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "The Girl on the Train at Alley Theatre",
+   "date": "2026-08-14",
+   "venue": "Alley Theatre",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/the-girl-on-the-train-at-alley-theatre-24/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "The H-Town Disco Show at Miller Outdoor Theatre",
+   "date": "2026-08-14",
+   "venue": "Miller Outdoor Theatre",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/the-h-town-disco-show-at-miller-outdoor-theatre/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Ricardo Montaner in Concert at Smart Financial Centre",
+   "date": "2026-08-14",
+   "venue": "Smart Financial Centre at Sugar Land",
+   "town": "Sugar Land",
+   "url": "https://365thingsinhouston.com/calendar/ricardo-montaner-in-concert-at-smart-financial-centre/",
+   "source": "365 Things in Houston"
+  }
+ ]
+}

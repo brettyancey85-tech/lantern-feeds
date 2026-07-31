@@ -1,0 +1,34 @@
+{
+ "schema": "lantern-events/v1",
+ "region": "chesterfield-mo",
+ "generated_at": "2026-07-31T23:10:22Z",
+ "events": [
+  {
+   "name": "Friday, Jul 31",
+   "date": "2026-07-31",
+   "venue": "",
+   "town": "",
+   "url": "https://saintlouis.kidsoutandabout.com/event-list/2026-07-31",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "History Clubhouse",
+   "date": "2026-07-31",
+   "venue": "",
+   "town": "",
+   "url": "https://rebrand.ly/history-clubhouse",
+   "source": "STL Parent",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "visit the Museum’s website.",
+   "date": "2026-07-31",
+   "venue": "",
+   "town": "",
+   "url": "https://rebrand.ly/Summer-Family_Fun",
+   "source": "STL Parent",
+   "extraction": "heuristic"
+  }
+ ]
+}

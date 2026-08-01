@@ -1,7 +1,7 @@
 {
  "schema": "lantern-events/v1",
  "region": "katy-tx",
- "generated_at": "2026-07-31T23:10:22Z",
+ "generated_at": "2026-08-01T02:03:38Z",
  "events": [
   {
    "name": "52nd Annual Houston Shakespeare Festival: The Comedy of Errors at Miller Outdoor",
@@ -26,15 +26,6 @@
    "town": "Sugar Land",
    "url": "https://365thingsinhouston.com/calendar/the-conjurer-an-intimate-magical-experience-with-master-magician-curt-miller-in-sugar-land-2026-1-2/",
    "source": "365 Things in Houston"
-  },
-  {
-   "name": "Friday, Jul 31",
-   "date": "2026-07-31",
-   "venue": "",
-   "town": "",
-   "url": "https://houston.kidsoutandabout.com/event-list/2026-07-31",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
   },
   {
    "name": "Fun, Free & Cheap Events | July 31 – August 2",

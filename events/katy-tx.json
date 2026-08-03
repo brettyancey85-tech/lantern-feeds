@@ -1,136 +1,8 @@
 {
  "schema": "lantern-events/v1",
  "region": "katy-tx",
- "generated_at": "2026-08-01T02:08:55Z",
+ "generated_at": "2026-08-03T13:19:36Z",
  "events": [
-  {
-   "name": "52nd Annual Houston Shakespeare Festival: The Comedy of Errors at Miller Outdoor",
-   "date": "2026-07-31",
-   "venue": "Miller Outdoor Theatre",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/52nd-annual-houston-shakespeare-festival-the-comedy-of-errors-at-miller-outdoor-theatre-1/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Catastrophic Theatre: Tamarie’s Greatest Hits, Volume 3 at MATCH",
-   "date": "2026-07-31",
-   "venue": "MATCH: Midtown Arts & Theater Center Houston",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/the-catastrophic-theatre-tamaries-greatest-hits-volume-3-at-match-22/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "The Conjurer: An Intimate Magical Experience with Master Magician Curt Miller in",
-   "date": "2026-07-31",
-   "venue": "Houston Marriott Sugar Land",
-   "town": "Sugar Land",
-   "url": "https://365thingsinhouston.com/calendar/the-conjurer-an-intimate-magical-experience-with-master-magician-curt-miller-in-sugar-land-2026-1-2/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Fun, Free & Cheap Events | July 31 – August 2",
-   "date": "2026-07-31",
-   "venue": "",
-   "town": "",
-   "url": "https://www.houstononthecheap.com/top-events-in-houston-july-31-august-2-2026/",
-   "source": "Houston on the Cheap"
-  },
-  {
-   "name": "The Girl on the Train at Alley Theatre",
-   "date": "2026-07-31",
-   "venue": "Alley Theatre",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/the-girl-on-the-train-at-alley-theatre-8/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "4th Annual White Linen Market at M-K-T",
-   "date": "2026-08-01",
-   "venue": "M-K-T",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/4th-annual-white-linen-market-at-m-k-t/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "52nd Annual Houston Shakespeare Festival: The Tempest at Miller Outdoor Theatre",
-   "date": "2026-08-01",
-   "venue": "Miller Outdoor Theatre",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/52nd-annual-houston-shakespeare-festival-the-tempest-at-miller-outdoor-theatre-2/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Bun B Presents Been Ridin’ Dirty at Smart Financial Centre",
-   "date": "2026-08-01",
-   "venue": "Smart Financial Centre at Sugar Land",
-   "town": "Sugar Land",
-   "url": "https://365thingsinhouston.com/calendar/bun-b-presents-been-ridin-dirty-at-smart-financial-centre/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Catastrophic Theatre: Tamarie’s Greatest Hits, Volume 3 at MATCH",
-   "date": "2026-08-01",
-   "venue": "MATCH: Midtown Arts & Theater Center Houston",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/the-catastrophic-theatre-tamaries-greatest-hits-volume-3-at-match-23/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "The Conjurer: An Intimate Magical Experience with Master Magician Curt Miller in",
-   "date": "2026-08-01",
-   "venue": "Houston Marriott Sugar Land",
-   "town": "Sugar Land",
-   "url": "https://365thingsinhouston.com/calendar/the-conjurer-an-intimate-magical-experience-with-master-magician-curt-miller-in-sugar-land-2026-2/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Garbage Girlfriend Album Release Show at House of Blues",
-   "date": "2026-08-01",
-   "venue": "House of Blues Houston",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/garbage-girlfriend-album-release-show-in-the-bronze-peacock-room-at-house-of-blues/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "The Girl on the Train at Alley Theatre",
-   "date": "2026-08-01",
-   "venue": "Alley Theatre",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/the-girl-on-the-train-at-alley-theatre-9/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Hot Wheels Monster Trucks Live: Glow-N-Fire at Toyota Center",
-   "date": "2026-08-01",
-   "venue": "Toyota Center",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/hot-wheels-monster-trucks-live-glow-n-fire-at-toyota-center-2026-1/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Road Trips Opening Reception at Archway Gallery",
-   "date": "2026-08-01",
-   "venue": "Archway Gallery",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/road-trips-opening-reception-at-archway-gallery/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "The Girl on the Train at Alley Theatre",
-   "date": "2026-08-02",
-   "venue": "Alley Theatre",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/the-girl-on-the-train-at-alley-theatre-11/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Hot Wheels Monster Trucks Live: Glow-N-Fire at Toyota Center",
-   "date": "2026-08-02",
-   "venue": "Toyota Center",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/hot-wheels-monster-trucks-live-glow-n-fire-at-toyota-center-2/",
-   "source": "365 Things in Houston"
-  },
   {
    "name": "52nd Annual Houston Shakespeare Festival: The Tempest at Miller Outdoor Theatre",
    "date": "2026-08-03",
@@ -138,6 +10,95 @@
    "town": "Houston",
    "url": "https://365thingsinhouston.com/calendar/52nd-annual-houston-shakespeare-festival-the-tempest-at-miller-outdoor-theatre-3/",
    "source": "365 Things in Houston"
+  },
+  {
+   "name": "Animal Tales",
+   "date": "2026-08-03",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/animal-tales-7/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "BotaniCamp – Plant STEM",
+   "date": "2026-08-03",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/botanicamp-plant-stem/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Clickbait – A digital obsession",
+   "date": "2026-08-03",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/clickbait-a-digital-obsession/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Houston Highlights: August 3 to August 6 – Food, Music, Arts & More",
+   "date": "2026-08-03",
+   "venue": "",
+   "town": "",
+   "url": "https://www.houstononthecheap.com/houston-picks-august-3-to-august-6-2026/",
+   "source": "Houston on the Cheap"
+  },
+  {
+   "name": "King Tut’s Tomb Discovery Experience",
+   "date": "2026-08-03",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/king-tuts-tomb-discovery-experience/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "The Moonwalkers: A Journey with Tom Hanks",
+   "date": "2026-08-03",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/the-moonwalkers-a-journey-with-tom-hanks-4/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "StoryTime with Ms. Maria",
+   "date": "2026-08-03",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/storytime-with-ms-maria-10/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "TXU Energy presents Mythical Realms",
+   "date": "2026-08-03",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/txu-energy-presents-mythical-realms/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "View Details",
+   "date": "2026-08-03",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/king-tuts-tomb-discovery-experience/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Zoo Mythical Realms",
+   "date": "2026-08-03",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events-calendar/?event_category=40537",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
   },
   {
    "name": "52nd Annual Houston Shakespeare Festival: The Comedy of Errors at Miller Outdoor",
@@ -252,28 +213,20 @@
    "source": "365 Things in Houston"
   },
   {
+   "name": "Fun, Free & Cheap Events | August 7 – August 9",
+   "date": "2026-08-07",
+   "venue": "",
+   "town": "",
+   "url": "https://www.houstononthecheap.com/top-events-in-houston-august-7-august-9-2026/",
+   "source": "Houston on the Cheap"
+  },
+  {
    "name": "The Girl on the Train at Alley Theatre",
    "date": "2026-08-07",
    "venue": "Alley Theatre",
    "town": "Houston",
    "url": "https://365thingsinhouston.com/calendar/the-girl-on-the-train-at-alley-theatre-16/",
    "source": "365 Things in Houston"
-  },
-  {
-   "name": "Kids Events in Houston in August 2026 Worth Planning For",
-   "date": "2026-08-07",
-   "venue": "",
-   "town": "",
-   "url": "https://www.houstononthecheap.com/kids-events-in-houston-in-august-2026/",
-   "source": "Houston on the Cheap"
-  },
-  {
-   "name": "Your Guide to the Best August 2026 Events in Houston for Adults",
-   "date": "2026-08-07",
-   "venue": "",
-   "town": "",
-   "url": "https://www.houstononthecheap.com/august-2026-events-in-houston-for-adults/",
-   "source": "Houston on the Cheap"
   },
   {
    "name": "52nd Annual Houston Shakespeare Festival: The Comedy of Errors at Miller Outdoor",
@@ -409,6 +362,46 @@
    "venue": "Smart Financial Centre at Sugar Land",
    "town": "Sugar Land",
    "url": "https://365thingsinhouston.com/calendar/ricardo-montaner-in-concert-at-smart-financial-centre/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "6th Annual Miller Summer Mixtape at Miller Outdoor Theatre",
+   "date": "2026-08-15",
+   "venue": "Miller Outdoor Theatre",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/miller-summer-mixtape-at-miller-outdoor-theatre-2026/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "The Conjurer: An Intimate Magical Experience with Master Magician Curt Miller in",
+   "date": "2026-08-15",
+   "venue": "South Shore Harbour Resort & Conference Center",
+   "town": "League City",
+   "url": "https://365thingsinhouston.com/calendar/the-conjurer-an-intimate-magical-experience-with-master-magician-curt-miller-in-league-city-2026-2/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "The Girl on the Train at Alley Theatre",
+   "date": "2026-08-15",
+   "venue": "Alley Theatre",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/the-girl-on-the-train-at-alley-theatre-25/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "The Girl on the Train at Alley Theatre",
+   "date": "2026-08-16",
+   "venue": "Alley Theatre",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/the-girl-on-the-train-at-alley-theatre-27/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Spiritual Resolve for Fearless Living at Eternal Gandhi Museum Houston",
+   "date": "2026-08-16",
+   "venue": "Eternal Gandhi Museum Houston",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/spiritual-resolve-for-fearless-living-at-eternal-gandhi-museum-houston/",
    "source": "365 Things in Houston"
   }
  ]

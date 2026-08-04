@@ -1,7 +1,7 @@
 {
  "schema": "lantern-events/v1",
  "region": "west-alabama",
- "generated_at": "2026-08-03T13:19:36Z",
+ "generated_at": "2026-08-04T05:45:30Z",
  "events": [
   {
    "name": "Art Show at Rojo for Dan Bynum",
@@ -1140,6 +1140,14 @@
    "source": "Birmingham Mom Collective"
   },
   {
+   "name": "Alabama Rum Fest",
+   "date": "2026-08-09",
+   "venue": "WorkPlay",
+   "town": "Birmingham",
+   "url": "https://bhamnow.com/bhamn-event/alabama-rum-fest/",
+   "source": "Bham Now"
+  },
+  {
    "name": "Art Show at Rojo for Dan Bynum",
    "date": "2026-08-09",
    "venue": "Rojo",
@@ -1193,6 +1201,14 @@
    "venue": "",
    "town": "",
    "url": "https://bhamnow.com/bhamn-event/kidz-bop-live-the-concert-movie-birmingham/2026-08-09/",
+   "source": "Bham Now"
+  },
+  {
+   "name": "Music by Not Yeti at Rojo",
+   "date": "2026-08-09",
+   "venue": "Rojo",
+   "town": "Birmingham",
+   "url": "https://bhamnow.com/bhamn-event/music-by-not-yeti-at-rojo/",
    "source": "Bham Now"
   },
   {
@@ -2188,6 +2204,14 @@
    "source": "Bham Now"
   },
   {
+   "name": "Beginner’s Guide to Sourdough",
+   "date": "2026-08-15",
+   "venue": "University Pickers – Huntsville",
+   "town": "Huntsville",
+   "url": "https://bhamnow.com/bhamn-event/beginners-guide-to-sourdough/",
+   "source": "Bham Now"
+  },
+  {
    "name": "Bike Night",
    "date": "2026-08-15",
    "venue": "Heart of Dixie Harley-Davidson",
@@ -2313,6 +2337,14 @@
    "venue": "Vulcan Park and Museum",
    "town": "Birmingham",
    "url": "https://bhamnow.com/bhamn-event/revolutionary-roots-celebrating-alabamas-unique-history-and-natural-beauty/2026-08-15/",
+   "source": "Bham Now"
+  },
+  {
+   "name": "Rocket City JunkFest",
+   "date": "2026-08-15",
+   "venue": "University Pickers – Huntsville",
+   "town": "Huntsville",
+   "url": "https://bhamnow.com/bhamn-event/rocket-city-junkfest-3/",
    "source": "Bham Now"
   },
   {
@@ -2553,14 +2585,6 @@
    "venue": "",
    "town": "",
    "url": "https://bhamnow.com/bhamn-event/dino-safari-march-4-to-november-1-166/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Dirty Rotten Scoundrels at Leeds Arts Council",
-   "date": "2026-08-17",
-   "venue": "Leeds Arts Council",
-   "town": "Leeds",
-   "url": "https://bhamnow.com/bhamn-event/dirty-rotten-scoundrels-at-leeds-arts-council/2026-08-17/",
    "source": "Bham Now"
   },
   {

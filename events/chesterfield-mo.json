@@ -1,15 +1,159 @@
 {
  "schema": "lantern-events/v1",
  "region": "chesterfield-mo",
- "generated_at": "2026-08-01T02:08:55Z",
+ "generated_at": "2026-08-04T05:45:30Z",
  "events": [
   {
-   "name": "History Clubhouse",
-   "date": "2026-07-31",
+   "name": "Celebrate Summerween!",
+   "date": "2026-08-02",
    "venue": "",
    "town": "",
-   "url": "https://rebrand.ly/history-clubhouse",
-   "source": "STL Parent",
+   "url": "https://saintlouis.kidsoutandabout.com/content/celebrate-summerween",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Free summer mini photo session with Shoott! - St. Louis",
+   "date": "2026-08-02",
+   "venue": "",
+   "town": "",
+   "url": "https://saintlouis.kidsoutandabout.com/content/free-summer-mini-photo-session-shoott-st-louis",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Galleria Summer Series",
+   "date": "2026-08-02",
+   "venue": "",
+   "town": "",
+   "url": "https://saintlouis.kidsoutandabout.com/content/galleria-summer-series-1",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "The Little Mermaid",
+   "date": "2026-08-02",
+   "venue": "",
+   "town": "",
+   "url": "https://saintlouis.kidsoutandabout.com/content/little-mermaid-31",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Patterns in Nature: The Art of Hybycozo",
+   "date": "2026-08-02",
+   "venue": "",
+   "town": "",
+   "url": "https://saintlouis.kidsoutandabout.com/content/patterns-nature-art-hybycozo",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Shark Week",
+   "date": "2026-08-02",
+   "venue": "",
+   "town": "",
+   "url": "https://saintlouis.kidsoutandabout.com/content/shark-week-6",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Stars, Stripes, & Strides: 250 Mile Challenge",
+   "date": "2026-08-02",
+   "venue": "",
+   "town": "",
+   "url": "https://saintlouis.kidsoutandabout.com/content/stars-stripes-strides-250-mile-challenge",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Summer Passes @ Edison's",
+   "date": "2026-08-02",
+   "venue": "",
+   "town": "",
+   "url": "https://saintlouis.kidsoutandabout.com/content/summer-passes-edisons",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Taking Wing: A Flight Show",
+   "date": "2026-08-02",
+   "venue": "",
+   "town": "",
+   "url": "https://saintlouis.kidsoutandabout.com/content/taking-wing-flight-show",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Thomas & Friends™: Explore the Rails!",
+   "date": "2026-08-02",
+   "venue": "",
+   "town": "",
+   "url": "https://saintlouis.kidsoutandabout.com/content/thomas-friends%E2%84%A2-explore-rails",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Open Play",
+   "date": "2026-08-03",
+   "venue": "",
+   "town": "",
+   "url": "https://saintlouis.kidsoutandabout.com/content/open-play",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Open Play at Your Village",
+   "date": "2026-08-03",
+   "venue": "",
+   "town": "",
+   "url": "https://saintlouis.kidsoutandabout.com/content/open-play-your-village",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Open Gym - Come play at Miss Kelly's Gym!",
+   "date": "2026-08-05",
+   "venue": "",
+   "town": "",
+   "url": "https://saintlouis.kidsoutandabout.com/content/open-gym-come-play-miss-kellys-gym",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Children’s Performance Series- Tower Grove Park",
+   "date": "2026-08-07",
+   "venue": "",
+   "town": "",
+   "url": "https://saintlouis.kidsoutandabout.com/content/children%E2%80%99s-performance-series-tower-grove-park",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Family Nights at Raging Rivers",
+   "date": "2026-08-07",
+   "venue": "",
+   "town": "",
+   "url": "https://saintlouis.kidsoutandabout.com/content/family-nights-raging-rivers",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Peanut Butter & Jam Festival",
+   "date": "2026-08-07",
+   "venue": "",
+   "town": "",
+   "url": "https://saintlouis.kidsoutandabout.com/content/peanut-butter-jam-festival-1",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Summer Nights (Live Band and Drone Show)",
+   "date": "2026-08-07",
+   "venue": "",
+   "town": "",
+   "url": "https://saintlouis.kidsoutandabout.com/content/summer-nights-live-band-and-drone-show-0",
+   "source": "Kids Out and About STL",
    "extraction": "heuristic"
   }
  ]

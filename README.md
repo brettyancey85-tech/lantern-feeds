@@ -29,3 +29,7 @@ schema string):
 
 The Life Lantern server fetches these files read-only over plain HTTPS
 (raw.githubusercontent.com). No secrets, no auth, no cookies.
+
+- `northshore` currently has no consumer — Life Lantern's v1 keeps ParentMap for
+  that region instead — but publishing stays on to keep the option of swapping
+  later open.

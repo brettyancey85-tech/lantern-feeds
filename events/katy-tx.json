@@ -1,131 +1,15 @@
 {
  "schema": "lantern-events/v1",
  "region": "katy-tx",
- "generated_at": "2026-08-04T05:45:30Z",
+ "generated_at": "2026-08-05T06:39:14Z",
  "events": [
   {
-   "name": "Abilities Expo",
-   "date": "2026-08-02",
-   "venue": "",
-   "town": "",
-   "url": "https://houston.kidsoutandabout.com/content/abilities-expo-2",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Bath Bomb Making Weekend At Funtastik Labs",
-   "date": "2026-08-02",
-   "venue": "",
-   "town": "",
-   "url": "https://houston.kidsoutandabout.com/content/bath-bomb-making-weekend-funtastik-labs",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
    "name": "Clickbait",
-   "date": "2026-08-02",
+   "date": "2026-08-03",
    "venue": "",
    "town": "",
    "url": "https://houston.kidsoutandabout.com/content/clickbait",
    "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Free summer mini photo session with Shoott! - Greater Houston",
-   "date": "2026-08-02",
-   "venue": "",
-   "town": "",
-   "url": "https://houston.kidsoutandabout.com/content/free-summer-mini-photo-session-shoott-greater-houston",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Houston Astros Home Game",
-   "date": "2026-08-02",
-   "venue": "",
-   "town": "",
-   "url": "https://houston.kidsoutandabout.com/content/houston-astros-home-game-0",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "National Youth Theater presents Newsies",
-   "date": "2026-08-02",
-   "venue": "",
-   "town": "",
-   "url": "https://houston.kidsoutandabout.com/content/national-youth-theater-presents-newsies-0",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Seussical",
-   "date": "2026-08-02",
-   "venue": "",
-   "town": "",
-   "url": "https://houston.kidsoutandabout.com/content/seussical-4",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Stuff the Bus at Epic Waters!",
-   "date": "2026-08-02",
-   "venue": "",
-   "town": "",
-   "url": "https://houston.kidsoutandabout.com/content/stuff-bus-epic-waters",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Sugar Land Space Cowboys Home Game",
-   "date": "2026-08-02",
-   "venue": "",
-   "town": "",
-   "url": "https://houston.kidsoutandabout.com/content/sugar-land-space-cowboys-home-game-0",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Texas America250 Reading Challenge",
-   "date": "2026-08-02",
-   "venue": "",
-   "town": "",
-   "url": "https://houston.kidsoutandabout.com/content/texas-america250-reading-challenge",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "TXU Energy presents Mythical Realms",
-   "date": "2026-08-02",
-   "venue": "",
-   "town": "",
-   "url": "https://houston.kidsoutandabout.com/content/txu-energy-presents-mythical-realms",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "52nd Annual Houston Shakespeare Festival: The Tempest at Miller Outdoor Theatre",
-   "date": "2026-08-03",
-   "venue": "Miller Outdoor Theatre",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/52nd-annual-houston-shakespeare-festival-the-tempest-at-miller-outdoor-theatre-3/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Animal Tales",
-   "date": "2026-08-03",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/animal-tales-6/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "BotaniCamp – Plant STEM",
-   "date": "2026-08-03",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/botanicamp-plant-stem/",
-   "source": "Houston Family Magazine",
    "extraction": "heuristic"
   },
   {
@@ -147,12 +31,30 @@
    "extraction": "heuristic"
   },
   {
+   "name": "Houston Astros Home Game",
+   "date": "2026-08-03",
+   "venue": "",
+   "town": "",
+   "url": "https://houston.kidsoutandabout.com/content/houston-astros-home-game-0",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
    "name": "Houston Highlights: August 3 to August 6 – Food, Music, Arts & More",
    "date": "2026-08-03",
    "venue": "",
    "town": "",
    "url": "https://www.houstononthecheap.com/houston-picks-august-3-to-august-6-2026/",
    "source": "Houston on the Cheap"
+  },
+  {
+   "name": "Stuff the Bus at Epic Waters!",
+   "date": "2026-08-03",
+   "venue": "",
+   "town": "",
+   "url": "https://houston.kidsoutandabout.com/content/stuff-bus-epic-waters",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
   },
   {
    "name": "SUMMER MOOD: AN EXHIBITION OF FLOWERS AND ART",
@@ -164,11 +66,29 @@
    "extraction": "heuristic"
   },
   {
+   "name": "Texas America250 Reading Challenge",
+   "date": "2026-08-03",
+   "venue": "",
+   "town": "",
+   "url": "https://houston.kidsoutandabout.com/content/texas-america250-reading-challenge",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "TXU Energy presents Mythical Realms",
+   "date": "2026-08-03",
+   "venue": "",
+   "town": "",
+   "url": "https://houston.kidsoutandabout.com/content/txu-energy-presents-mythical-realms",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
    "name": "View Details",
    "date": "2026-08-03",
    "venue": "",
    "town": "",
-   "url": "https://houstonfamilymagazine.com/events/botanicamp-plant-stem/",
+   "url": "https://houstonfamilymagazine.com/events/goats-at-the-arboretum/",
    "source": "Houston Family Magazine",
    "extraction": "heuristic"
   },
@@ -179,24 +99,6 @@
    "town": "Houston",
    "url": "https://365thingsinhouston.com/calendar/52nd-annual-houston-shakespeare-festival-the-comedy-of-errors-at-miller-outdoor-theatre-2/",
    "source": "365 Things in Houston"
-  },
-  {
-   "name": "Animal Tales",
-   "date": "2026-08-04",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/animal-tales-7/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Clickbait – A digital obsession",
-   "date": "2026-08-04",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/clickbait-a-digital-obsession/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
   },
   {
    "name": "Comedy of Errors",
@@ -224,24 +126,6 @@
    "source": "365 Things in Houston"
   },
   {
-   "name": "King Tut’s Tomb Discovery Experience",
-   "date": "2026-08-04",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/king-tuts-tomb-discovery-experience/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "The Moonwalkers: A Journey with Tom Hanks",
-   "date": "2026-08-04",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/the-moonwalkers-a-journey-with-tom-hanks-4/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
    "name": "Strength And Conditioning Classes",
    "date": "2026-08-04",
    "venue": "",
@@ -260,39 +144,30 @@
    "extraction": "heuristic"
   },
   {
-   "name": "TXU Energy presents Mythical Realms",
-   "date": "2026-08-04",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/txu-energy-presents-mythical-realms/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "View Details",
-   "date": "2026-08-04",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/king-tuts-tomb-discovery-experience/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Zoo Mythical Realms",
-   "date": "2026-08-04",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events-calendar/?event_category=40537",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
    "name": "52nd Annual Houston Shakespeare Festival: The Tempest at Miller Outdoor Theatre",
    "date": "2026-08-05",
    "venue": "Miller Outdoor Theatre",
    "town": "Houston",
    "url": "https://365thingsinhouston.com/calendar/52nd-annual-houston-shakespeare-festival-the-tempest-at-miller-outdoor-theatre-4/",
    "source": "365 Things in Houston"
+  },
+  {
+   "name": "Blossom Brigade",
+   "date": "2026-08-05",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/blossom-brigade-20/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Clickbait – A digital obsession",
+   "date": "2026-08-05",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/clickbait-a-digital-obsession/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
   },
   {
    "name": "Dream Retirement: Make Your Money Last Strategy Evening in Kingwood",
@@ -317,6 +192,69 @@
    "town": "Houston",
    "url": "https://365thingsinhouston.com/calendar/the-girl-on-the-train-at-alley-theatre-14/",
    "source": "365 Things in Houston"
+  },
+  {
+   "name": "King Tut’s Tomb Discovery Experience",
+   "date": "2026-08-05",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/king-tuts-tomb-discovery-experience/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "The Moonwalkers: A Journey with Tom Hanks",
+   "date": "2026-08-05",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/the-moonwalkers-a-journey-with-tom-hanks-4/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "StoryTime with Ms. Maria",
+   "date": "2026-08-05",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/storytime-with-ms-maria-10/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "TXU Energy presents Mythical Realms",
+   "date": "2026-08-05",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/txu-energy-presents-mythical-realms/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "View Details",
+   "date": "2026-08-05",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/king-tuts-tomb-discovery-experience/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Yoga on the Green",
+   "date": "2026-08-05",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/yoga-on-the-green-16/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Zoo Mythical Realms",
+   "date": "2026-08-05",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events-calendar/?event_category=40537",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
   },
   {
    "name": "52nd Annual Houston Shakespeare Festival: The Comedy of Errors at Miller Outdoor",
@@ -376,6 +314,15 @@
    "extraction": "heuristic"
   },
   {
+   "name": "Bath Bomb Making Weekend At Funtastik Labs",
+   "date": "2026-08-07",
+   "venue": "",
+   "town": "",
+   "url": "https://houston.kidsoutandabout.com/content/bath-bomb-making-weekend-funtastik-labs",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
    "name": "Comedian Affion Crockett at Houston Improv",
    "date": "2026-08-07",
    "venue": "Houston Improv",
@@ -414,6 +361,24 @@
    "town": "",
    "url": "https://www.houstononthecheap.com/kids-events-in-houston-in-august-2026/",
    "source": "Houston on the Cheap"
+  },
+  {
+   "name": "National Youth Theater presents Newsies",
+   "date": "2026-08-07",
+   "venue": "",
+   "town": "",
+   "url": "https://houston.kidsoutandabout.com/content/national-youth-theater-presents-newsies-0",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Seussical",
+   "date": "2026-08-07",
+   "venue": "",
+   "town": "",
+   "url": "https://houston.kidsoutandabout.com/content/seussical-4",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
   },
   {
    "name": "Storytime on The Terrace",
@@ -463,6 +428,15 @@
    "town": "Sugar Land",
    "url": "https://365thingsinhouston.com/calendar/droneart-show-harry-potter-at-constellation-field-2/",
    "source": "365 Things in Houston"
+  },
+  {
+   "name": "Free summer mini photo session with Shoott! - Greater Houston",
+   "date": "2026-08-08",
+   "venue": "",
+   "town": "",
+   "url": "https://houston.kidsoutandabout.com/content/free-summer-mini-photo-session-shoott-greater-houston",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
   },
   {
    "name": "The Girl on the Train at Alley Theatre",
@@ -615,6 +589,23 @@
    "town": "Houston",
    "url": "https://365thingsinhouston.com/calendar/spiritual-resolve-for-fearless-living-at-eternal-gandhi-museum-houston/",
    "source": "365 Things in Houston"
+  },
+  {
+   "name": "The Girl on the Train at Alley Theatre",
+   "date": "2026-08-18",
+   "venue": "Alley Theatre",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/the-girl-on-the-train-at-alley-theatre-29/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Sugar Land Space Cowboys Home Game",
+   "date": "2026-08-18",
+   "venue": "",
+   "town": "",
+   "url": "https://houston.kidsoutandabout.com/content/sugar-land-space-cowboys-home-game-0",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
   }
  ]
 }

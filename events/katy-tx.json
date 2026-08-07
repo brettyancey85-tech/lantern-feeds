@@ -1,11 +1,11 @@
 {
  "schema": "lantern-events/v1",
  "region": "katy-tx",
- "generated_at": "2026-08-05T06:39:14Z",
+ "generated_at": "2026-08-07T13:19:39Z",
  "events": [
   {
    "name": "Clickbait",
-   "date": "2026-08-03",
+   "date": "2026-08-06",
    "venue": "",
    "town": "",
    "url": "https://houston.kidsoutandabout.com/content/clickbait",
@@ -13,17 +13,17 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Goats at the Arboretum",
-   "date": "2026-08-03",
+   "name": "Comedy of Errors",
+   "date": "2026-08-06",
    "venue": "",
    "town": "",
-   "url": "https://houstonfamilymagazine.com/events/goats-at-the-arboretum/",
-   "source": "Houston Family Magazine",
+   "url": "https://houston.kidsoutandabout.com/content/comedy-errors-3",
+   "source": "Kids Out and About Houston",
    "extraction": "heuristic"
   },
   {
    "name": "HOMELAND AND ROADS",
-   "date": "2026-08-03",
+   "date": "2026-08-06",
    "venue": "",
    "town": "",
    "url": "https://houston.kidsoutandabout.com/content/homeland-and-roads-0",
@@ -31,25 +31,8 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Houston Astros Home Game",
-   "date": "2026-08-03",
-   "venue": "",
-   "town": "",
-   "url": "https://houston.kidsoutandabout.com/content/houston-astros-home-game-0",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Houston Highlights: August 3 to August 6 – Food, Music, Arts & More",
-   "date": "2026-08-03",
-   "venue": "",
-   "town": "",
-   "url": "https://www.houstononthecheap.com/houston-picks-august-3-to-august-6-2026/",
-   "source": "Houston on the Cheap"
-  },
-  {
    "name": "Stuff the Bus at Epic Waters!",
-   "date": "2026-08-03",
+   "date": "2026-08-06",
    "venue": "",
    "town": "",
    "url": "https://houston.kidsoutandabout.com/content/stuff-bus-epic-waters",
@@ -57,8 +40,17 @@
    "extraction": "heuristic"
   },
   {
+   "name": "Summer Exhibitions at the Pearl Fincher Museum of Fine Arts",
+   "date": "2026-08-06",
+   "venue": "",
+   "town": "",
+   "url": "https://houston.kidsoutandabout.com/content/summer-exhibitions-pearl-fincher-museum-fine-arts",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
    "name": "SUMMER MOOD: AN EXHIBITION OF FLOWERS AND ART",
-   "date": "2026-08-03",
+   "date": "2026-08-06",
    "venue": "",
    "town": "",
    "url": "https://houston.kidsoutandabout.com/content/summer-mood-exhibition-flowers-and-art",
@@ -67,7 +59,7 @@
   },
   {
    "name": "Texas America250 Reading Challenge",
-   "date": "2026-08-03",
+   "date": "2026-08-06",
    "venue": "",
    "town": "",
    "url": "https://houston.kidsoutandabout.com/content/texas-america250-reading-challenge",
@@ -76,225 +68,12 @@
   },
   {
    "name": "TXU Energy presents Mythical Realms",
-   "date": "2026-08-03",
+   "date": "2026-08-06",
    "venue": "",
    "town": "",
    "url": "https://houston.kidsoutandabout.com/content/txu-energy-presents-mythical-realms",
    "source": "Kids Out and About Houston",
    "extraction": "heuristic"
-  },
-  {
-   "name": "View Details",
-   "date": "2026-08-03",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/goats-at-the-arboretum/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "52nd Annual Houston Shakespeare Festival: The Comedy of Errors at Miller Outdoor",
-   "date": "2026-08-04",
-   "venue": "Miller Outdoor Theatre",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/52nd-annual-houston-shakespeare-festival-the-comedy-of-errors-at-miller-outdoor-theatre-2/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Comedy of Errors",
-   "date": "2026-08-04",
-   "venue": "",
-   "town": "",
-   "url": "https://houston.kidsoutandabout.com/content/comedy-errors-3",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Dream Retirement: Social Security Strategy Evening in Tomball",
-   "date": "2026-08-04",
-   "venue": "Hyatt Place Houston NW Vintage Park",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/dream-retirement-social-security-strategy-evening-in-tomball/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "The Girl on the Train at Alley Theatre",
-   "date": "2026-08-04",
-   "venue": "Alley Theatre",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/the-girl-on-the-train-at-alley-theatre-13/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Strength And Conditioning Classes",
-   "date": "2026-08-04",
-   "venue": "",
-   "town": "",
-   "url": "https://houston.kidsoutandabout.com/content/strength-and-conditioning-classes",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Summer Exhibitions at the Pearl Fincher Museum of Fine Arts",
-   "date": "2026-08-04",
-   "venue": "",
-   "town": "",
-   "url": "https://houston.kidsoutandabout.com/content/summer-exhibitions-pearl-fincher-museum-fine-arts",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "52nd Annual Houston Shakespeare Festival: The Tempest at Miller Outdoor Theatre",
-   "date": "2026-08-05",
-   "venue": "Miller Outdoor Theatre",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/52nd-annual-houston-shakespeare-festival-the-tempest-at-miller-outdoor-theatre-4/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Blossom Brigade",
-   "date": "2026-08-05",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/blossom-brigade-20/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Clickbait – A digital obsession",
-   "date": "2026-08-05",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/clickbait-a-digital-obsession/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Dream Retirement: Make Your Money Last Strategy Evening in Kingwood",
-   "date": "2026-08-05",
-   "venue": "Courtyard by Marriott Houston Kingwood",
-   "town": "Kingwood",
-   "url": "https://365thingsinhouston.com/calendar/dream-retirement-make-your-money-last-strategy-evening-in-kingwood/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Ella Mai in Concert at Smart Financial Centre",
-   "date": "2026-08-05",
-   "venue": "Smart Financial Centre at Sugar Land",
-   "town": "Sugar Land",
-   "url": "https://365thingsinhouston.com/calendar/ella-mai-in-concert-at-smart-financial-centre/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "The Girl on the Train at Alley Theatre",
-   "date": "2026-08-05",
-   "venue": "Alley Theatre",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/the-girl-on-the-train-at-alley-theatre-14/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "King Tut’s Tomb Discovery Experience",
-   "date": "2026-08-05",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/king-tuts-tomb-discovery-experience/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "The Moonwalkers: A Journey with Tom Hanks",
-   "date": "2026-08-05",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/the-moonwalkers-a-journey-with-tom-hanks-4/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "StoryTime with Ms. Maria",
-   "date": "2026-08-05",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/storytime-with-ms-maria-10/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "TXU Energy presents Mythical Realms",
-   "date": "2026-08-05",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/txu-energy-presents-mythical-realms/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "View Details",
-   "date": "2026-08-05",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/king-tuts-tomb-discovery-experience/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Yoga on the Green",
-   "date": "2026-08-05",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/yoga-on-the-green-16/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Zoo Mythical Realms",
-   "date": "2026-08-05",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events-calendar/?event_category=40537",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "52nd Annual Houston Shakespeare Festival: The Comedy of Errors at Miller Outdoor",
-   "date": "2026-08-06",
-   "venue": "Miller Outdoor Theatre",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/52nd-annual-houston-shakespeare-festival-the-comedy-of-errors-at-miller-outdoor-theatre-3/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Big3 at Toyota Center",
-   "date": "2026-08-06",
-   "venue": "Toyota Center",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/big3-at-toyota-center-2/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Comedian Affion Crockett at Houston Improv",
-   "date": "2026-08-06",
-   "venue": "Houston Improv",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/comedian-affion-crockett-at-houston-improv-2026-1/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Dream Retirement: Advanced Wealth Strategy Evening in the Energy Corridor",
-   "date": "2026-08-06",
-   "venue": "Hyatt Regency Houston West",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/dream-retirement-advanced-wealth-strategy-evening-in-the-energy-corridor/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "The Girl on the Train at Alley Theatre",
-   "date": "2026-08-06",
-   "venue": "Alley Theatre",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/the-girl-on-the-train-at-alley-theatre-15/",
-   "source": "365 Things in Houston"
   },
   {
    "name": "52nd Annual Houston Shakespeare Festival: The Tempest at Miller Outdoor Theatre",
@@ -303,6 +82,15 @@
    "town": "Houston",
    "url": "https://365thingsinhouston.com/calendar/52nd-annual-houston-shakespeare-festival-the-tempest-at-miller-outdoor-theatre-5/",
    "source": "365 Things in Houston"
+  },
+  {
+   "name": "Back-to-School Scavenger Hunt",
+   "date": "2026-08-07",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/back-to-school-scavenger-hunt/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
   },
   {
    "name": "BASF Kids' Labs",
@@ -320,6 +108,15 @@
    "town": "",
    "url": "https://houston.kidsoutandabout.com/content/bath-bomb-making-weekend-funtastik-labs",
    "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Clickbait – A digital obsession",
+   "date": "2026-08-07",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/clickbait-a-digital-obsession/",
+   "source": "Houston Family Magazine",
    "extraction": "heuristic"
   },
   {
@@ -363,6 +160,24 @@
    "source": "Houston on the Cheap"
   },
   {
+   "name": "King Tut’s Tomb Discovery Experience",
+   "date": "2026-08-07",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/king-tuts-tomb-discovery-experience/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "The Moonwalkers: A Journey with Tom Hanks",
+   "date": "2026-08-07",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/the-moonwalkers-a-journey-with-tom-hanks-4/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
+  },
+  {
    "name": "National Youth Theater presents Newsies",
    "date": "2026-08-07",
    "venue": "",
@@ -390,12 +205,66 @@
    "extraction": "heuristic"
   },
   {
+   "name": "StoryTime with Ms. Maria",
+   "date": "2026-08-07",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/storytime-with-ms-maria-10/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Strength And Conditioning Classes",
+   "date": "2026-08-07",
+   "venue": "",
+   "town": "",
+   "url": "https://houston.kidsoutandabout.com/content/strength-and-conditioning-classes",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Trail mix",
+   "date": "2026-08-07",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/trail-mix-28/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "TXU Energy presents Mythical Realms",
+   "date": "2026-08-07",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/txu-energy-presents-mythical-realms/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "View Details",
+   "date": "2026-08-07",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/king-tuts-tomb-discovery-experience/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
+  },
+  {
    "name": "Your Guide to the Best August 2026 Events in Houston for Adults",
    "date": "2026-08-07",
    "venue": "",
    "town": "",
    "url": "https://www.houstononthecheap.com/august-2026-events-in-houston-for-adults/",
    "source": "Houston on the Cheap"
+  },
+  {
+   "name": "Zoo Mythical Realms",
+   "date": "2026-08-07",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events-calendar/?event_category=40537",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
   },
   {
    "name": "52nd Annual Houston Shakespeare Festival: The Comedy of Errors at Miller Outdoor",
@@ -535,6 +404,15 @@
    "source": "365 Things in Houston"
   },
   {
+   "name": "Houston Astros Home Game",
+   "date": "2026-08-14",
+   "venue": "",
+   "town": "",
+   "url": "https://houston.kidsoutandabout.com/content/houston-astros-home-game-0",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
    "name": "The H-Town Disco Show at Miller Outdoor Theatre",
    "date": "2026-08-14",
    "venue": "Miller Outdoor Theatre",
@@ -606,6 +484,38 @@
    "url": "https://houston.kidsoutandabout.com/content/sugar-land-space-cowboys-home-game-0",
    "source": "Kids Out and About Houston",
    "extraction": "heuristic"
+  },
+  {
+   "name": "The Girl on the Train at Alley Theatre",
+   "date": "2026-08-19",
+   "venue": "Alley Theatre",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/the-girl-on-the-train-at-alley-theatre-30/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "The Girl on the Train at Alley Theatre",
+   "date": "2026-08-20",
+   "venue": "Alley Theatre",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/the-girl-on-the-train-at-alley-theatre-31/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "DaCamera: Jason Hainsworth & New Jazz Underground in Concert at Miller Outdoor T",
+   "date": "2026-08-21",
+   "venue": "Miller Outdoor Theatre",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/dacamera-jason-hainsworth-new-jazz-underground-in-concert-at-miller-outdoor-theatre/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "The Girl on the Train at Alley Theatre",
+   "date": "2026-08-21",
+   "venue": "Alley Theatre",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/the-girl-on-the-train-at-alley-theatre-32/",
+   "source": "365 Things in Houston"
   }
  ]
 }

@@ -1,29 +1,11 @@
 {
  "schema": "lantern-events/v1",
  "region": "chesterfield-mo",
- "generated_at": "2026-08-09T19:45:12Z",
+ "generated_at": "2026-08-10T17:23:56Z",
  "events": [
   {
-   "name": "The Addams Family Musical: Young@Part®",
-   "date": "2026-08-08",
-   "venue": "",
-   "town": "Catherine B. Berges Theatre at COCA",
-   "url": "https://saintlouis.kidsoutandabout.com/content/addams-family-musical-youngpart%C2%AE",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "America 250 Concert Series",
-   "date": "2026-08-08",
-   "venue": "Wentzville Swimming Pool",
-   "town": "Wentzville",
-   "url": "https://saintlouis.kidsoutandabout.com/content/america-250-concert-series",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
    "name": "An Old-Fashioned Family Murder",
-   "date": "2026-08-08",
+   "date": "2026-08-09",
    "venue": "Act Two Theatre",
    "town": "Saint Peters",
    "url": "https://saintlouis.kidsoutandabout.com/content/old-fashioned-family-murder",
@@ -31,17 +13,8 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Arnold Farmers Market",
-   "date": "2026-08-08",
-   "venue": "Arnold Farmers Market",
-   "town": "Arnold",
-   "url": "https://saintlouis.kidsoutandabout.com/content/arnold-farmers-market-1",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
    "name": "August Birthday Bash",
-   "date": "2026-08-08",
+   "date": "2026-08-09",
    "venue": "St. Louis Aquarium at Union Station",
    "town": "St. Louis",
    "url": "https://saintlouis.kidsoutandabout.com/content/august-birthday-bash",
@@ -50,271 +23,10 @@
   },
   {
    "name": "Dear Evan Hansen",
-   "date": "2026-08-08",
+   "date": "2026-08-09",
    "venue": "The Marcelle",
    "town": "St. Louis",
    "url": "https://saintlouis.kidsoutandabout.com/content/dear-evan-hansen-3",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Explore & Play",
-   "date": "2026-08-08",
-   "venue": "Jefferson County Library - Arnold Branch",
-   "town": "Arnold",
-   "url": "https://saintlouis.kidsoutandabout.com/content/explore-play-28",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Ferguson Farmer's Market",
-   "date": "2026-08-08",
-   "venue": "",
-   "town": "Ferguson",
-   "url": "https://saintlouis.kidsoutandabout.com/content/ferguson-farmers-market-0",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Free summer mini photo session with Shoott! - St. Louis",
-   "date": "2026-08-08",
-   "venue": "Shoott",
-   "town": "New York",
-   "url": "https://saintlouis.kidsoutandabout.com/content/free-summer-mini-photo-session-shoott-st-louis",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Galleria Summer Series",
-   "date": "2026-08-08",
-   "venue": "Galleria 6 Cinemas",
-   "town": "Richmond Heights",
-   "url": "https://saintlouis.kidsoutandabout.com/content/galleria-summer-series-1",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Gateway Grizzlies Home Game - 2026 season",
-   "date": "2026-08-08",
-   "venue": "Gateway Grizzlies",
-   "town": "Sauget",
-   "url": "https://saintlouis.kidsoutandabout.com/content/gateway-grizzlies-home-game-2026-season",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Great 8 Cinema Kids Summer Series",
-   "date": "2026-08-08",
-   "venue": "Great Eight Cinema",
-   "town": "Union",
-   "url": "https://saintlouis.kidsoutandabout.com/content/great-8-cinema-kids-summer-series",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Hot Summer Nights",
-   "date": "2026-08-08",
-   "venue": "Frenchtown Historic District",
-   "town": "Saint Charles",
-   "url": "https://saintlouis.kidsoutandabout.com/content/hot-summer-nights-1",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Lake Saint Louis Farmers & Artists Market",
-   "date": "2026-08-08",
-   "venue": "Lake St. Louis Farmers And Artists Market",
-   "town": "Lake Saint Louis",
-   "url": "https://saintlouis.kidsoutandabout.com/content/lake-saint-louis-farmers-artists-market-2",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Music Under the Stars - Florissant Summer Concert Series",
-   "date": "2026-08-08",
-   "venue": "St Ferdinand Park Dr",
-   "town": "Florissant",
-   "url": "https://saintlouis.kidsoutandabout.com/content/music-under-stars-florissant-summer-concert-series-1",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "North City Farmer's Market",
-   "date": "2026-08-08",
-   "venue": "",
-   "town": "St. Louis",
-   "url": "https://saintlouis.kidsoutandabout.com/content/north-city-farmers-market-1",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "One Africa! One Nation! Farmers Market",
-   "date": "2026-08-08",
-   "venue": "",
-   "town": "St. Louis",
-   "url": "https://saintlouis.kidsoutandabout.com/content/one-africa-one-nation-farmers-market-0",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Open Gym - Come play at Miss Kelly's Gym!",
-   "date": "2026-08-08",
-   "venue": "",
-   "town": "Miss Kelly's Gym - Creve Coeur and Cottl",
-   "url": "https://saintlouis.kidsoutandabout.com/content/open-gym-come-play-miss-kellys-gym",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Overland Farmers Market",
-   "date": "2026-08-08",
-   "venue": "",
-   "town": "St. Louis",
-   "url": "https://saintlouis.kidsoutandabout.com/content/overland-farmers-market-0",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Patterns in Nature: The Art of Hybycozo",
-   "date": "2026-08-08",
-   "venue": "Missouri Botanical Garden",
-   "town": "St. Louis",
-   "url": "https://saintlouis.kidsoutandabout.com/content/patterns-nature-art-hybycozo",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Play Date: Lands of Light",
-   "date": "2026-08-08",
-   "venue": "Contemporary Art Museum St. Louis",
-   "town": "St. Louis",
-   "url": "https://saintlouis.kidsoutandabout.com/content/play-date-lands-light",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "ResortPass Experience",
-   "date": "2026-08-08",
-   "venue": "ResortPass",
-   "town": "",
-   "url": "https://saintlouis.kidsoutandabout.com/content/resortpass-experience",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Saint Charles Farmers Market",
-   "date": "2026-08-08",
-   "venue": "",
-   "town": "St. Peters",
-   "url": "https://saintlouis.kidsoutandabout.com/content/saint-charles-farmers-market",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Spider-Man Day",
-   "date": "2026-08-08",
-   "venue": "MADE for Kids",
-   "town": "St. Louis",
-   "url": "https://saintlouis.kidsoutandabout.com/content/spider-man-day-0",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Spins, Beats and Summer Treats",
-   "date": "2026-08-08",
-   "venue": "St. Louis Union Station",
-   "town": "St. Louis",
-   "url": "https://saintlouis.kidsoutandabout.com/content/spins-beats-and-summer-treats",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "St. Louis Cardinals Home Games",
-   "date": "2026-08-08",
-   "venue": "St. Louis Cardinals",
-   "town": "St. Louis",
-   "url": "https://saintlouis.kidsoutandabout.com/content/st-louis-cardinals-home-games-2",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Stars, Stripes, & Strides: 250 Mile Challenge",
-   "date": "2026-08-08",
-   "venue": "",
-   "town": "Highland",
-   "url": "https://saintlouis.kidsoutandabout.com/content/stars-stripes-strides-250-mile-challenge",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Summer Nights (Live Band and Drone Show)",
-   "date": "2026-08-08",
-   "venue": "Grant's Farm",
-   "town": "St. Louis",
-   "url": "https://saintlouis.kidsoutandabout.com/content/summer-nights-live-band-and-drone-show-0",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Summer Passes @ Edison's",
-   "date": "2026-08-08",
-   "venue": "",
-   "town": "Edison's Entertainment Complex",
-   "url": "https://saintlouis.kidsoutandabout.com/content/summer-passes-edisons",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Taking Wing: A Flight Show",
-   "date": "2026-08-08",
-   "venue": "World Bird Sanctuary",
-   "town": "Valley Park",
-   "url": "https://saintlouis.kidsoutandabout.com/content/taking-wing-flight-show",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Theme Nights- Bubbles and Games",
-   "date": "2026-08-08",
-   "venue": "Saint Louis Zoo",
-   "town": "St. Louis",
-   "url": "https://saintlouis.kidsoutandabout.com/content/theme-nights-bubbles-and-games",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Thomas & Friends™: Explore the Rails!",
-   "date": "2026-08-08",
-   "venue": "The Magic House",
-   "town": "St. Louis",
-   "url": "https://saintlouis.kidsoutandabout.com/content/thomas-friends%E2%84%A2-explore-rails",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Two Gentlemen of Verona- TourCo",
-   "date": "2026-08-08",
-   "venue": "Shakespeare Festival-St Louis",
-   "town": "St. Louis",
-   "url": "https://saintlouis.kidsoutandabout.com/content/two-gentlemen-verona-tourco",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Washington Town & Country Fair",
-   "date": "2026-08-08",
-   "venue": "Washington Town & Country Fairgrounds",
-   "town": "Washington",
-   "url": "https://saintlouis.kidsoutandabout.com/content/washington-town-country-fair-2",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Wildwood Farmers Market",
-   "date": "2026-08-08",
-   "venue": "Wildwood Farmers Market",
-   "town": "Grover",
-   "url": "https://saintlouis.kidsoutandabout.com/content/wildwood-farmers-market-1",
    "source": "Kids Out and About STL",
    "extraction": "heuristic"
   },
@@ -325,6 +37,222 @@
    "town": "",
    "url": "https://stlouismom.com/author/dianawaldman/",
    "source": "STL Mom",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Free summer mini photo session with Shoott! - St. Louis",
+   "date": "2026-08-09",
+   "venue": "Shoott",
+   "town": "New York",
+   "url": "https://saintlouis.kidsoutandabout.com/content/free-summer-mini-photo-session-shoott-st-louis",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Galleria Summer Series",
+   "date": "2026-08-09",
+   "venue": "Galleria 6 Cinemas",
+   "town": "Richmond Heights",
+   "url": "https://saintlouis.kidsoutandabout.com/content/galleria-summer-series-1",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Gateway Grizzlies Home Game - 2026 season",
+   "date": "2026-08-09",
+   "venue": "Gateway Grizzlies",
+   "town": "Sauget",
+   "url": "https://saintlouis.kidsoutandabout.com/content/gateway-grizzlies-home-game-2026-season",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Great 8 Cinema Kids Summer Series",
+   "date": "2026-08-09",
+   "venue": "Great Eight Cinema",
+   "town": "Union",
+   "url": "https://saintlouis.kidsoutandabout.com/content/great-8-cinema-kids-summer-series",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Patterns in Nature: The Art of Hybycozo",
+   "date": "2026-08-09",
+   "venue": "Missouri Botanical Garden",
+   "town": "St. Louis",
+   "url": "https://saintlouis.kidsoutandabout.com/content/patterns-nature-art-hybycozo",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "ResortPass Experience",
+   "date": "2026-08-09",
+   "venue": "ResortPass",
+   "town": "",
+   "url": "https://saintlouis.kidsoutandabout.com/content/resortpass-experience",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Spider-Man Day",
+   "date": "2026-08-09",
+   "venue": "MADE for Kids",
+   "town": "St. Louis",
+   "url": "https://saintlouis.kidsoutandabout.com/content/spider-man-day-0",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "St. Louis Cardinals Home Games",
+   "date": "2026-08-09",
+   "venue": "St. Louis Cardinals",
+   "town": "St. Louis",
+   "url": "https://saintlouis.kidsoutandabout.com/content/st-louis-cardinals-home-games-2",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Stars, Stripes, & Strides: 250 Mile Challenge",
+   "date": "2026-08-09",
+   "venue": "",
+   "town": "Highland",
+   "url": "https://saintlouis.kidsoutandabout.com/content/stars-stripes-strides-250-mile-challenge",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Summer Passes @ Edison's",
+   "date": "2026-08-09",
+   "venue": "",
+   "town": "Edison's Entertainment Complex",
+   "url": "https://saintlouis.kidsoutandabout.com/content/summer-passes-edisons",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Taking Wing: A Flight Show",
+   "date": "2026-08-09",
+   "venue": "World Bird Sanctuary",
+   "town": "Valley Park",
+   "url": "https://saintlouis.kidsoutandabout.com/content/taking-wing-flight-show",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Thomas & Friends™: Explore the Rails!",
+   "date": "2026-08-09",
+   "venue": "The Magic House",
+   "town": "St. Louis",
+   "url": "https://saintlouis.kidsoutandabout.com/content/thomas-friends%E2%84%A2-explore-rails",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Two Gentlemen of Verona- TourCo",
+   "date": "2026-08-09",
+   "venue": "Shakespeare Festival-St Louis",
+   "town": "St. Louis",
+   "url": "https://saintlouis.kidsoutandabout.com/content/two-gentlemen-verona-tourco",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Washington Town & Country Fair",
+   "date": "2026-08-09",
+   "venue": "Washington Town & Country Fairgrounds",
+   "town": "Washington",
+   "url": "https://saintlouis.kidsoutandabout.com/content/washington-town-country-fair-2",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Summer Nights (Live Band and Drone Show)",
+   "date": "2026-08-14",
+   "venue": "Grant's Farm",
+   "town": "St. Louis",
+   "url": "https://saintlouis.kidsoutandabout.com/content/summer-nights-live-band-and-drone-show-0",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Arnold Farmers Market",
+   "date": "2026-08-15",
+   "venue": "Arnold Farmers Market",
+   "town": "Arnold",
+   "url": "https://saintlouis.kidsoutandabout.com/content/arnold-farmers-market-1",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Ferguson Farmer's Market",
+   "date": "2026-08-15",
+   "venue": "",
+   "town": "Ferguson",
+   "url": "https://saintlouis.kidsoutandabout.com/content/ferguson-farmers-market-0",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Lake Saint Louis Farmers & Artists Market",
+   "date": "2026-08-15",
+   "venue": "Lake St. Louis Farmers And Artists Market",
+   "town": "Lake Saint Louis",
+   "url": "https://saintlouis.kidsoutandabout.com/content/lake-saint-louis-farmers-artists-market-2",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Music Under the Stars - Florissant Summer Concert Series",
+   "date": "2026-08-15",
+   "venue": "St Ferdinand Park Dr",
+   "town": "Florissant",
+   "url": "https://saintlouis.kidsoutandabout.com/content/music-under-stars-florissant-summer-concert-series-1",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "North City Farmer's Market",
+   "date": "2026-08-15",
+   "venue": "",
+   "town": "St. Louis",
+   "url": "https://saintlouis.kidsoutandabout.com/content/north-city-farmers-market-1",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Overland Farmers Market",
+   "date": "2026-08-15",
+   "venue": "",
+   "town": "St. Louis",
+   "url": "https://saintlouis.kidsoutandabout.com/content/overland-farmers-market-0",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Saint Charles Farmers Market",
+   "date": "2026-08-15",
+   "venue": "",
+   "town": "St. Peters",
+   "url": "https://saintlouis.kidsoutandabout.com/content/saint-charles-farmers-market",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Wildwood Farmers Market",
+   "date": "2026-08-15",
+   "venue": "Wildwood Farmers Market",
+   "town": "Grover",
+   "url": "https://saintlouis.kidsoutandabout.com/content/wildwood-farmers-market-1",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Spins, Beats and Summer Treats",
+   "date": "2026-08-22",
+   "venue": "St. Louis Union Station",
+   "town": "St. Louis",
+   "url": "https://saintlouis.kidsoutandabout.com/content/spins-beats-and-summer-treats",
+   "source": "Kids Out and About STL",
    "extraction": "heuristic"
   }
  ]

@@ -1,29 +1,11 @@
 {
  "schema": "lantern-events/v1",
  "region": "chesterfield-mo",
- "generated_at": "2026-08-14T17:24:49Z",
+ "generated_at": "2026-08-17T17:23:41Z",
  "events": [
   {
-   "name": "2026 Kids Night Out- End of Summer Bash",
-   "date": "2026-08-14",
-   "venue": "",
-   "town": "Webster Groves",
-   "url": "https://saintlouis.kidsoutandabout.com/content/2026-kids-night-out-end-summer-bash",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "The American Ride: Toby Keith Tribute",
-   "date": "2026-08-14",
-   "venue": "Chesterfield Amphitheater",
-   "town": "Chesterfield",
-   "url": "https://saintlouis.kidsoutandabout.com/content/american-ride-toby-keith-tribute",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
    "name": "An Old-Fashioned Family Murder",
-   "date": "2026-08-14",
+   "date": "2026-08-16",
    "venue": "Act Two Theatre",
    "town": "Saint Peters",
    "url": "https://saintlouis.kidsoutandabout.com/content/old-fashioned-family-murder",
@@ -32,7 +14,7 @@
   },
   {
    "name": "Ballwin Days",
-   "date": "2026-08-14",
+   "date": "2026-08-16",
    "venue": "Vlasis Park",
    "town": "Ballwin",
    "url": "https://saintlouis.kidsoutandabout.com/content/ballwin-days-1",
@@ -40,17 +22,8 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Bellevue Park Nights",
-   "date": "2026-08-14",
-   "venue": "Bellevue Park",
-   "town": "Illinois",
-   "url": "https://saintlouis.kidsoutandabout.com/content/bellevue-park-nights",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
    "name": "Blues at the Arch Festival",
-   "date": "2026-08-14",
+   "date": "2026-08-16",
    "venue": "Gateway Arch Park Foundation",
    "town": "St. Louis",
    "url": "https://saintlouis.kidsoutandabout.com/content/blues-arch-festival",
@@ -58,62 +31,8 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Concerts in the Park- Edwardsville City Park",
-   "date": "2026-08-14",
-   "venue": "City Park",
-   "town": "Edwardsville",
-   "url": "https://saintlouis.kidsoutandabout.com/content/concerts-park-edwardsville-city-park-1",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Des Peres Summer Concert Series",
-   "date": "2026-08-14",
-   "venue": "Des Peres Park",
-   "town": "Des Peres",
-   "url": "https://saintlouis.kidsoutandabout.com/content/des-peres-summer-concert-series-0",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Family Movie Night Series",
-   "date": "2026-08-14",
-   "venue": "Bluebird Park",
-   "town": "Ellisville",
-   "url": "https://saintlouis.kidsoutandabout.com/content/family-movie-night-series-1",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Family Nights at Brentwood Park",
-   "date": "2026-08-14",
-   "venue": "Brentwood Park",
-   "town": "Missouri",
-   "url": "https://saintlouis.kidsoutandabout.com/content/family-nights-brentwood-park",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Ferguson Summer Concert Series",
-   "date": "2026-08-14",
-   "venue": "Plaza at 501",
-   "town": "Ferguson",
-   "url": "https://saintlouis.kidsoutandabout.com/content/ferguson-summer-concert-series-1",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Free Concerts in the Park - City of Manchester",
-   "date": "2026-08-14",
-   "venue": "Schroeder Park",
-   "town": "Manchester",
-   "url": "https://saintlouis.kidsoutandabout.com/content/free-concerts-park-city-manchester-0",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
    "name": "Free summer mini photo session with Shoott! - St. Louis",
-   "date": "2026-08-14",
+   "date": "2026-08-16",
    "venue": "Shoott",
    "town": "New York",
    "url": "https://saintlouis.kidsoutandabout.com/content/free-summer-mini-photo-session-shoott-st-louis",
@@ -122,7 +41,7 @@
   },
   {
    "name": "Galleria Summer Series",
-   "date": "2026-08-14",
+   "date": "2026-08-16",
    "venue": "Galleria 6 Cinemas",
    "town": "Richmond Heights",
    "url": "https://saintlouis.kidsoutandabout.com/content/galleria-summer-series-1",
@@ -131,7 +50,7 @@
   },
   {
    "name": "Gateway Grizzlies Home Game - 2026 season",
-   "date": "2026-08-14",
+   "date": "2026-08-16",
    "venue": "Gateway Grizzlies",
    "town": "Sauget",
    "url": "https://saintlouis.kidsoutandabout.com/content/gateway-grizzlies-home-game-2026-season",
@@ -139,17 +58,8 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Groovin' in the Garden",
-   "date": "2026-08-14",
-   "venue": "The Magic House",
-   "town": "St. Louis",
-   "url": "https://saintlouis.kidsoutandabout.com/content/groovin-garden-1",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
    "name": "Missouri State Fair",
-   "date": "2026-08-14",
+   "date": "2026-08-16",
    "venue": "Missouri State Fair Campground",
    "town": "Sedalia",
    "url": "https://saintlouis.kidsoutandabout.com/content/missouri-state-fair-2",
@@ -157,35 +67,8 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Open Play",
-   "date": "2026-08-14",
-   "venue": "Enchanted Playroom",
-   "town": "O'Fallon",
-   "url": "https://saintlouis.kidsoutandabout.com/content/open-play",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Open Play at Your Village",
-   "date": "2026-08-14",
-   "venue": "Your Village STL: Jennifer Tietjen",
-   "town": "Chesterfield",
-   "url": "https://saintlouis.kidsoutandabout.com/content/open-play-your-village",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Parents Night Out - Miss Kelly's Gym",
-   "date": "2026-08-14",
-   "venue": "",
-   "town": "Miss Kelly's Gym - Creve Coeur and Cottl",
-   "url": "https://saintlouis.kidsoutandabout.com/content/parents-night-out-miss-kellys-gym",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
    "name": "Patterns in Nature: The Art of Hybycozo",
-   "date": "2026-08-14",
+   "date": "2026-08-16",
    "venue": "Missouri Botanical Garden",
    "town": "St. Louis",
    "url": "https://saintlouis.kidsoutandabout.com/content/patterns-nature-art-hybycozo",
@@ -193,17 +76,8 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Playtime at the Pool",
-   "date": "2026-08-14",
-   "venue": "",
-   "town": "Crestwood",
-   "url": "https://saintlouis.kidsoutandabout.com/content/playtime-pool",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
    "name": "ResortPass Experience",
-   "date": "2026-08-14",
+   "date": "2026-08-16",
    "venue": "ResortPass",
    "town": "",
    "url": "https://saintlouis.kidsoutandabout.com/content/resortpass-experience",
@@ -211,35 +85,8 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Route 66 Outdoor Movie Series",
-   "date": "2026-08-14",
-   "venue": "Legion Park",
-   "town": "Eureka",
-   "url": "https://saintlouis.kidsoutandabout.com/content/route-66-outdoor-movie-series",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Sing Movie Night",
-   "date": "2026-08-14",
-   "venue": "Westport Plaza",
-   "town": "St. Louis",
-   "url": "https://saintlouis.kidsoutandabout.com/content/sing-movie-night",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "St. Ann Cinema 2.0",
-   "date": "2026-08-14",
-   "venue": "St Ann Community Center",
-   "town": "Saint Ann",
-   "url": "https://saintlouis.kidsoutandabout.com/content/st-ann-cinema-20",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
    "name": "Stars, Stripes, & Strides: 250 Mile Challenge",
-   "date": "2026-08-14",
+   "date": "2026-08-16",
    "venue": "",
    "town": "Highland",
    "url": "https://saintlouis.kidsoutandabout.com/content/stars-stripes-strides-250-mile-challenge",
@@ -247,35 +94,8 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Storytime in the Park",
-   "date": "2026-08-14",
-   "venue": "Wapelhorst Park",
-   "town": "Saint Charles",
-   "url": "https://saintlouis.kidsoutandabout.com/content/storytime-park-12",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Summer Concert Series",
-   "date": "2026-08-14",
-   "venue": "",
-   "town": "Maryland Heights Township",
-   "url": "https://saintlouis.kidsoutandabout.com/content/summer-concert-series-20",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Summer Nights (Live Band and Drone Show)",
-   "date": "2026-08-14",
-   "venue": "Grant's Farm",
-   "town": "St. Louis",
-   "url": "https://saintlouis.kidsoutandabout.com/content/summer-nights-live-band-and-drone-show-0",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
    "name": "Summer Passes @ Edison's",
-   "date": "2026-08-14",
+   "date": "2026-08-16",
    "venue": "",
    "town": "Edison's Entertainment Complex",
    "url": "https://saintlouis.kidsoutandabout.com/content/summer-passes-edisons",
@@ -284,7 +104,7 @@
   },
   {
    "name": "Taking Wing: A Flight Show",
-   "date": "2026-08-14",
+   "date": "2026-08-16",
    "venue": "World Bird Sanctuary",
    "town": "Valley Park",
    "url": "https://saintlouis.kidsoutandabout.com/content/taking-wing-flight-show",
@@ -292,17 +112,8 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Taste of Girl Scouts: Splash Pad Fun",
-   "date": "2026-08-14",
-   "venue": "PC Mills Park",
-   "town": "Kirksville",
-   "url": "https://saintlouis.kidsoutandabout.com/content/taste-girl-scouts-splash-pad-fun",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
    "name": "Thomas & Friends™: Explore the Rails!",
-   "date": "2026-08-14",
+   "date": "2026-08-16",
    "venue": "The Magic House",
    "town": "St. Louis",
    "url": "https://saintlouis.kidsoutandabout.com/content/thomas-friends%E2%84%A2-explore-rails",
@@ -310,19 +121,56 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Top 5 Must-Do Weekend Activities in St. Louis",
-   "date": "2026-08-14",
-   "venue": "",
-   "town": "",
-   "url": "https://stlouismom.com/in-and-around-st-louis/top-5-must-do-weekend-activities-in-st-louis/?utm_source=rss&utm_medium=rss&utm_campaign=top-5-must-do-weekend-activities-in-st-louis",
-   "source": "STL Mom"
-  },
-  {
    "name": "Two Gentlemen of Verona- TourCo",
-   "date": "2026-08-14",
+   "date": "2026-08-16",
    "venue": "Shakespeare Festival-St Louis",
    "town": "St. Louis",
    "url": "https://saintlouis.kidsoutandabout.com/content/two-gentlemen-verona-tourco",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Open Play",
+   "date": "2026-08-17",
+   "venue": "Enchanted Playroom",
+   "town": "O'Fallon",
+   "url": "https://saintlouis.kidsoutandabout.com/content/open-play",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Open Play at Your Village",
+   "date": "2026-08-17",
+   "venue": "Your Village STL: Jennifer Tietjen",
+   "town": "Chesterfield",
+   "url": "https://saintlouis.kidsoutandabout.com/content/open-play-your-village",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Route 66 Outdoor Movie Series",
+   "date": "2026-08-21",
+   "venue": "Legion Park",
+   "town": "Eureka",
+   "url": "https://saintlouis.kidsoutandabout.com/content/route-66-outdoor-movie-series",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Summer Nights (Live Band and Drone Show)",
+   "date": "2026-08-21",
+   "venue": "Grant's Farm",
+   "town": "St. Louis",
+   "url": "https://saintlouis.kidsoutandabout.com/content/summer-nights-live-band-and-drone-show-0",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Summer Concert Series",
+   "date": "2026-08-28",
+   "venue": "",
+   "town": "Maryland Heights Township",
+   "url": "https://saintlouis.kidsoutandabout.com/content/summer-concert-series-20",
    "source": "Kids Out and About STL",
    "extraction": "heuristic"
   }

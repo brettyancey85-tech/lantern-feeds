@@ -1,20 +1,11 @@
 {
  "schema": "lantern-events/v1",
  "region": "chesterfield-mo",
- "generated_at": "2026-08-21T17:24:26Z",
+ "generated_at": "2026-08-24T17:24:14Z",
  "events": [
   {
-   "name": "Blocks & Bites – Outdoor Movie & Food Trucks",
-   "date": "2026-08-21",
-   "venue": "Rotary Park",
-   "town": "Wentzville",
-   "url": "https://saintlouis.kidsoutandabout.com/content/blocks-bites-%E2%80%93-outdoor-movie-food-trucks",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
    "name": "Flotsam River Circus- St. Louis",
-   "date": "2026-08-21",
+   "date": "2026-08-23",
    "venue": "St. Louis Riverfront",
    "town": "St. Louis",
    "url": "https://saintlouis.kidsoutandabout.com/content/flotsam-river-circus-st-louis",
@@ -23,7 +14,7 @@
   },
   {
    "name": "Free summer mini photo session with Shoott! - St. Louis",
-   "date": "2026-08-21",
+   "date": "2026-08-23",
    "venue": "Shoott",
    "town": "New York",
    "url": "https://saintlouis.kidsoutandabout.com/content/free-summer-mini-photo-session-shoott-st-louis",
@@ -31,17 +22,17 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Lawn Chair Movie Night- Union City Park",
-   "date": "2026-08-21",
+   "name": "Maria Tavares",
+   "date": "2026-08-23",
    "venue": "",
-   "town": "Union",
-   "url": "https://saintlouis.kidsoutandabout.com/content/lawn-chair-movie-night-union-city-park-0",
-   "source": "Kids Out and About STL",
+   "town": "",
+   "url": "https://stlouismom.com/author/mtavares/",
+   "source": "STL Mom",
    "extraction": "heuristic"
   },
   {
    "name": "Missouri State Fair",
-   "date": "2026-08-21",
+   "date": "2026-08-23",
    "venue": "Missouri State Fair Campground",
    "town": "Sedalia",
    "url": "https://saintlouis.kidsoutandabout.com/content/missouri-state-fair-2",
@@ -49,35 +40,8 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Music on Main Back to School Party",
-   "date": "2026-08-21",
-   "venue": "Village Green at Wildwood 16860 Main Street",
-   "town": "Wildwood",
-   "url": "https://saintlouis.kidsoutandabout.com/content/music-main-back-school-party-1",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Open Play",
-   "date": "2026-08-21",
-   "venue": "Enchanted Playroom",
-   "town": "O'Fallon",
-   "url": "https://saintlouis.kidsoutandabout.com/content/open-play",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Open Play at Your Village",
-   "date": "2026-08-21",
-   "venue": "Your Village STL: Jennifer Tietjen",
-   "town": "Chesterfield",
-   "url": "https://saintlouis.kidsoutandabout.com/content/open-play-your-village",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
    "name": "Patterns in Nature: The Art of Hybycozo",
-   "date": "2026-08-21",
+   "date": "2026-08-23",
    "venue": "Missouri Botanical Garden",
    "town": "St. Louis",
    "url": "https://saintlouis.kidsoutandabout.com/content/patterns-nature-art-hybycozo",
@@ -85,17 +49,8 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Pevely Days 2026",
-   "date": "2026-08-21",
-   "venue": "Pevely Park",
-   "town": "Pevely",
-   "url": "https://saintlouis.kidsoutandabout.com/content/pevely-days-2026",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
    "name": "ResortPass Experience",
-   "date": "2026-08-21",
+   "date": "2026-08-23",
    "venue": "ResortPass",
    "town": "",
    "url": "https://saintlouis.kidsoutandabout.com/content/resortpass-experience",
@@ -103,17 +58,8 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Route 66 Outdoor Movie Series",
-   "date": "2026-08-21",
-   "venue": "Legion Park",
-   "town": "Eureka",
-   "url": "https://saintlouis.kidsoutandabout.com/content/route-66-outdoor-movie-series",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
    "name": "Stars, Stripes, & Strides: 250 Mile Challenge",
-   "date": "2026-08-21",
+   "date": "2026-08-23",
    "venue": "",
    "town": "Highland",
    "url": "https://saintlouis.kidsoutandabout.com/content/stars-stripes-strides-250-mile-challenge",
@@ -121,26 +67,8 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Summer Concert & Food Truck Rally",
-   "date": "2026-08-21",
-   "venue": "City Hall Park",
-   "town": "Dardenne Prairie",
-   "url": "https://saintlouis.kidsoutandabout.com/content/summer-concert-food-truck-rally-1",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Summer Nights (Live Band and Drone Show)",
-   "date": "2026-08-21",
-   "venue": "Grant's Farm",
-   "town": "St. Louis",
-   "url": "https://saintlouis.kidsoutandabout.com/content/summer-nights-live-band-and-drone-show-0",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
    "name": "Summer Passes @ Edison's",
-   "date": "2026-08-21",
+   "date": "2026-08-23",
    "venue": "",
    "town": "Edison's Entertainment Complex",
    "url": "https://saintlouis.kidsoutandabout.com/content/summer-passes-edisons",
@@ -148,17 +76,8 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Sunset Concert Series",
-   "date": "2026-08-21",
-   "venue": "",
-   "town": "St. Peters",
-   "url": "https://saintlouis.kidsoutandabout.com/content/sunset-concert-series-1",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
    "name": "Taking Wing: A Flight Show",
-   "date": "2026-08-21",
+   "date": "2026-08-23",
    "venue": "World Bird Sanctuary",
    "town": "Valley Park",
    "url": "https://saintlouis.kidsoutandabout.com/content/taking-wing-flight-show",
@@ -167,10 +86,55 @@
   },
   {
    "name": "Thomas & Friends™: Explore the Rails!",
-   "date": "2026-08-21",
+   "date": "2026-08-23",
    "venue": "The Magic House",
    "town": "St. Louis",
    "url": "https://saintlouis.kidsoutandabout.com/content/thomas-friends%E2%84%A2-explore-rails",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Open Play",
+   "date": "2026-08-24",
+   "venue": "Enchanted Playroom",
+   "town": "O'Fallon",
+   "url": "https://saintlouis.kidsoutandabout.com/content/open-play",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Open Play at Your Village",
+   "date": "2026-08-24",
+   "venue": "Your Village STL: Jennifer Tietjen",
+   "town": "Chesterfield",
+   "url": "https://saintlouis.kidsoutandabout.com/content/open-play-your-village",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Route 66 Outdoor Movie Series",
+   "date": "2026-08-28",
+   "venue": "Legion Park",
+   "town": "Eureka",
+   "url": "https://saintlouis.kidsoutandabout.com/content/route-66-outdoor-movie-series",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Summer Nights (Live Band and Drone Show)",
+   "date": "2026-08-28",
+   "venue": "Grant's Farm",
+   "town": "St. Louis",
+   "url": "https://saintlouis.kidsoutandabout.com/content/summer-nights-live-band-and-drone-show-0",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Sunset Concert Series",
+   "date": "2026-08-28",
+   "venue": "",
+   "town": "St. Peters",
+   "url": "https://saintlouis.kidsoutandabout.com/content/sunset-concert-series-1",
    "source": "Kids Out and About STL",
    "extraction": "heuristic"
   }

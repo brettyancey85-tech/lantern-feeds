@@ -1,244 +1,16 @@
 {
  "schema": "lantern-events/v1",
  "region": "katy-tx",
- "generated_at": "2026-08-24T17:24:14Z",
+ "generated_at": "2026-08-28T17:24:12Z",
  "events": [
   {
-   "name": "Clickbait",
-   "date": "2026-08-23",
-   "venue": "Houston Museum of Natural Science",
-   "town": "Houston",
-   "url": "https://houston.kidsoutandabout.com/content/clickbait",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Fall/Spring 2026-27 Registration",
-   "date": "2026-08-23",
-   "venue": "MoveNation Dance Academy",
-   "town": "Houston",
-   "url": "https://houston.kidsoutandabout.com/content/fallspring-2026-27-registration",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Houston Astros Home Game",
-   "date": "2026-08-23",
-   "venue": "",
-   "town": "Houston",
-   "url": "https://houston.kidsoutandabout.com/content/houston-astros-home-game-0",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "ResortPass Experience",
-   "date": "2026-08-23",
-   "venue": "ResortPass",
-   "town": "",
-   "url": "https://houston.kidsoutandabout.com/content/resortpass-experience",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Sugar Land Space Cowboys Home Game",
-   "date": "2026-08-23",
-   "venue": "Sugar Land Space Cowboys",
-   "town": "Sugar Land",
-   "url": "https://houston.kidsoutandabout.com/content/sugar-land-space-cowboys-home-game-0",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Texas America250 Reading Challenge",
-   "date": "2026-08-23",
-   "venue": "Texas State Library and Archives Commission",
-   "town": "Texas 78701",
-   "url": "https://houston.kidsoutandabout.com/content/texas-america250-reading-challenge",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "TXU Energy presents Mythical Realms",
-   "date": "2026-08-23",
-   "venue": "Houston Zoo",
-   "town": "Houston",
-   "url": "https://houston.kidsoutandabout.com/content/txu-energy-presents-mythical-realms",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
    "name": "Back-to-School Scavenger Hunt",
-   "date": "2026-08-24",
+   "date": "2026-08-28",
    "venue": "",
    "town": "",
    "url": "https://houstonfamilymagazine.com/events/back-to-school-scavenger-hunt/",
    "source": "Houston Family Magazine",
    "extraction": "heuristic"
-  },
-  {
-   "name": "Clickbait – A digital obsession",
-   "date": "2026-08-24",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/clickbait-a-digital-obsession/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "HOMELAND AND ROADS",
-   "date": "2026-08-24",
-   "venue": "Cultural Center - Our Texas",
-   "town": "Houston",
-   "url": "https://houston.kidsoutandabout.com/content/homeland-and-roads-0",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Houston Highlights: August 24 to August 27 – Food, Music, Arts & More",
-   "date": "2026-08-24",
-   "venue": "",
-   "town": "",
-   "url": "https://www.houstononthecheap.com/houston-picks-august-24-to-august-27-2026/",
-   "source": "Houston on the Cheap"
-  },
-  {
-   "name": "Houston Theater Week",
-   "date": "2026-08-24",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/houston-theater-week/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "King Tut’s Tomb Discovery Experience",
-   "date": "2026-08-24",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/king-tuts-tomb-discovery-experience/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "The Moonwalkers: A Journey with Tom Hanks",
-   "date": "2026-08-24",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/the-moonwalkers-a-journey-with-tom-hanks-4/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Second Saturday Bird Survey",
-   "date": "2026-08-24",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/second-saturday-bird-survey-20/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "SUMMER MOOD: AN EXHIBITION OF FLOWERS AND ART",
-   "date": "2026-08-24",
-   "venue": "Cultural Center - Our Texas",
-   "town": "Houston",
-   "url": "https://houston.kidsoutandabout.com/content/summer-mood-exhibition-flowers-and-art",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "TXU Energy presents Mythical Realms",
-   "date": "2026-08-24",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/txu-energy-presents-mythical-realms/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "View Details",
-   "date": "2026-08-24",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/king-tuts-tomb-discovery-experience/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Zoo Mythical Realms",
-   "date": "2026-08-24",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events-calendar/?event_category=40537",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "The Girl on the Train at Alley Theatre",
-   "date": "2026-08-25",
-   "venue": "Alley Theatre",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/the-girl-on-the-train-at-alley-theatre-37/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Olivia Dean in Concert at Toyota Center",
-   "date": "2026-08-25",
-   "venue": "Toyota Center",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/olivia-dean-in-concert-at-toyota-center/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Strength And Conditioning Classes",
-   "date": "2026-08-25",
-   "venue": "",
-   "town": "Cypress",
-   "url": "https://houston.kidsoutandabout.com/content/strength-and-conditioning-classes",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Summer Exhibitions at the Pearl Fincher Museum of Fine Arts",
-   "date": "2026-08-25",
-   "venue": "Pearl Fincher Museum of Fine Arts",
-   "town": "Spring",
-   "url": "https://houston.kidsoutandabout.com/content/summer-exhibitions-pearl-fincher-museum-fine-arts",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "The Girl on the Train at Alley Theatre",
-   "date": "2026-08-26",
-   "venue": "Alley Theatre",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/the-girl-on-the-train-at-alley-theatre-38/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Total Toddler Takeover",
-   "date": "2026-08-26",
-   "venue": "Fort Bend Children's Discovery Center",
-   "town": "Sugar Land",
-   "url": "https://houston.kidsoutandabout.com/content/total-toddler-takeover-0",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "The Girl on the Train at Alley Theatre",
-   "date": "2026-08-27",
-   "venue": "Alley Theatre",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/the-girl-on-the-train-at-alley-theatre-39/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Omar Courtz in Concert at Toyota Center",
-   "date": "2026-08-27",
-   "venue": "Toyota Center",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/omar-courtz-in-concert-at-toyota-center/",
-   "source": "365 Things in Houston"
   },
   {
    "name": "BASF Kids' Labs",
@@ -250,20 +22,40 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Classic Albums Live: Led Zeppelin IV at Miller Outdoor Theatre",
+   "name": "Blast off Back to School Parent Survival Night",
    "date": "2026-08-28",
-   "venue": "Miller Outdoor Theatre",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/classic-albums-live-led-zeppelin-iv-at-miller-outdoor-theatre/",
-   "source": "365 Things in Houston"
+   "venue": "The Little Gym of Katy",
+   "town": "Katy",
+   "url": "https://houston.kidsoutandabout.com/content/blast-back-school-parent-survival-night",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
   },
   {
-   "name": "Comedian Jay Pharoah at Houston Improv",
+   "name": "Clickbait",
    "date": "2026-08-28",
-   "venue": "Houston Improv",
+   "venue": "Houston Museum of Natural Science",
    "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/comedian-jay-pharoah-at-houston-improv-2026-1/",
-   "source": "365 Things in Houston"
+   "url": "https://houston.kidsoutandabout.com/content/clickbait",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Clickbait – A digital obsession",
+   "date": "2026-08-28",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/clickbait-a-digital-obsession/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Fall/Spring 2026-27 Registration",
+   "date": "2026-08-28",
+   "venue": "MoveNation Dance Academy",
+   "town": "Houston",
+   "url": "https://houston.kidsoutandabout.com/content/fallspring-2026-27-registration",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
   },
   {
    "name": "Fun, Free & Cheap Events | August 28 – August 30",
@@ -274,20 +66,67 @@
    "source": "Houston on the Cheap"
   },
   {
-   "name": "The Girl on the Train at Alley Theatre",
+   "name": "HOMELAND AND ROADS",
    "date": "2026-08-28",
-   "venue": "Alley Theatre",
+   "venue": "Cultural Center - Our Texas",
    "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/the-girl-on-the-train-at-alley-theatre-40/",
-   "source": "365 Things in Houston"
+   "url": "https://houston.kidsoutandabout.com/content/homeland-and-roads-0",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
   },
   {
-   "name": "Performing Arts Houston: Houston Mariachi Festival 2026 at Wortham Center",
+   "name": "Junior Pickleball Kids Camp",
    "date": "2026-08-28",
-   "venue": "Wortham Theater Center",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/performing-arts-houston-houston-mariachi-festival-2026-at-wortham-center-1/",
-   "source": "365 Things in Houston"
+   "venue": "Chicken N Pickle - Webster",
+   "town": "Webster",
+   "url": "https://houston.kidsoutandabout.com/content/junior-pickleball-kids-camp",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "King Tut’s Tomb Discovery Experience",
+   "date": "2026-08-28",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/king-tuts-tomb-discovery-experience/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "The Moonwalkers: A Journey with Tom Hanks",
+   "date": "2026-08-28",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/the-moonwalkers-a-journey-with-tom-hanks-4/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Nerf Night",
+   "date": "2026-08-28",
+   "venue": "Newman Park",
+   "town": "Alvin",
+   "url": "https://houston.kidsoutandabout.com/content/nerf-night-7",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "ResortPass Experience",
+   "date": "2026-08-28",
+   "venue": "ResortPass",
+   "town": "",
+   "url": "https://houston.kidsoutandabout.com/content/resortpass-experience",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Second Saturday Bird Survey",
+   "date": "2026-08-28",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/second-saturday-bird-survey-20/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
   },
   {
    "name": "Storybook Theatre in August",
@@ -308,165 +147,94 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Cirque-tacular: The Art of Circus at Miller Outdoor Theatre",
-   "date": "2026-08-29",
-   "venue": "Miller Outdoor Theatre",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/cirque-tacular-the-art-of-circus-at-miller-outdoor-theatre/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Comedian Jay Pharoah at Houston Improv",
-   "date": "2026-08-29",
-   "venue": "Houston Improv",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/comedian-jay-pharoah-at-houston-improv-2026-3/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "The Girl on the Train at Alley Theatre",
-   "date": "2026-08-29",
-   "venue": "Alley Theatre",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/the-girl-on-the-train-at-alley-theatre-41/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Performing Arts Houston: Houston Mariachi Festival 2026 at Wortham Center",
-   "date": "2026-08-29",
-   "venue": "Wortham Theater Center",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/performing-arts-houston-houston-mariachi-festival-2026-at-wortham-center-2/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "AC/DC PWR/UP Pop Up at Henke & Pillot",
-   "date": "2026-08-30",
-   "venue": "Henke & Pillot",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/ac-dc-pwr-up-pop-up-at-henke-pillot/2026-08-30/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Comedian Jay Pharoah at Houston Improv",
-   "date": "2026-08-30",
-   "venue": "Houston Improv",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/comedian-jay-pharoah-at-houston-improv-2026-5/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "The Girl on the Train at Alley Theatre",
-   "date": "2026-08-30",
-   "venue": "Alley Theatre",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/the-girl-on-the-train-at-alley-theatre-43/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Jill Scott in Concert at Smart Financial Centre",
-   "date": "2026-08-30",
-   "venue": "Smart Financial Centre at Sugar Land",
-   "town": "Sugar Land",
-   "url": "https://365thingsinhouston.com/calendar/jill-scott-in-concert-at-smart-financial-centre-1/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Performing Arts Houston: Houston Mariachi Festival 2026 at Wortham Center",
-   "date": "2026-08-30",
-   "venue": "Wortham Theater Center",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/performing-arts-houston-houston-mariachi-festival-2026-at-wortham-center-3/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "AC/DC PWR/UP Pop Up at Henke & Pillot",
-   "date": "2026-08-31",
-   "venue": "Henke & Pillot",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/ac-dc-pwr-up-pop-up-at-henke-pillot/2026-08-31/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Jill Scott in Concert at Smart Financial Centre",
-   "date": "2026-08-31",
-   "venue": "Smart Financial Centre at Sugar Land",
-   "town": "Sugar Land",
-   "url": "https://365thingsinhouston.com/calendar/jill-scott-in-concert-at-smart-financial-centre-2/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Comedian Russell Peters at Houston Improv",
-   "date": "2026-09-03",
-   "venue": "Houston Improv",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/comedian-russell-peters-at-houston-improv-2026/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Asake in Concert at Toyota Center",
-   "date": "2026-09-04",
-   "venue": "Toyota Center",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/asake-in-concert-at-toyota-center/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Comedian Russell Peters at Houston Improv",
-   "date": "2026-09-04",
-   "venue": "Houston Improv",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/comedian-russell-peters-at-houston-improv-2026-3/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "September 2026 Events in Houston for Adults: Your Complete Monthly Guide",
-   "date": "2026-09-04",
+   "name": "StoryTime with Ms. Maria",
+   "date": "2026-08-28",
    "venue": "",
    "town": "",
-   "url": "https://www.houstononthecheap.com/september-2026-events-in-houston-for-adults/",
-   "source": "Houston on the Cheap"
+   "url": "https://houstonfamilymagazine.com/events/storytime-with-ms-maria-10/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
   },
   {
-   "name": "Starlight Swans",
-   "date": "2026-09-04",
-   "venue": "Rob Fleming Park Picnic Area",
-   "town": "The Woodlands",
-   "url": "https://houston.kidsoutandabout.com/content/starlight-swans",
+   "name": "Strength And Conditioning Classes",
+   "date": "2026-08-28",
+   "venue": "",
+   "town": "Cypress",
+   "url": "https://houston.kidsoutandabout.com/content/strength-and-conditioning-classes",
    "source": "Kids Out and About Houston",
    "extraction": "heuristic"
   },
   {
-   "name": "Blue Heartstrings Opening Reception at Archway Gallery",
-   "date": "2026-09-05",
-   "venue": "Archway Gallery",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/blue-heartstrings-opening-reception-at-archway-gallery/",
-   "source": "365 Things in Houston"
+   "name": "Summer Exhibitions at the Pearl Fincher Museum of Fine Arts",
+   "date": "2026-08-28",
+   "venue": "Pearl Fincher Museum of Fine Arts",
+   "town": "Spring",
+   "url": "https://houston.kidsoutandabout.com/content/summer-exhibitions-pearl-fincher-museum-fine-arts",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
   },
   {
-   "name": "Comedian Russell Peters at Houston Improv",
-   "date": "2026-09-05",
-   "venue": "Houston Improv",
+   "name": "SUMMER MOOD: AN EXHIBITION OF FLOWERS AND ART",
+   "date": "2026-08-28",
+   "venue": "Cultural Center - Our Texas",
    "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/comedian-russell-peters-at-houston-improv-2026-5/",
-   "source": "365 Things in Houston"
+   "url": "https://houston.kidsoutandabout.com/content/summer-mood-exhibition-flowers-and-art",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
   },
   {
-   "name": "First Saturday Arts Market in The Heights",
-   "date": "2026-09-05",
-   "venue": "First Saturday Arts Market",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/first-saturday-arts-market-in-the-heights-september-2026/",
-   "source": "365 Things in Houston"
+   "name": "Texas America250 Reading Challenge",
+   "date": "2026-08-28",
+   "venue": "Texas State Library and Archives Commission",
+   "town": "Texas 78701",
+   "url": "https://houston.kidsoutandabout.com/content/texas-america250-reading-challenge",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
   },
   {
-   "name": "Pickled Pepper Fest at Karbach Brewing Co.",
-   "date": "2026-09-06",
-   "venue": "Karbach Brewing Company",
+   "name": "Total Toddler Takeover",
+   "date": "2026-08-28",
+   "venue": "Fort Bend Children's Discovery Center",
+   "town": "Sugar Land",
+   "url": "https://houston.kidsoutandabout.com/content/total-toddler-takeover-0",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "TXU Energy presents Mythical Realms",
+   "date": "2026-08-28",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/txu-energy-presents-mythical-realms/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "TXU Energy presents Mythical Realms",
+   "date": "2026-08-28",
+   "venue": "Houston Zoo",
    "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/pickled-pepper-fest-at-karbach-brewing-co/",
-   "source": "365 Things in Houston"
+   "url": "https://houston.kidsoutandabout.com/content/txu-energy-presents-mythical-realms",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "View Details",
+   "date": "2026-08-28",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/king-tuts-tomb-discovery-experience/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Zoo Mythical Realms",
+   "date": "2026-08-28",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events-calendar/?event_category=40537",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
   }
  ]
 }

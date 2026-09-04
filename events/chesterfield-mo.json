@@ -1,11 +1,11 @@
 {
  "schema": "lantern-events/v1",
  "region": "chesterfield-mo",
- "generated_at": "2026-08-31T17:24:21Z",
+ "generated_at": "2026-09-04T17:23:36Z",
  "events": [
   {
    "name": "Corn Maze- Broemmelsiek Park",
-   "date": "2026-08-30",
+   "date": "2026-09-03",
    "venue": "Broemmelsiek Park",
    "town": "Defiance",
    "url": "https://saintlouis.kidsoutandabout.com/content/corn-maze-broemmelsiek-park-0",
@@ -13,35 +13,8 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Free summer mini photo session with Shoott! - St. Louis",
-   "date": "2026-08-30",
-   "venue": "Shoott",
-   "town": "New York",
-   "url": "https://saintlouis.kidsoutandabout.com/content/free-summer-mini-photo-session-shoott-st-louis",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Glow City at City Museum",
-   "date": "2026-08-30",
-   "venue": "",
-   "town": "St. Louis",
-   "url": "https://saintlouis.kidsoutandabout.com/content/glow-city-city-museum",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Honeycrisp Apple Weekend",
-   "date": "2026-08-30",
-   "venue": "Eckert's Pick Your Own Belleville Farm",
-   "town": "Belleville",
-   "url": "https://saintlouis.kidsoutandabout.com/content/honeycrisp-apple-weekend-0",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
    "name": "Patterns in Nature: The Art of Hybycozo",
-   "date": "2026-08-30",
+   "date": "2026-09-03",
    "venue": "Missouri Botanical Garden",
    "town": "St. Louis",
    "url": "https://saintlouis.kidsoutandabout.com/content/patterns-nature-art-hybycozo",
@@ -49,44 +22,8 @@
    "extraction": "heuristic"
   },
   {
-   "name": "ResortPass Experience",
-   "date": "2026-08-30",
-   "venue": "ResortPass",
-   "town": "",
-   "url": "https://saintlouis.kidsoutandabout.com/content/resortpass-experience",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "St. Louis Cardinals Home Games",
-   "date": "2026-08-30",
-   "venue": "St. Louis Cardinals",
-   "town": "St. Louis",
-   "url": "https://saintlouis.kidsoutandabout.com/content/st-louis-cardinals-home-games-2",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Stars, Stripes, & Strides: 250 Mile Challenge",
-   "date": "2026-08-30",
-   "venue": "",
-   "town": "Highland",
-   "url": "https://saintlouis.kidsoutandabout.com/content/stars-stripes-strides-250-mile-challenge",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Taking Wing: A Flight Show",
-   "date": "2026-08-30",
-   "venue": "World Bird Sanctuary",
-   "town": "Valley Park",
-   "url": "https://saintlouis.kidsoutandabout.com/content/taking-wing-flight-show",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
    "name": "Thomas & Friends™: Explore the Rails!",
-   "date": "2026-08-30",
+   "date": "2026-09-03",
    "venue": "The Magic House",
    "town": "St. Louis",
    "url": "https://saintlouis.kidsoutandabout.com/content/thomas-friends%E2%84%A2-explore-rails",
@@ -94,26 +31,8 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Open Play",
-   "date": "2026-08-31",
-   "venue": "Enchanted Playroom",
-   "town": "O'Fallon",
-   "url": "https://saintlouis.kidsoutandabout.com/content/open-play",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Open Play at Your Village",
-   "date": "2026-08-31",
-   "venue": "Your Village STL: Jennifer Tietjen",
-   "town": "Chesterfield",
-   "url": "https://saintlouis.kidsoutandabout.com/content/open-play-your-village",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
    "name": "Open Gym - Come play at Miss Kelly's Gym!",
-   "date": "2026-09-02",
+   "date": "2026-09-04",
    "venue": "",
    "town": "Miss Kelly's Gym - Creve Coeur and Cottl",
    "url": "https://saintlouis.kidsoutandabout.com/content/open-gym-come-play-miss-kellys-gym",
@@ -121,20 +40,28 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Summer Nights (Live Band and Drone Show)",
+   "name": "Top 5 Must-Do Weekend Activities in St. Louis",
    "date": "2026-09-04",
-   "venue": "Grant's Farm",
+   "venue": "",
+   "town": "",
+   "url": "https://stlouismom.com/in-and-around-st-louis/top-5-must-do-weekend-activities-in-st-louis/?utm_source=rss&utm_medium=rss&utm_campaign=top-5-must-do-weekend-activities-in-st-louis",
+   "source": "STL Mom"
+  },
+  {
+   "name": "Family Night",
+   "date": "2026-09-09",
+   "venue": "Cardinals Nation",
    "town": "St. Louis",
-   "url": "https://saintlouis.kidsoutandabout.com/content/summer-nights-live-band-and-drone-show-0",
+   "url": "https://saintlouis.kidsoutandabout.com/content/family-night-8",
    "source": "Kids Out and About STL",
    "extraction": "heuristic"
   },
   {
-   "name": "Sunset Concert Series",
-   "date": "2026-09-04",
-   "venue": "",
-   "town": "St. Peters",
-   "url": "https://saintlouis.kidsoutandabout.com/content/sunset-concert-series-1",
+   "name": "Wednesday Storytime",
+   "date": "2026-09-09",
+   "venue": "Barnes & Noble - Fenton",
+   "town": "Fenton",
+   "url": "https://saintlouis.kidsoutandabout.com/content/wednesday-storytime-0",
    "source": "Kids Out and About STL",
    "extraction": "heuristic"
   }

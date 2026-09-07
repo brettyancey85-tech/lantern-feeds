@@ -1,11 +1,11 @@
 {
  "schema": "lantern-events/v1",
  "region": "katy-tx",
- "generated_at": "2026-09-04T17:23:36Z",
+ "generated_at": "2026-09-07T17:24:11Z",
  "events": [
   {
    "name": "Clickbait",
-   "date": "2026-09-03",
+   "date": "2026-09-07",
    "venue": "Houston Museum of Natural Science",
    "town": "Houston",
    "url": "https://houston.kidsoutandabout.com/content/clickbait",
@@ -13,61 +13,8 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Fall/Spring 2026-27 Registration",
-   "date": "2026-09-03",
-   "venue": "MoveNation Dance Academy",
-   "town": "Houston",
-   "url": "https://houston.kidsoutandabout.com/content/fallspring-2026-27-registration",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Summer Exhibitions at the Pearl Fincher Museum of Fine Arts",
-   "date": "2026-09-03",
-   "venue": "Pearl Fincher Museum of Fine Arts",
-   "town": "Spring",
-   "url": "https://houston.kidsoutandabout.com/content/summer-exhibitions-pearl-fincher-museum-fine-arts",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Texas America250 Reading Challenge",
-   "date": "2026-09-03",
-   "venue": "Texas State Library and Archives Commission",
-   "town": "Texas 78701",
-   "url": "https://houston.kidsoutandabout.com/content/texas-america250-reading-challenge",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "TXU Energy presents Mythical Realms",
-   "date": "2026-09-03",
-   "venue": "Houston Zoo",
-   "town": "Houston",
-   "url": "https://houston.kidsoutandabout.com/content/txu-energy-presents-mythical-realms",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Asake in Concert at Toyota Center",
-   "date": "2026-09-04",
-   "venue": "Toyota Center",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/asake-in-concert-at-toyota-center/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "BASF Kids' Labs",
-   "date": "2026-09-04",
-   "venue": "Children's Museum Houston",
-   "town": "Houston",
-   "url": "https://houston.kidsoutandabout.com/content/basf-kids-labs",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
    "name": "Clickbait – A digital obsession",
-   "date": "2026-09-04",
+   "date": "2026-09-07",
    "venue": "",
    "town": "",
    "url": "https://houstonfamilymagazine.com/events/clickbait-a-digital-obsession/",
@@ -75,32 +22,34 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Comedian Russell Peters at Houston Improv",
-   "date": "2026-09-04",
-   "venue": "Houston Improv",
+   "name": "Fall/Spring 2026-27 Registration",
+   "date": "2026-09-07",
+   "venue": "MoveNation Dance Academy",
    "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/comedian-russell-peters-at-houston-improv-2026-3/",
-   "source": "365 Things in Houston"
+   "url": "https://houston.kidsoutandabout.com/content/fallspring-2026-27-registration",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
   },
   {
-   "name": "Double Feature: WindSync & Musiqa in Concert at Miller Outdoor Theatre",
-   "date": "2026-09-04",
-   "venue": "Miller Outdoor Theatre",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/double-feature-windsync-musiqa-in-concert-at-miller-outdoor-theatre/",
-   "source": "365 Things in Houston"
+   "name": "FREE fall and holiday mini photo sessions with Shoott! - Greater Houston",
+   "date": "2026-09-07",
+   "venue": "Shoott",
+   "town": "New York",
+   "url": "https://houston.kidsoutandabout.com/content/free-fall-and-holiday-mini-photo-sessions-shoott-greater-houston",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
   },
   {
-   "name": "Fun, Free & Cheap Events | September 4 – September 6",
-   "date": "2026-09-04",
+   "name": "Houston Highlights: September 7 to September 10 – Food, Music, Arts & More",
+   "date": "2026-09-07",
    "venue": "",
    "town": "",
-   "url": "https://www.houstononthecheap.com/top-events-in-houston-september-4-september-6-2026/",
+   "url": "https://www.houstononthecheap.com/houston-picks-september7-to-september-10-2026/",
    "source": "Houston on the Cheap"
   },
   {
    "name": "King Tut’s Tomb Discovery Experience",
-   "date": "2026-09-04",
+   "date": "2026-09-07",
    "venue": "",
    "town": "",
    "url": "https://houstonfamilymagazine.com/events/king-tuts-tomb-discovery-experience/",
@@ -108,8 +57,26 @@
    "extraction": "heuristic"
   },
   {
+   "name": "Labor Day at Lone Star Flight Museum",
+   "date": "2026-09-07",
+   "venue": "Lone Star Flight Museum",
+   "town": "Houston",
+   "url": "https://houston.kidsoutandabout.com/content/labor-day-lone-star-flight-museum",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Labor Day Camp",
+   "date": "2026-09-07",
+   "venue": "D-BAT West Houston",
+   "town": "Houston",
+   "url": "https://houston.kidsoutandabout.com/content/labor-day-camp-1",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
    "name": "The Moonwalkers: A Journey with Tom Hanks",
-   "date": "2026-09-04",
+   "date": "2026-09-07",
    "venue": "",
    "town": "",
    "url": "https://houstonfamilymagazine.com/events/the-moonwalkers-a-journey-with-tom-hanks-4/",
@@ -117,8 +84,17 @@
    "extraction": "heuristic"
   },
   {
+   "name": "Preschool Gymnastics Classes",
+   "date": "2026-09-07",
+   "venue": "H-Town Elite Gymnastics",
+   "town": "Houston",
+   "url": "https://houston.kidsoutandabout.com/content/preschool-gymnastics-classes",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
    "name": "Second Saturday Bird Survey",
-   "date": "2026-09-04",
+   "date": "2026-09-07",
    "venue": "",
    "town": "",
    "url": "https://houstonfamilymagazine.com/events/second-saturday-bird-survey-20/",
@@ -126,17 +102,8 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Storytime on The Terrace",
-   "date": "2026-09-04",
-   "venue": "Montrose Collective",
-   "town": "Houston",
-   "url": "https://houston.kidsoutandabout.com/content/storytime-terrace-1",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
    "name": "StoryTime with Ms. Maria",
-   "date": "2026-09-04",
+   "date": "2026-09-07",
    "venue": "",
    "town": "",
    "url": "https://houstonfamilymagazine.com/events/storytime-with-ms-maria-10/",
@@ -144,8 +111,17 @@
    "extraction": "heuristic"
   },
   {
+   "name": "Texas America250 Reading Challenge",
+   "date": "2026-09-07",
+   "venue": "Texas State Library and Archives Commission",
+   "town": "Texas 78701",
+   "url": "https://houston.kidsoutandabout.com/content/texas-america250-reading-challenge",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
    "name": "Trail mix",
-   "date": "2026-09-04",
+   "date": "2026-09-07",
    "venue": "",
    "town": "",
    "url": "https://houstonfamilymagazine.com/events/trail-mix-28/",
@@ -154,7 +130,7 @@
   },
   {
    "name": "TXU Energy presents Mythical Realms",
-   "date": "2026-09-04",
+   "date": "2026-09-07",
    "venue": "",
    "town": "",
    "url": "https://houstonfamilymagazine.com/events/txu-energy-presents-mythical-realms/",
@@ -162,8 +138,17 @@
    "extraction": "heuristic"
   },
   {
+   "name": "TXU Energy presents Mythical Realms",
+   "date": "2026-09-07",
+   "venue": "Houston Zoo",
+   "town": "Houston",
+   "url": "https://houston.kidsoutandabout.com/content/txu-energy-presents-mythical-realms",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
    "name": "View Details",
-   "date": "2026-09-04",
+   "date": "2026-09-07",
    "venue": "",
    "town": "",
    "url": "https://houstonfamilymagazine.com/events/king-tuts-tomb-discovery-experience/",
@@ -172,7 +157,7 @@
   },
   {
    "name": "Zoo Mythical Realms",
-   "date": "2026-09-04",
+   "date": "2026-09-07",
    "venue": "",
    "town": "",
    "url": "https://houstonfamilymagazine.com/events-calendar/?event_category=40537",
@@ -180,75 +165,19 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Blue Heartstrings Opening Reception at Archway Gallery",
-   "date": "2026-09-05",
-   "venue": "Archway Gallery",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/blue-heartstrings-opening-reception-at-archway-gallery/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Comedian Russell Peters at Houston Improv",
-   "date": "2026-09-05",
-   "venue": "Houston Improv",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/comedian-russell-peters-at-houston-improv-2026-5/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "First Saturday Arts Market in The Heights",
-   "date": "2026-09-05",
-   "venue": "First Saturday Arts Market",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/first-saturday-arts-market-in-the-heights-september-2026/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Mercury: Baroque to Boleros at Miller Outdoor Theatre",
-   "date": "2026-09-05",
-   "venue": "Miller Outdoor Theatre",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/mercury-baroque-to-boleros-at-miller-outdoor-theatre/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "R&B Super Jam at Toyota Center",
-   "date": "2026-09-05",
-   "venue": "Toyota Center",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/rb-super-jam-at-toyota-center/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Theatre of Magic at the JW Marriott Houston Downtown",
-   "date": "2026-09-05",
-   "venue": "JW Marriott Houston Downtown",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/theatre-of-magic-at-the-jw-marriott-houston-downtown-11/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Trail Mix: Fall Edition at M-K-T",
-   "date": "2026-09-05",
-   "venue": "M-K-T",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/trail-mix-fall-edition-at-m-k-t-september-2026/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Pickled Pepper Fest at Karbach Brewing Co.",
-   "date": "2026-09-06",
-   "venue": "Karbach Brewing Company",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/pickled-pepper-fest-at-karbach-brewing-co/",
-   "source": "365 Things in Houston"
-  },
-  {
    "name": "Kany Garcia in Concert at Smart Financial Centre",
    "date": "2026-09-10",
    "venue": "Smart Financial Centre at Sugar Land",
    "town": "Sugar Land",
    "url": "https://365thingsinhouston.com/calendar/kany-garcia-in-concert-at-smart-financial-centre/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Piano Men Under the Stars: An Elton John & Billy Joel Tribute at Marriott Marqui",
+   "date": "2026-09-10",
+   "venue": "Marriott Marquis Houston Downtown",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/piano-men-concert-under-the-stars-elton-john-billy-joel-tribute-marriott-marquis-houston-september-2026/",
    "source": "365 Things in Houston"
   },
   {
@@ -268,6 +197,30 @@
    "source": "365 Things in Houston"
   },
   {
+   "name": "Fun, Free & Cheap Events | September 11 – September 13",
+   "date": "2026-09-11",
+   "venue": "",
+   "town": "",
+   "url": "https://www.houstononthecheap.com/top-events-in-houston-september-11-september-13-2026/",
+   "source": "Houston on the Cheap"
+  },
+  {
+   "name": "Jill Scott in Concert at Smart Financial Centre",
+   "date": "2026-09-11",
+   "venue": "Smart Financial Centre at Sugar Land",
+   "town": "Sugar Land",
+   "url": "https://365thingsinhouston.com/calendar/jill-scott-in-concert-at-smart-financial-centre-september-2026-1/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Monarch Chamber Players: New Beginnings Concert at Archway Gallery",
+   "date": "2026-09-11",
+   "venue": "Archway Gallery",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/monarch-chamber-players-new-beginnings-at-archway-gallery-1/",
+   "source": "365 Things in Houston"
+  },
+  {
    "name": "People of Hope Traveling Museum at Mamie George Community Center",
    "date": "2026-09-11",
    "venue": "Mamie George Community Center",
@@ -284,11 +237,35 @@
    "source": "365 Things in Houston"
   },
   {
+   "name": "Jill Scott in Concert at Smart Financial Centre",
+   "date": "2026-09-12",
+   "venue": "Smart Financial Centre at Sugar Land",
+   "town": "Sugar Land",
+   "url": "https://365thingsinhouston.com/calendar/jill-scott-in-concert-at-smart-financial-centre-september-2026-2/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Monarch Chamber Players: New Beginnings Concert at St. Stephen’s United Methodis",
+   "date": "2026-09-12",
+   "venue": "St. Stephen’s United Methodist Church",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/monarch-chamber-players-new-beginnings-concert-at-st-stephens-united-methodist-church-2/",
+   "source": "365 Things in Houston"
+  },
+  {
    "name": "Puffy AmiYumi – Hi Hi Houston! at Miller Outdoor Theatre",
    "date": "2026-09-12",
    "venue": "Miller Outdoor Theatre",
    "town": "Houston",
    "url": "https://365thingsinhouston.com/calendar/puffy-amiyumi-hi-hi-houston-at-miller-outdoor-theatre/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "UT MD Anderson Cancer Center’s Boot Walk Kickoff at Smart Financial Centre",
+   "date": "2026-09-12",
+   "venue": "Smart Financial Centre at Sugar Land",
+   "town": "Sugar Land",
+   "url": "https://365thingsinhouston.com/calendar/ut-md-anderson-cancer-centers-boot-walk-kickoff-at-smart-financial-centre/",
    "source": "365 Things in Houston"
   },
   {
@@ -369,6 +346,78 @@
    "venue": "Smart Financial Centre at Sugar Land",
    "town": "Sugar Land",
    "url": "https://365thingsinhouston.com/calendar/shreya-ghoshal-in-concert-at-smart-financial-centre/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "24th Annual Noche Caliente at Miller Outdoor Theatre",
+   "date": "2026-09-19",
+   "venue": "Miller Outdoor Theatre",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/24th-annual-noche-caliente-at-miller-outdoor-theatre/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "The 2nd Chance Run at Willow Waterhole Greenway",
+   "date": "2026-09-19",
+   "venue": "Willow Waterhole Greenway",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/the-2nd-chance-run-at-willow-waterhole-2026/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "ABRA Cadabra: The Music & Magic of ABBA at Wortham Center",
+   "date": "2026-09-19",
+   "venue": "Wortham Theater Center",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/abra-cadabra-the-music-magic-of-abba-at-wortham-center/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Awake Houston at Smart Financial Centre",
+   "date": "2026-09-19",
+   "venue": "Smart Financial Centre at Sugar Land",
+   "town": "Sugar Land",
+   "url": "https://365thingsinhouston.com/calendar/awake-houston-at-smart-financial-centre/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "The Conjurer: An Intimate Magical Experience with Master Magician Curt Miller in",
+   "date": "2026-09-19",
+   "venue": "Hyatt Place The Woodlands",
+   "town": "The Woodlands",
+   "url": "https://365thingsinhouston.com/calendar/the-conjurer-an-intimate-magical-experience-with-master-magician-curt-miller-in-the-woodlands-5/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Tame Impala in Concert at Toyota Center",
+   "date": "2026-09-19",
+   "venue": "Toyota Center",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/tame-impala-in-concert-at-toyota-center-1/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Theatre of Magic at the JW Marriott Houston Downtown",
+   "date": "2026-09-19",
+   "venue": "JW Marriott Houston Downtown",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/theatre-of-magic-at-the-jw-marriott-houston-downtown-9/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Tame Impala in Concert at Toyota Center",
+   "date": "2026-09-20",
+   "venue": "Toyota Center",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/tame-impala-in-concert-at-toyota-center-2/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Rod Wave in Concert at Toyota Center",
+   "date": "2026-09-21",
+   "venue": "Toyota Center",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/rod-wave-in-concert-at-toyota-center-1/",
    "source": "365 Things in Houston"
   }
  ]

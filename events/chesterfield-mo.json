@@ -1,11 +1,11 @@
 {
  "schema": "lantern-events/v1",
  "region": "chesterfield-mo",
- "generated_at": "2026-09-04T17:23:36Z",
+ "generated_at": "2026-09-07T17:24:11Z",
  "events": [
   {
    "name": "Corn Maze- Broemmelsiek Park",
-   "date": "2026-09-03",
+   "date": "2026-09-06",
    "venue": "Broemmelsiek Park",
    "town": "Defiance",
    "url": "https://saintlouis.kidsoutandabout.com/content/corn-maze-broemmelsiek-park-0",
@@ -14,7 +14,7 @@
   },
   {
    "name": "Patterns in Nature: The Art of Hybycozo",
-   "date": "2026-09-03",
+   "date": "2026-09-06",
    "venue": "Missouri Botanical Garden",
    "town": "St. Louis",
    "url": "https://saintlouis.kidsoutandabout.com/content/patterns-nature-art-hybycozo",
@@ -23,7 +23,7 @@
   },
   {
    "name": "Thomas & Friends™: Explore the Rails!",
-   "date": "2026-09-03",
+   "date": "2026-09-06",
    "venue": "The Magic House",
    "town": "St. Louis",
    "url": "https://saintlouis.kidsoutandabout.com/content/thomas-friends%E2%84%A2-explore-rails",
@@ -31,28 +31,20 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Open Gym - Come play at Miss Kelly's Gym!",
-   "date": "2026-09-04",
-   "venue": "",
-   "town": "Miss Kelly's Gym - Creve Coeur and Cottl",
-   "url": "https://saintlouis.kidsoutandabout.com/content/open-gym-come-play-miss-kellys-gym",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Top 5 Must-Do Weekend Activities in St. Louis",
-   "date": "2026-09-04",
-   "venue": "",
-   "town": "",
-   "url": "https://stlouismom.com/in-and-around-st-louis/top-5-must-do-weekend-activities-in-st-louis/?utm_source=rss&utm_medium=rss&utm_campaign=top-5-must-do-weekend-activities-in-st-louis",
-   "source": "STL Mom"
-  },
-  {
    "name": "Family Night",
    "date": "2026-09-09",
    "venue": "Cardinals Nation",
    "town": "St. Louis",
    "url": "https://saintlouis.kidsoutandabout.com/content/family-night-8",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Open Gym - Come play at Miss Kelly's Gym!",
+   "date": "2026-09-09",
+   "venue": "",
+   "town": "Miss Kelly's Gym - Creve Coeur and Cottl",
+   "url": "https://saintlouis.kidsoutandabout.com/content/open-gym-come-play-miss-kellys-gym",
    "source": "Kids Out and About STL",
    "extraction": "heuristic"
   },

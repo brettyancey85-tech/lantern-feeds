@@ -1,29 +1,11 @@
 {
  "schema": "lantern-events/v1",
  "region": "katy-tx",
- "generated_at": "2026-09-07T17:24:11Z",
+ "generated_at": "2026-09-11T17:24:09Z",
  "events": [
   {
-   "name": "Clickbait",
-   "date": "2026-09-07",
-   "venue": "Houston Museum of Natural Science",
-   "town": "Houston",
-   "url": "https://houston.kidsoutandabout.com/content/clickbait",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Clickbait – A digital obsession",
-   "date": "2026-09-07",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/clickbait-a-digital-obsession/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
    "name": "Fall/Spring 2026-27 Registration",
-   "date": "2026-09-07",
+   "date": "2026-09-10",
    "venue": "MoveNation Dance Academy",
    "town": "Houston",
    "url": "https://houston.kidsoutandabout.com/content/fallspring-2026-27-registration",
@@ -32,7 +14,7 @@
   },
   {
    "name": "FREE fall and holiday mini photo sessions with Shoott! - Greater Houston",
-   "date": "2026-09-07",
+   "date": "2026-09-10",
    "venue": "Shoott",
    "town": "New York",
    "url": "https://houston.kidsoutandabout.com/content/free-fall-and-holiday-mini-photo-sessions-shoott-greater-houston",
@@ -40,52 +22,17 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Houston Highlights: September 7 to September 10 – Food, Music, Arts & More",
-   "date": "2026-09-07",
+   "name": "In Person: Storytime",
+   "date": "2026-09-10",
    "venue": "",
    "town": "",
-   "url": "https://www.houstononthecheap.com/houston-picks-september7-to-september-10-2026/",
-   "source": "Houston on the Cheap"
-  },
-  {
-   "name": "King Tut’s Tomb Discovery Experience",
-   "date": "2026-09-07",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/king-tuts-tomb-discovery-experience/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Labor Day at Lone Star Flight Museum",
-   "date": "2026-09-07",
-   "venue": "Lone Star Flight Museum",
-   "town": "Houston",
-   "url": "https://houston.kidsoutandabout.com/content/labor-day-lone-star-flight-museum",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Labor Day Camp",
-   "date": "2026-09-07",
-   "venue": "D-BAT West Houston",
-   "town": "Houston",
-   "url": "https://houston.kidsoutandabout.com/content/labor-day-camp-1",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "The Moonwalkers: A Journey with Tom Hanks",
-   "date": "2026-09-07",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/the-moonwalkers-a-journey-with-tom-hanks-4/",
+   "url": "https://houstonfamilymagazine.com/events/in-person-storytime-15/",
    "source": "Houston Family Magazine",
    "extraction": "heuristic"
   },
   {
    "name": "Preschool Gymnastics Classes",
-   "date": "2026-09-07",
+   "date": "2026-09-10",
    "venue": "H-Town Elite Gymnastics",
    "town": "Houston",
    "url": "https://houston.kidsoutandabout.com/content/preschool-gymnastics-classes",
@@ -93,26 +40,8 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Second Saturday Bird Survey",
-   "date": "2026-09-07",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/second-saturday-bird-survey-20/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "StoryTime with Ms. Maria",
-   "date": "2026-09-07",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/storytime-with-ms-maria-10/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
    "name": "Texas America250 Reading Challenge",
-   "date": "2026-09-07",
+   "date": "2026-09-10",
    "venue": "Texas State Library and Archives Commission",
    "town": "Texas 78701",
    "url": "https://houston.kidsoutandabout.com/content/texas-america250-reading-challenge",
@@ -120,65 +49,13 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Trail mix",
-   "date": "2026-09-07",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/trail-mix-28/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "TXU Energy presents Mythical Realms",
-   "date": "2026-09-07",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/txu-energy-presents-mythical-realms/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "TXU Energy presents Mythical Realms",
-   "date": "2026-09-07",
-   "venue": "Houston Zoo",
-   "town": "Houston",
-   "url": "https://houston.kidsoutandabout.com/content/txu-energy-presents-mythical-realms",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
    "name": "View Details",
-   "date": "2026-09-07",
+   "date": "2026-09-10",
    "venue": "",
    "town": "",
-   "url": "https://houstonfamilymagazine.com/events/king-tuts-tomb-discovery-experience/",
+   "url": "https://houstonfamilymagazine.com/events/in-person-storytime-15/",
    "source": "Houston Family Magazine",
    "extraction": "heuristic"
-  },
-  {
-   "name": "Zoo Mythical Realms",
-   "date": "2026-09-07",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events-calendar/?event_category=40537",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Kany Garcia in Concert at Smart Financial Centre",
-   "date": "2026-09-10",
-   "venue": "Smart Financial Centre at Sugar Land",
-   "town": "Sugar Land",
-   "url": "https://365thingsinhouston.com/calendar/kany-garcia-in-concert-at-smart-financial-centre/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Piano Men Under the Stars: An Elton John & Billy Joel Tribute at Marriott Marqui",
-   "date": "2026-09-10",
-   "venue": "Marriott Marquis Houston Downtown",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/piano-men-concert-under-the-stars-elton-john-billy-joel-tribute-marriott-marquis-houston-september-2026/",
-   "source": "365 Things in Houston"
   },
   {
    "name": "Asia Society Texas: Mỹ Anh in Concert at Miller Outdoor Theatre",
@@ -189,12 +66,30 @@
    "source": "365 Things in Houston"
   },
   {
+   "name": "Beyond Bees",
+   "date": "2026-09-11",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/beyond-bees-14/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
+  },
+  {
    "name": "Cash Money & No Limit Tour at Toyota Center",
    "date": "2026-09-11",
    "venue": "Toyota Center",
    "town": "Houston",
    "url": "https://365thingsinhouston.com/calendar/cash-money-no-limit-tour-at-toyota-center/",
    "source": "365 Things in Houston"
+  },
+  {
+   "name": "Clickbait – A digital obsession",
+   "date": "2026-09-11",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/clickbait-a-digital-obsession/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
   },
   {
    "name": "Fun, Free & Cheap Events | September 11 – September 13",
@@ -213,6 +108,15 @@
    "source": "365 Things in Houston"
   },
   {
+   "name": "The Journey to End Cancer: From Cause to Cure",
+   "date": "2026-09-11",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/the-journey-to-end-cancer-from-cause-to-cure/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
+  },
+  {
    "name": "Monarch Chamber Players: New Beginnings Concert at Archway Gallery",
    "date": "2026-09-11",
    "venue": "Archway Gallery",
@@ -221,11 +125,73 @@
    "source": "365 Things in Houston"
   },
   {
+   "name": "The Moonwalkers: A Journey with Tom Hanks",
+   "date": "2026-09-11",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/the-moonwalkers-a-journey-with-tom-hanks-4/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
+  },
+  {
    "name": "People of Hope Traveling Museum at Mamie George Community Center",
    "date": "2026-09-11",
    "venue": "Mamie George Community Center",
    "town": "Richmond",
    "url": "https://365thingsinhouston.com/calendar/people-of-hope-traveling-museum-at-mamie-george-community-center/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Second Saturday Bird Survey",
+   "date": "2026-09-11",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/second-saturday-bird-survey-20/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "StoryTime with Ms. Maria",
+   "date": "2026-09-11",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/storytime-with-ms-maria-10/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Trail mix",
+   "date": "2026-09-11",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/trail-mix-28/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Undercurrents",
+   "date": "2026-09-11",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/undercurrents/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "View Details",
+   "date": "2026-09-11",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/clickbait-a-digital-obsession/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "19th Annual Vietnamese American Health Fair Alief Neighborhood Center",
+   "date": "2026-09-12",
+   "venue": "Alief Neighborhood Center",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/19th-annual-vietnamese-american-health-fair-alief-neighborhood-center/",
    "source": "365 Things in Houston"
   },
   {
@@ -253,19 +219,19 @@
    "source": "365 Things in Houston"
   },
   {
-   "name": "Puffy AmiYumi – Hi Hi Houston! at Miller Outdoor Theatre",
-   "date": "2026-09-12",
-   "venue": "Miller Outdoor Theatre",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/puffy-amiyumi-hi-hi-houston-at-miller-outdoor-theatre/",
-   "source": "365 Things in Houston"
-  },
-  {
    "name": "UT MD Anderson Cancer Center’s Boot Walk Kickoff at Smart Financial Centre",
    "date": "2026-09-12",
    "venue": "Smart Financial Centre at Sugar Land",
    "town": "Sugar Land",
    "url": "https://365thingsinhouston.com/calendar/ut-md-anderson-cancer-centers-boot-walk-kickoff-at-smart-financial-centre/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Yano et Agatsuma in Concert at Miller Outdoor Theatre",
+   "date": "2026-09-12",
+   "venue": "Miller Outdoor Theatre",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/puffy-amiyumi-hi-hi-houston-at-miller-outdoor-theatre/",
    "source": "365 Things in Houston"
   },
   {
@@ -282,6 +248,14 @@
    "venue": "Miller Outdoor Theatre",
    "town": "Houston",
    "url": "https://365thingsinhouston.com/calendar/japan-festival-houston-2026-at-miller-outdoor-theatre/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "King’s Cup at Houston Polo Club",
+   "date": "2026-09-13",
+   "venue": "Houston Polo Club",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/kings-cup-at-houston-polo-club-fall-2026/",
    "source": "365 Things in Houston"
   },
   {
@@ -405,6 +379,14 @@
    "source": "365 Things in Houston"
   },
   {
+   "name": "Santori Classic at Houston Polo Club",
+   "date": "2026-09-20",
+   "venue": "Houston Polo Club",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/santori-classic-at-houston-polo-club-2026/",
+   "source": "365 Things in Houston"
+  },
+  {
    "name": "Tame Impala in Concert at Toyota Center",
    "date": "2026-09-20",
    "venue": "Toyota Center",
@@ -418,6 +400,22 @@
    "venue": "Toyota Center",
    "town": "Houston",
    "url": "https://365thingsinhouston.com/calendar/rod-wave-in-concert-at-toyota-center-1/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Rod Wave in Concert at Toyota Center",
+   "date": "2026-09-22",
+   "venue": "Toyota Center",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/rod-wave-in-concert-at-toyota-center-2/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "ROCO: Eyes on the Horizon Concert at Miller Outdoor Theatre",
+   "date": "2026-09-25",
+   "venue": "Miller Outdoor Theatre",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/roco-eyes-on-the-horizon-concert-at-miller-outdoor-theatre/",
    "source": "365 Things in Houston"
   }
  ]

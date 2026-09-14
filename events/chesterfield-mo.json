@@ -1,29 +1,11 @@
 {
  "schema": "lantern-events/v1",
  "region": "chesterfield-mo",
- "generated_at": "2026-09-11T17:24:09Z",
+ "generated_at": "2026-09-14T17:22:58Z",
  "events": [
   {
-   "name": "Michelle Hanna",
-   "date": "2026-09-10",
-   "venue": "",
-   "town": "",
-   "url": "https://stlouismom.com/author/michellehanna/",
-   "source": "STL Mom",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "2026 Old Orchard Gazebo Music Series",
-   "date": "2026-09-11",
-   "venue": "",
-   "town": "Webster Groves",
-   "url": "https://saintlouis.kidsoutandabout.com/content/2026-old-orchard-gazebo-music-series",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
    "name": "31st Annual Mosaics Fine Art Festival",
-   "date": "2026-09-11",
+   "date": "2026-09-13",
    "venue": "",
    "town": "Historic North Main Street in St. Charle",
    "url": "https://saintlouis.kidsoutandabout.com/content/31st-annual-mosaics-fine-art-festival",
@@ -31,26 +13,8 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Bellevue Park Nights",
-   "date": "2026-09-11",
-   "venue": "Bellevue Park",
-   "town": "Illinois",
-   "url": "https://saintlouis.kidsoutandabout.com/content/bellevue-park-nights",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "The Black Rep Presents: The Color Purple",
-   "date": "2026-09-11",
-   "venue": "The Black Rep",
-   "town": "St. Louis",
-   "url": "https://saintlouis.kidsoutandabout.com/content/black-rep-presents-color-purple",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
    "name": "Corn Maze- Broemmelsiek Park",
-   "date": "2026-09-11",
+   "date": "2026-09-13",
    "venue": "Broemmelsiek Park",
    "town": "Defiance",
    "url": "https://saintlouis.kidsoutandabout.com/content/corn-maze-broemmelsiek-park-0",
@@ -58,26 +22,8 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Girl Scout Information Night",
-   "date": "2026-09-11",
-   "venue": "Scenic Regional Library - St. Clair Branch",
-   "town": "St Clair",
-   "url": "https://saintlouis.kidsoutandabout.com/content/girl-scout-information-night-4",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Movie Night at Westport",
-   "date": "2026-09-11",
-   "venue": "",
-   "town": "Maryland Heights Township",
-   "url": "https://saintlouis.kidsoutandabout.com/content/movie-night-westport-1",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
    "name": "Oktoberfest at Grant's Farm",
-   "date": "2026-09-11",
+   "date": "2026-09-13",
    "venue": "Grant's Farm",
    "town": "St. Louis",
    "url": "https://saintlouis.kidsoutandabout.com/content/oktoberfest-grants-farm-0",
@@ -85,26 +31,8 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Open Gym - Come play at Miss Kelly's Gym!",
-   "date": "2026-09-11",
-   "venue": "",
-   "town": "Miss Kelly's Gym - Creve Coeur and Cottl",
-   "url": "https://saintlouis.kidsoutandabout.com/content/open-gym-come-play-miss-kellys-gym",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Open Play at Your Village",
-   "date": "2026-09-11",
-   "venue": "Your Village STL: Jennifer Tietjen",
-   "town": "Chesterfield",
-   "url": "https://saintlouis.kidsoutandabout.com/content/open-play-your-village",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
    "name": "Patterns in Nature: The Art of Hybycozo",
-   "date": "2026-09-11",
+   "date": "2026-09-13",
    "venue": "Missouri Botanical Garden",
    "town": "St. Louis",
    "url": "https://saintlouis.kidsoutandabout.com/content/patterns-nature-art-hybycozo",
@@ -113,7 +41,7 @@
   },
   {
    "name": "Schlafly Art Outside",
-   "date": "2026-09-11",
+   "date": "2026-09-13",
    "venue": "Schlafly Bottleworks",
    "town": "Maplewood",
    "url": "https://saintlouis.kidsoutandabout.com/content/schlafly-art-outside-1",
@@ -122,7 +50,7 @@
   },
   {
    "name": "St. Louis Cardinals Home Games",
-   "date": "2026-09-11",
+   "date": "2026-09-13",
    "venue": "St. Louis Cardinals",
    "town": "St. Louis",
    "url": "https://saintlouis.kidsoutandabout.com/content/st-louis-cardinals-home-games-2",
@@ -130,8 +58,44 @@
    "extraction": "heuristic"
   },
   {
+   "name": "Lauren Velasco",
+   "date": "2026-09-14",
+   "venue": "",
+   "town": "",
+   "url": "https://stlouismom.com/author/laurenvelasco/",
+   "source": "STL Mom",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Open Play at Your Village",
+   "date": "2026-09-14",
+   "venue": "Your Village STL: Jennifer Tietjen",
+   "town": "Chesterfield",
+   "url": "https://saintlouis.kidsoutandabout.com/content/open-play-your-village",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Open Gym - Come play at Miss Kelly's Gym!",
+   "date": "2026-09-16",
+   "venue": "",
+   "town": "Miss Kelly's Gym - Creve Coeur and Cottl",
+   "url": "https://saintlouis.kidsoutandabout.com/content/open-gym-come-play-miss-kellys-gym",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "2026 Old Orchard Gazebo Music Series",
+   "date": "2026-09-18",
+   "venue": "",
+   "town": "Webster Groves",
+   "url": "https://saintlouis.kidsoutandabout.com/content/2026-old-orchard-gazebo-music-series",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
    "name": "Sunset Concert Series",
-   "date": "2026-09-11",
+   "date": "2026-09-19",
    "venue": "",
    "town": "St. Peters",
    "url": "https://saintlouis.kidsoutandabout.com/content/sunset-concert-series-1",

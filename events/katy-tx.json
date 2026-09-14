@@ -1,11 +1,11 @@
 {
  "schema": "lantern-events/v1",
  "region": "katy-tx",
- "generated_at": "2026-09-11T17:24:09Z",
+ "generated_at": "2026-09-14T17:22:58Z",
  "events": [
   {
    "name": "Fall/Spring 2026-27 Registration",
-   "date": "2026-09-10",
+   "date": "2026-09-13",
    "venue": "MoveNation Dance Academy",
    "town": "Houston",
    "url": "https://houston.kidsoutandabout.com/content/fallspring-2026-27-registration",
@@ -14,7 +14,7 @@
   },
   {
    "name": "FREE fall and holiday mini photo sessions with Shoott! - Greater Houston",
-   "date": "2026-09-10",
+   "date": "2026-09-13",
    "venue": "Shoott",
    "town": "New York",
    "url": "https://houston.kidsoutandabout.com/content/free-fall-and-holiday-mini-photo-sessions-shoott-greater-houston",
@@ -22,26 +22,8 @@
    "extraction": "heuristic"
   },
   {
-   "name": "In Person: Storytime",
-   "date": "2026-09-10",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/in-person-storytime-15/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Preschool Gymnastics Classes",
-   "date": "2026-09-10",
-   "venue": "H-Town Elite Gymnastics",
-   "town": "Houston",
-   "url": "https://houston.kidsoutandabout.com/content/preschool-gymnastics-classes",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
    "name": "Texas America250 Reading Challenge",
-   "date": "2026-09-10",
+   "date": "2026-09-13",
    "venue": "Texas State Library and Archives Commission",
    "town": "Texas 78701",
    "url": "https://houston.kidsoutandabout.com/content/texas-america250-reading-challenge",
@@ -49,84 +31,25 @@
    "extraction": "heuristic"
   },
   {
-   "name": "View Details",
-   "date": "2026-09-10",
+   "name": "Bumper Boats And Cruiser Boats",
+   "date": "2026-09-14",
    "venue": "",
    "town": "",
-   "url": "https://houstonfamilymagazine.com/events/in-person-storytime-15/",
+   "url": "https://houstonfamilymagazine.com/events/bumper-boats-and-cruiser-boats-2/",
    "source": "Houston Family Magazine",
    "extraction": "heuristic"
   },
   {
-   "name": "Asia Society Texas: Mỹ Anh in Concert at Miller Outdoor Theatre",
-   "date": "2026-09-11",
-   "venue": "Miller Outdoor Theatre",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/asia-society-texas-my-anh-in-concert-at-miller-outdoor-theatre/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Beyond Bees",
-   "date": "2026-09-11",
+   "name": "Houston Highlights: September 14 to September 17 – Food, Music, Arts & More",
+   "date": "2026-09-14",
    "venue": "",
    "town": "",
-   "url": "https://houstonfamilymagazine.com/events/beyond-bees-14/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Cash Money & No Limit Tour at Toyota Center",
-   "date": "2026-09-11",
-   "venue": "Toyota Center",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/cash-money-no-limit-tour-at-toyota-center/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Clickbait – A digital obsession",
-   "date": "2026-09-11",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/clickbait-a-digital-obsession/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Fun, Free & Cheap Events | September 11 – September 13",
-   "date": "2026-09-11",
-   "venue": "",
-   "town": "",
-   "url": "https://www.houstononthecheap.com/top-events-in-houston-september-11-september-13-2026/",
+   "url": "https://www.houstononthecheap.com/houston-picks-september-14-to-september-17-2026/",
    "source": "Houston on the Cheap"
   },
   {
-   "name": "Jill Scott in Concert at Smart Financial Centre",
-   "date": "2026-09-11",
-   "venue": "Smart Financial Centre at Sugar Land",
-   "town": "Sugar Land",
-   "url": "https://365thingsinhouston.com/calendar/jill-scott-in-concert-at-smart-financial-centre-september-2026-1/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "The Journey to End Cancer: From Cause to Cure",
-   "date": "2026-09-11",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/the-journey-to-end-cancer-from-cause-to-cure/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Monarch Chamber Players: New Beginnings Concert at Archway Gallery",
-   "date": "2026-09-11",
-   "venue": "Archway Gallery",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/monarch-chamber-players-new-beginnings-at-archway-gallery-1/",
-   "source": "365 Things in Houston"
-  },
-  {
    "name": "The Moonwalkers: A Journey with Tom Hanks",
-   "date": "2026-09-11",
+   "date": "2026-09-14",
    "venue": "",
    "town": "",
    "url": "https://houstonfamilymagazine.com/events/the-moonwalkers-a-journey-with-tom-hanks-4/",
@@ -134,16 +57,17 @@
    "extraction": "heuristic"
   },
   {
-   "name": "People of Hope Traveling Museum at Mamie George Community Center",
-   "date": "2026-09-11",
-   "venue": "Mamie George Community Center",
-   "town": "Richmond",
-   "url": "https://365thingsinhouston.com/calendar/people-of-hope-traveling-museum-at-mamie-george-community-center/",
-   "source": "365 Things in Houston"
+   "name": "Preschool Gymnastics Classes",
+   "date": "2026-09-14",
+   "venue": "H-Town Elite Gymnastics",
+   "town": "Houston",
+   "url": "https://houston.kidsoutandabout.com/content/preschool-gymnastics-classes",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
   },
   {
    "name": "Second Saturday Bird Survey",
-   "date": "2026-09-11",
+   "date": "2026-09-14",
    "venue": "",
    "town": "",
    "url": "https://houstonfamilymagazine.com/events/second-saturday-bird-survey-20/",
@@ -152,7 +76,7 @@
   },
   {
    "name": "StoryTime with Ms. Maria",
-   "date": "2026-09-11",
+   "date": "2026-09-14",
    "venue": "",
    "town": "",
    "url": "https://houstonfamilymagazine.com/events/storytime-with-ms-maria-10/",
@@ -161,7 +85,7 @@
   },
   {
    "name": "Trail mix",
-   "date": "2026-09-11",
+   "date": "2026-09-14",
    "venue": "",
    "town": "",
    "url": "https://houstonfamilymagazine.com/events/trail-mix-28/",
@@ -169,8 +93,17 @@
    "extraction": "heuristic"
   },
   {
+   "name": "Tyke Hikes",
+   "date": "2026-09-14",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/tyke-hikes-25/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
+  },
+  {
    "name": "Undercurrents",
-   "date": "2026-09-11",
+   "date": "2026-09-14",
    "venue": "",
    "town": "",
    "url": "https://houstonfamilymagazine.com/events/undercurrents/",
@@ -179,84 +112,12 @@
   },
   {
    "name": "View Details",
-   "date": "2026-09-11",
+   "date": "2026-09-14",
    "venue": "",
    "town": "",
-   "url": "https://houstonfamilymagazine.com/events/clickbait-a-digital-obsession/",
+   "url": "https://houstonfamilymagazine.com/events/horizon/",
    "source": "Houston Family Magazine",
    "extraction": "heuristic"
-  },
-  {
-   "name": "19th Annual Vietnamese American Health Fair Alief Neighborhood Center",
-   "date": "2026-09-12",
-   "venue": "Alief Neighborhood Center",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/19th-annual-vietnamese-american-health-fair-alief-neighborhood-center/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Echoes of Memory at Museo Institute for Medical Arts",
-   "date": "2026-09-12",
-   "venue": "Museo Institute for Medical Arts",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/echoes-of-memory-at-museo-institute-for-medical-arts/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Jill Scott in Concert at Smart Financial Centre",
-   "date": "2026-09-12",
-   "venue": "Smart Financial Centre at Sugar Land",
-   "town": "Sugar Land",
-   "url": "https://365thingsinhouston.com/calendar/jill-scott-in-concert-at-smart-financial-centre-september-2026-2/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Monarch Chamber Players: New Beginnings Concert at St. Stephen’s United Methodis",
-   "date": "2026-09-12",
-   "venue": "St. Stephen’s United Methodist Church",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/monarch-chamber-players-new-beginnings-concert-at-st-stephens-united-methodist-church-2/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "UT MD Anderson Cancer Center’s Boot Walk Kickoff at Smart Financial Centre",
-   "date": "2026-09-12",
-   "venue": "Smart Financial Centre at Sugar Land",
-   "town": "Sugar Land",
-   "url": "https://365thingsinhouston.com/calendar/ut-md-anderson-cancer-centers-boot-walk-kickoff-at-smart-financial-centre/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Yano et Agatsuma in Concert at Miller Outdoor Theatre",
-   "date": "2026-09-12",
-   "venue": "Miller Outdoor Theatre",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/puffy-amiyumi-hi-hi-houston-at-miller-outdoor-theatre/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Houston Chicken Wing Festival at The Water Works in Buffalo Bayou Park",
-   "date": "2026-09-13",
-   "venue": "The Water Works at Buffalo Bayou Park",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/houston-chicken-wing-festival-at-the-water-works-in-buffalo-bayou-park/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Japan Festival Houston 2026 at Miller Outdoor Theatre",
-   "date": "2026-09-13",
-   "venue": "Miller Outdoor Theatre",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/japan-festival-houston-2026-at-miller-outdoor-theatre/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "King’s Cup at Houston Polo Club",
-   "date": "2026-09-13",
-   "venue": "Houston Polo Club",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/kings-cup-at-houston-polo-club-fall-2026/",
-   "source": "365 Things in Houston"
   },
   {
    "name": "El Grito At Miller: Mariachi Herencia de México in Concert at Miller Outdoor The",
@@ -299,6 +160,14 @@
    "source": "365 Things in Houston"
   },
   {
+   "name": "Fun, Free & Cheap Events | September 18 – September 20",
+   "date": "2026-09-18",
+   "venue": "",
+   "town": "",
+   "url": "https://www.houstononthecheap.com/top-events-in-houston-september-18-september-20-2026/",
+   "source": "Houston on the Cheap"
+  },
+  {
    "name": "Houston Jazz Festival: The NOLA Resistance Quintet in Concert at Miller Outdoor ",
    "date": "2026-09-18",
    "venue": "Miller Outdoor Theatre",
@@ -320,6 +189,14 @@
    "venue": "Smart Financial Centre at Sugar Land",
    "town": "Sugar Land",
    "url": "https://365thingsinhouston.com/calendar/shreya-ghoshal-in-concert-at-smart-financial-centre/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Stages: Come From Away at The Gordy",
+   "date": "2026-09-18",
+   "venue": "Stages",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/stages-come-from-away-at-the-gordy/",
    "source": "365 Things in Houston"
   },
   {
@@ -355,11 +232,27 @@
    "source": "365 Things in Houston"
   },
   {
+   "name": "Color Vibe 5K at City Place",
+   "date": "2026-09-19",
+   "venue": "JW Marriott Houston Downtown",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/color-vibe-5k-at-city-place/",
+   "source": "365 Things in Houston"
+  },
+  {
    "name": "The Conjurer: An Intimate Magical Experience with Master Magician Curt Miller in",
    "date": "2026-09-19",
    "venue": "Hyatt Place The Woodlands",
    "town": "The Woodlands",
    "url": "https://365thingsinhouston.com/calendar/the-conjurer-an-intimate-magical-experience-with-master-magician-curt-miller-in-the-woodlands-5/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Stages: Come From Away at The Gordy",
+   "date": "2026-09-19",
+   "venue": "Stages",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/stages-come-from-away-at-the-gordy-2/",
    "source": "365 Things in Houston"
   },
   {
@@ -387,6 +280,14 @@
    "source": "365 Things in Houston"
   },
   {
+   "name": "Stages: Come From Away at The Gordy",
+   "date": "2026-09-20",
+   "venue": "Stages",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/stages-come-from-away-at-the-gordy-3/",
+   "source": "365 Things in Houston"
+  },
+  {
    "name": "Tame Impala in Concert at Toyota Center",
    "date": "2026-09-20",
    "venue": "Toyota Center",
@@ -411,11 +312,115 @@
    "source": "365 Things in Houston"
   },
   {
+   "name": "Stages: Come From Away at The Gordy",
+   "date": "2026-09-23",
+   "venue": "Stages",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/stages-come-from-away-at-the-gordy-4/",
+   "source": "365 Things in Houston"
+  },
+  {
    "name": "ROCO: Eyes on the Horizon Concert at Miller Outdoor Theatre",
    "date": "2026-09-25",
    "venue": "Miller Outdoor Theatre",
    "town": "Houston",
    "url": "https://365thingsinhouston.com/calendar/roco-eyes-on-the-horizon-concert-at-miller-outdoor-theatre/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Stages: Come From Away at The Gordy",
+   "date": "2026-09-25",
+   "venue": "Stages",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/stages-come-from-away-at-the-gordy-5/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "10th Annual Oktoberfest at Eureka Heights",
+   "date": "2026-09-26",
+   "venue": "Eureka Heights Brew Co.",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/10th-annual-oktoberfest-at-eureka-heights/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "44th Annual Dia de la Hispanidad: Alma Latina at Miller Outdoor Theatre",
+   "date": "2026-09-26",
+   "venue": "Miller Outdoor Theatre",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/dia-de-la-hispanidad-alma-latina-at-miller-outdoor-theatre/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Candlelight Concert: Tribute to Juan Gabriel at Resurrection MCC",
+   "date": "2026-09-26",
+   "venue": "Resurrection MCC",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/candlelight-concert-tribute-to-juan-gabriel-at-resurrection-mcc-4/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Chayanne in Concert at Toyota Center",
+   "date": "2026-09-26",
+   "venue": "Toyota Center",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/chayanne-in-concert-at-toyota-center/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Odd Fellows Sausage Fest at Odd Fellows Lodge",
+   "date": "2026-09-26",
+   "venue": "The Odd Fellows Lodge",
+   "town": "115 E. 14th St.",
+   "url": "https://365thingsinhouston.com/calendar/sausage-fest-at-odd-fellows-lodge-2026/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Oktoberfest 2026 at Houston Saengerhalle",
+   "date": "2026-09-26",
+   "venue": "The Säengerhalle",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/oktoberfest-at-houston-saengerhalle-2026/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Stages: Come From Away at The Gordy",
+   "date": "2026-09-26",
+   "venue": "Stages",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/stages-come-from-away-at-the-gordy-6/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Tokyo X Festival at Reliant Center",
+   "date": "2026-09-26",
+   "venue": "Reliant Center",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/tokyo-x-festival-at-reliant-center-2026/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Stages: Come From Away at The Gordy",
+   "date": "2026-09-27",
+   "venue": "Stages",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/stages-come-from-away-at-the-gordy-8/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Tokyo X Festival at Reliant Center",
+   "date": "2026-09-27",
+   "venue": "Reliant Center",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/tokyo-x-festival-at-reliant-center-2026-2/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "USPA H. Ben Taub Memorial Cup at Houston Polo Club",
+   "date": "2026-09-27",
+   "venue": "Houston Polo Club",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/uspa-h-ben-taub-memorial-cup-at-houston-polo-club-2026/",
    "source": "365 Things in Houston"
   }
  ]

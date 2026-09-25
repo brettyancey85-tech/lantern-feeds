@@ -1,122 +1,23 @@
 {
  "schema": "lantern-events/v1",
  "region": "chesterfield-mo",
- "generated_at": "2026-09-21T17:22:52Z",
+ "generated_at": "2026-09-25T17:23:15Z",
  "events": [
   {
-   "name": "2026 Saint Louis Art Fair",
-   "date": "2026-09-20",
-   "venue": "Downtown Clayton",
-   "town": "Missouri",
-   "url": "https://saintlouis.kidsoutandabout.com/content/2026-saint-louis-art-fair",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Big Joel's Spooky Safari",
-   "date": "2026-09-20",
-   "venue": "Big Joel's Safari Petting Zoo & Educational Park",
-   "town": "Wright City",
-   "url": "https://saintlouis.kidsoutandabout.com/content/big-joels-spooky-safari-1",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Corn Maze- Broemmelsiek Park",
-   "date": "2026-09-20",
-   "venue": "Broemmelsiek Park",
-   "town": "Defiance",
-   "url": "https://saintlouis.kidsoutandabout.com/content/corn-maze-broemmelsiek-park-0",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "GetOut Pass Extended Labor Day Sale | Family Fun & Things to Do",
-   "date": "2026-09-20",
+   "name": "Rika White",
+   "date": "2026-09-24",
    "venue": "",
-   "town": "Grand Prairie",
-   "url": "https://saintlouis.kidsoutandabout.com/content/getout-pass-extended-labor-day-sale-family-fun-things-do",
-   "source": "Kids Out and About STL",
+   "town": "",
+   "url": "https://stlouismom.com/author/rikatyler/",
+   "source": "STL Mom",
    "extraction": "heuristic"
   },
   {
-   "name": "Greater St. Louis Hispanic Festival",
-   "date": "2026-09-20",
-   "venue": "Soulard Market Park",
-   "town": "St. Louis",
-   "url": "https://saintlouis.kidsoutandabout.com/content/greater-st-louis-hispanic-festival-0",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Kirkwood Greentree Festival",
-   "date": "2026-09-20",
-   "venue": "Kirkwood Park",
-   "town": "Kirkwood",
-   "url": "https://saintlouis.kidsoutandabout.com/content/kirkwood-greentree-festival-1",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Oktoberfest at Grant's Farm",
-   "date": "2026-09-20",
-   "venue": "Grant's Farm",
-   "town": "St. Louis",
-   "url": "https://saintlouis.kidsoutandabout.com/content/oktoberfest-grants-farm-0",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Patterns in Nature: The Art of Hybycozo",
-   "date": "2026-09-20",
-   "venue": "Missouri Botanical Garden",
-   "town": "St. Louis",
-   "url": "https://saintlouis.kidsoutandabout.com/content/patterns-nature-art-hybycozo",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Pirates and Pumpkins at the St. Louis Aquarium",
-   "date": "2026-09-20",
-   "venue": "St. Louis Aquarium at Union Station",
-   "town": "St. Louis",
-   "url": "https://saintlouis.kidsoutandabout.com/content/pirates-and-pumpkins-st-louis-aquarium-1",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "St. Louis Cardinals Home Games",
-   "date": "2026-09-20",
-   "venue": "St. Louis Cardinals",
-   "town": "St. Louis",
-   "url": "https://saintlouis.kidsoutandabout.com/content/st-louis-cardinals-home-games-2",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Open Play at Your Village",
-   "date": "2026-09-21",
-   "venue": "Your Village STL: Jennifer Tietjen",
-   "town": "Chesterfield",
-   "url": "https://saintlouis.kidsoutandabout.com/content/open-play-your-village",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Storytelling: September",
-   "date": "2026-09-22",
-   "venue": "Missouri History Museum",
-   "town": "St. Louis",
-   "url": "https://saintlouis.kidsoutandabout.com/content/storytelling-september-0",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Open Gym - Come play at Miss Kelly's Gym!",
-   "date": "2026-09-23",
-   "venue": "",
-   "town": "Miss Kelly's Gym - Creve Coeur and Cottl",
-   "url": "https://saintlouis.kidsoutandabout.com/content/open-gym-come-play-miss-kellys-gym",
+   "name": "2026 Edwardsville Art Fair",
+   "date": "2026-09-25",
+   "venue": "City Park",
+   "town": "Edwardsville",
+   "url": "https://saintlouis.kidsoutandabout.com/content/2026-edwardsville-art-fair",
    "source": "Kids Out and About STL",
    "extraction": "heuristic"
   },
@@ -126,6 +27,96 @@
    "venue": "",
    "town": "Webster Groves",
    "url": "https://saintlouis.kidsoutandabout.com/content/2026-old-orchard-gazebo-music-series",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Badges & Bites – Outdoor Movie & Food Trucks",
+   "date": "2026-09-25",
+   "venue": "Rotary Park",
+   "town": "Wentzville",
+   "url": "https://saintlouis.kidsoutandabout.com/content/badges-bites-%E2%80%93-outdoor-movie-food-trucks",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Big Joel's Spooky Safari",
+   "date": "2026-09-25",
+   "venue": "Big Joel's Safari Petting Zoo & Educational Park",
+   "town": "Wright City",
+   "url": "https://saintlouis.kidsoutandabout.com/content/big-joels-spooky-safari-1",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "The Black Rep Presents: The Color Purple",
+   "date": "2026-09-25",
+   "venue": "The Black Rep",
+   "town": "St. Louis",
+   "url": "https://saintlouis.kidsoutandabout.com/content/black-rep-presents-color-purple",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Corn Maze- Broemmelsiek Park",
+   "date": "2026-09-25",
+   "venue": "Broemmelsiek Park",
+   "town": "Defiance",
+   "url": "https://saintlouis.kidsoutandabout.com/content/corn-maze-broemmelsiek-park-0",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Eureka Days",
+   "date": "2026-09-25",
+   "venue": "Legion Park",
+   "town": "Eureka",
+   "url": "https://saintlouis.kidsoutandabout.com/content/eureka-days-0",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Fall Festival of the Arts & Crafts",
+   "date": "2026-09-25",
+   "venue": "Downtown Washington Inc.",
+   "town": "Washington",
+   "url": "https://saintlouis.kidsoutandabout.com/content/fall-festival-arts-crafts-0",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "GetOut Pass Extended Labor Day Sale | Family Fun & Things to Do",
+   "date": "2026-09-25",
+   "venue": "",
+   "town": "Grand Prairie",
+   "url": "https://saintlouis.kidsoutandabout.com/content/getout-pass-extended-labor-day-sale-family-fun-things-do",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Glow City at City Museum",
+   "date": "2026-09-25",
+   "venue": "",
+   "town": "St. Louis",
+   "url": "https://saintlouis.kidsoutandabout.com/content/glow-city-city-museum",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Glow, Groove & Grub",
+   "date": "2026-09-25",
+   "venue": "The Lodge Des Peres",
+   "town": "Des Peres",
+   "url": "https://saintlouis.kidsoutandabout.com/content/glow-groove-grub",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "HSMO's Read Stampede",
+   "date": "2026-09-25",
+   "venue": "",
+   "town": "Humane Society of Missouri",
+   "url": "https://saintlouis.kidsoutandabout.com/content/hsmos-read-stampede",
    "source": "Kids Out and About STL",
    "extraction": "heuristic"
   },
@@ -148,11 +139,65 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Ultimate Ninjas Day Camp",
-   "date": "2026-10-05",
-   "venue": "Ultimate Ninjas Chesterfield",
+   "name": "Movies in the Park: Zootopia 2",
+   "date": "2026-09-25",
+   "venue": "Ferndale Drive",
+   "town": "Crestwood",
+   "url": "https://saintlouis.kidsoutandabout.com/content/movies-park-zootopia-2",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "No School Camp",
+   "date": "2026-09-25",
+   "venue": "D-BAT Fenton",
+   "town": "Fenton",
+   "url": "https://saintlouis.kidsoutandabout.com/content/no-school-camp-0",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "No School Days",
+   "date": "2026-09-25",
+   "venue": "The Brentwood Community Center",
+   "town": "Missouri",
+   "url": "https://saintlouis.kidsoutandabout.com/content/no-school-days-2",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Open Gym - Come play at Miss Kelly's Gym!",
+   "date": "2026-09-25",
+   "venue": "",
+   "town": "Miss Kelly's Gym - Creve Coeur and Cottl",
+   "url": "https://saintlouis.kidsoutandabout.com/content/open-gym-come-play-miss-kellys-gym",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Open Play at Your Village",
+   "date": "2026-09-25",
+   "venue": "Your Village STL: Jennifer Tietjen",
+   "town": "Chesterfield",
+   "url": "https://saintlouis.kidsoutandabout.com/content/open-play-your-village",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Patterns in Nature: The Art of Hybycozo",
+   "date": "2026-09-25",
+   "venue": "Missouri Botanical Garden",
    "town": "St. Louis",
-   "url": "https://saintlouis.kidsoutandabout.com/content/ultimate-ninjas-day-camp",
+   "url": "https://saintlouis.kidsoutandabout.com/content/patterns-nature-art-hybycozo",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Pirates and Pumpkins at the St. Louis Aquarium",
+   "date": "2026-09-25",
+   "venue": "St. Louis Aquarium at Union Station",
+   "town": "St. Louis",
+   "url": "https://saintlouis.kidsoutandabout.com/content/pirates-and-pumpkins-st-louis-aquarium-1",
    "source": "Kids Out and About STL",
    "extraction": "heuristic"
   }

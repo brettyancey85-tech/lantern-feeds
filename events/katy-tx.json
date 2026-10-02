@@ -1,235 +1,8 @@
 {
  "schema": "lantern-events/v1",
  "region": "katy-tx",
- "generated_at": "2026-09-28T17:22:59Z",
+ "generated_at": "2026-10-02T17:23:46Z",
  "events": [
-  {
-   "name": "Bumper Boats And Cruiser Boats",
-   "date": "2026-09-27",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/bumper-boats-and-cruiser-boats-2/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Esplanade at Navigation Market",
-   "date": "2026-09-27",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/esplanade-at-navigation-market-7/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Fall/Spring 2026-27 Registration",
-   "date": "2026-09-27",
-   "venue": "MoveNation Dance Academy",
-   "town": "Houston",
-   "url": "https://houston.kidsoutandabout.com/content/fallspring-2026-27-registration",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Fantastic Animals from Mexico: Nahuales and Alebrijes",
-   "date": "2026-09-27",
-   "venue": "Discovery Green",
-   "town": "Houston",
-   "url": "https://houston.kidsoutandabout.com/content/fantastic-animals-mexico-nahuales-and-alebrijes",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Fort Bend County Fair",
-   "date": "2026-09-27",
-   "venue": "Fort Bend County Fair Association",
-   "town": "Rosenberg",
-   "url": "https://houston.kidsoutandabout.com/content/fort-bend-county-fair-2",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "FREE fall and holiday mini photo sessions with Shoott! - Greater Houston",
-   "date": "2026-09-27",
-   "venue": "Shoott",
-   "town": "New York",
-   "url": "https://houston.kidsoutandabout.com/content/free-fall-and-holiday-mini-photo-sessions-shoott-greater-houston",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Froberg's Annual Corn Maze and Fall Festival",
-   "date": "2026-09-27",
-   "venue": "Froberg's Fruit and Vegetable Farm",
-   "town": "Alvin",
-   "url": "https://houston.kidsoutandabout.com/content/frobergs-annual-corn-maze-and-fall-festival-0",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Galveston’s Own Farmers Market",
-   "date": "2026-09-27",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/galvestons-own-farmers-market-15/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "GetOut Pass Extended Labor Day Sale | Family Fun & Things to Do",
-   "date": "2026-09-27",
-   "venue": "",
-   "town": "Grand Prairie",
-   "url": "https://houston.kidsoutandabout.com/content/getout-pass-extended-labor-day-sale-family-fun-things-do",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "HAVANA: WHERE THE PAST MEETS THE FUTURE",
-   "date": "2026-09-27",
-   "venue": "Cultural Center - Our Texas",
-   "town": "Houston",
-   "url": "https://houston.kidsoutandabout.com/content/havana-where-past-meets-future",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "The Moonwalkers: A Journey with Tom Hanks",
-   "date": "2026-09-27",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/the-moonwalkers-a-journey-with-tom-hanks-4/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Second Saturday Bird Survey",
-   "date": "2026-09-27",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/second-saturday-bird-survey-20/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "StoryTime with Ms. Maria",
-   "date": "2026-09-27",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/storytime-with-ms-maria-10/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Texas America250 Reading Challenge",
-   "date": "2026-09-27",
-   "venue": "Texas State Library and Archives Commission",
-   "town": "Texas 78701",
-   "url": "https://houston.kidsoutandabout.com/content/texas-america250-reading-challenge",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Trail mix",
-   "date": "2026-09-27",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/trail-mix-28/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Undercurrents",
-   "date": "2026-09-27",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/undercurrents/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "View Details",
-   "date": "2026-09-27",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/galvestons-own-farmers-market-15/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Baylor College of Medicine MIND: Toddlers Study",
-   "date": "2026-09-28",
-   "venue": "Baylor College of Medicine",
-   "town": "Houston",
-   "url": "https://houston.kidsoutandabout.com/content/baylor-college-medicine-mind-toddlers-study",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Houston Highlights: September 28 to October 1 – Food, Music, Arts & More",
-   "date": "2026-09-28",
-   "venue": "",
-   "town": "",
-   "url": "https://www.houstononthecheap.com/houston-picks-september-28-to-october-1-2026/",
-   "source": "Houston on the Cheap"
-  },
-  {
-   "name": "Preschool Gymnastics Classes",
-   "date": "2026-09-28",
-   "venue": "H-Town Elite Gymnastics",
-   "town": "Houston",
-   "url": "https://houston.kidsoutandabout.com/content/preschool-gymnastics-classes",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Prova Portugal: A Tasting of Portuguese Wines at March",
-   "date": "2026-09-28",
-   "venue": "March",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/prova-portugal-a-tasting-of-portuguese-wines-at-march/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Gymclassheroes. & Lupe Fiasco in Concert at Smart Financial Centre",
-   "date": "2026-09-30",
-   "venue": "Smart Financial Centre at Sugar Land",
-   "town": "Sugar Land",
-   "url": "https://365thingsinhouston.com/calendar/gymclassheroes-lupe-fiasco-in-concert-at-smart-financial-centre/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Stages: Come From Away at The Gordy",
-   "date": "2026-09-30",
-   "venue": "Stages",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/stages-come-from-away-at-the-gordy-9/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "47th Annual Festival Chicano: Marcos Orozco in Concert at Miller Outdoor Theatre",
-   "date": "2026-10-01",
-   "venue": "Miller Outdoor Theatre",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/47th-annual-festival-chicano-marcos-orozco-in-concert-at-miller-outdoor-theatre/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Rush in Concert at Toyota Center",
-   "date": "2026-10-01",
-   "venue": "Toyota Center",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/rush-in-concert-at-toyota-center/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "Stages: Come From Away at The Gordy",
-   "date": "2026-10-01",
-   "venue": "Stages",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/stages-come-from-away-at-the-gordy-10/",
-   "source": "365 Things in Houston"
-  },
   {
    "name": "The 47th Annual Festival Chicano: Little Joe y La Familia in Concert at Miller O",
    "date": "2026-10-02",
@@ -239,12 +12,39 @@
    "source": "365 Things in Houston"
   },
   {
+   "name": "Baylor College of Medicine MIND: Toddlers Study",
+   "date": "2026-10-02",
+   "venue": "Baylor College of Medicine",
+   "town": "Houston",
+   "url": "https://houston.kidsoutandabout.com/content/baylor-college-medicine-mind-toddlers-study",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "BOOriffic Nights at Dewberry Farm!",
+   "date": "2026-10-02",
+   "venue": "Dewberry Farm",
+   "town": "Brookshire",
+   "url": "https://houston.kidsoutandabout.com/content/booriffic-nights-dewberry-farm-2",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
    "name": "Comedian Jo Koy at Toyota Center",
    "date": "2026-10-02",
    "venue": "Toyota Center",
    "town": "Houston",
    "url": "https://365thingsinhouston.com/calendar/comedian-jo-koy-at-toyota-center-2026/",
    "source": "365 Things in Houston"
+  },
+  {
+   "name": "Discovery Room Hours",
+   "date": "2026-10-02",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/discovery-room-hours/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
   },
   {
    "name": "Drama Kids Classes at Good Shepherd (Tomball/Magnolia/Pinehurst/Klein Area)",
@@ -264,12 +64,219 @@
    "source": "365 Things in Houston"
   },
   {
+   "name": "East River's Beats on the Bayou",
+   "date": "2026-10-02",
+   "venue": "",
+   "town": "Houston",
+   "url": "https://houston.kidsoutandabout.com/content/east-rivers-beats-bayou-0",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Fall Family Fun",
+   "date": "2026-10-02",
+   "venue": "Old Time Christmas Tree Farm",
+   "town": "Spring",
+   "url": "https://houston.kidsoutandabout.com/content/fall-family-fun-0",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Fall Festival at Dewberry Farm",
+   "date": "2026-10-02",
+   "venue": "Dewberry Farm",
+   "town": "Brookshire",
+   "url": "https://houston.kidsoutandabout.com/content/fall-festival-dewberry-farm-2",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Fall Plant Sale",
+   "date": "2026-10-02",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/fall-plant-sale-4/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Fantastic Animals from Mexico: Nahuales and Alebrijes",
+   "date": "2026-10-02",
+   "venue": "Discovery Green",
+   "town": "Houston",
+   "url": "https://houston.kidsoutandabout.com/content/fantastic-animals-mexico-nahuales-and-alebrijes",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Fort Bend County Fair",
+   "date": "2026-10-02",
+   "venue": "Fort Bend County Fair Association",
+   "town": "Rosenberg",
+   "url": "https://houston.kidsoutandabout.com/content/fort-bend-county-fair-2",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "FREE fall and holiday mini photo sessions with Shoott! - Greater Houston",
+   "date": "2026-10-02",
+   "venue": "Shoott",
+   "town": "New York",
+   "url": "https://houston.kidsoutandabout.com/content/free-fall-and-holiday-mini-photo-sessions-shoott-greater-houston",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Froberg's Annual Corn Maze and Fall Festival",
+   "date": "2026-10-02",
+   "venue": "Froberg's Fruit and Vegetable Farm",
+   "town": "Alvin",
+   "url": "https://houston.kidsoutandabout.com/content/frobergs-annual-corn-maze-and-fall-festival-0",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
    "name": "Fun, Free & Cheap Events | October 2 – October 4",
    "date": "2026-10-02",
    "venue": "",
    "town": "",
    "url": "https://www.houstononthecheap.com/top-events-in-houston-october-2-october-4-2026/",
    "source": "Houston on the Cheap"
+  },
+  {
+   "name": "Halloween at the BOOseum",
+   "date": "2026-10-02",
+   "venue": "Children's Museum Houston",
+   "town": "Houston",
+   "url": "https://houston.kidsoutandabout.com/content/halloween-booseum-0",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "HAVANA: WHERE THE PAST MEETS THE FUTURE",
+   "date": "2026-10-02",
+   "venue": "Cultural Center - Our Texas",
+   "town": "Houston",
+   "url": "https://houston.kidsoutandabout.com/content/havana-where-past-meets-future",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Homeschool Academy: Brick to Screen – Robotics & Filmmaking Lab",
+   "date": "2026-10-02",
+   "venue": "Six Pixels Film & STEM Academy 7676 North Fwy",
+   "town": "#603",
+   "url": "https://houston.kidsoutandabout.com/content/homeschool-academy-brick-screen-%E2%80%93-robotics-filmmaking-lab",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Homeschool Academy: Cosplay, Prop Design & Makeup FX",
+   "date": "2026-10-02",
+   "venue": "Six Pixels Film & STEM Academy 7676 North Fwy",
+   "town": "#603",
+   "url": "https://houston.kidsoutandabout.com/content/homeschool-academy-cosplay-prop-design-makeup-fx",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Homeschool Academy: Stop Motion Animation",
+   "date": "2026-10-02",
+   "venue": "Six Pixels Film & STEM Academy 7676 North Fwy",
+   "town": "#603",
+   "url": "https://houston.kidsoutandabout.com/content/homeschool-academy-stop-motion-animation",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Homeschool Academy Video Editing Course",
+   "date": "2026-10-02",
+   "venue": "Six Pixels Film & STEM Academy 7676 North Fwy",
+   "town": "#603 Houston",
+   "url": "https://houston.kidsoutandabout.com/content/homeschool-academy-video-editing-course",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Homeschool Academy Youth Filmmaking",
+   "date": "2026-10-02",
+   "venue": "Six Pixels Film & STEM Academy 7676 North Fwy",
+   "town": "#603 Houston",
+   "url": "https://houston.kidsoutandabout.com/content/homeschool-academy-youth-filmmaking",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Kizuna Quest North American Launch",
+   "date": "2026-10-02",
+   "venue": "",
+   "town": "ONLINE ordering",
+   "url": "https://houston.kidsoutandabout.com/content/kizuna-quest-north-american-launch",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "The Moonwalkers: A Journey with Tom Hanks",
+   "date": "2026-10-02",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/the-moonwalkers-a-journey-with-tom-hanks-4/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "No School Camp Days Waller, Tomball and Cfisd",
+   "date": "2026-10-02",
+   "venue": "Kidcreate Studio - Cypress",
+   "town": "Cypress",
+   "url": "https://houston.kidsoutandabout.com/content/no-school-camp-days-waller-tomball-and-cfisd",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Party at the Pavilion",
+   "date": "2026-10-02",
+   "venue": "",
+   "town": "Bellaire",
+   "url": "https://houston.kidsoutandabout.com/content/party-pavilion-1",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Preschool Gymnastics Classes",
+   "date": "2026-10-02",
+   "venue": "H-Town Elite Gymnastics",
+   "town": "Houston",
+   "url": "https://houston.kidsoutandabout.com/content/preschool-gymnastics-classes",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Romeo and Juliet",
+   "date": "2026-10-02",
+   "venue": "Alley Theatre",
+   "town": "Houston",
+   "url": "https://houston.kidsoutandabout.com/content/romeo-and-juliet-6",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Second Saturday Bird Survey",
+   "date": "2026-10-02",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/second-saturday-bird-survey-20/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Spookie Fudge Stripes Safari",
+   "date": "2026-10-02",
+   "venue": "Houston Zoo",
+   "town": "Houston",
+   "url": "https://houston.kidsoutandabout.com/content/spookie-fudge-stripes-safari",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
   },
   {
    "name": "Stages: Come From Away at The Gordy",
@@ -280,12 +287,93 @@
    "source": "365 Things in Houston"
   },
   {
+   "name": "Starlight Swans",
+   "date": "2026-10-02",
+   "venue": "Rob Fleming Park Picnic Area",
+   "town": "The Woodlands",
+   "url": "https://houston.kidsoutandabout.com/content/starlight-swans",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Storybook Theatre in October",
+   "date": "2026-10-02",
+   "venue": "The Woodlands Children's Museum",
+   "town": "The Woodlands",
+   "url": "https://houston.kidsoutandabout.com/content/storybook-theatre-october-1",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
    "name": "Storytime on The Terrace",
    "date": "2026-10-02",
    "venue": "Montrose Collective",
    "town": "Houston",
    "url": "https://houston.kidsoutandabout.com/content/storytime-terrace-1",
    "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "StoryTime with Ms. Maria",
+   "date": "2026-10-02",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/storytime-with-ms-maria-10/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Texas America250 Reading Challenge",
+   "date": "2026-10-02",
+   "venue": "Texas State Library and Archives Commission",
+   "town": "Texas 78701",
+   "url": "https://houston.kidsoutandabout.com/content/texas-america250-reading-challenge",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Trail mix",
+   "date": "2026-10-02",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/trail-mix-28/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Undercurrents",
+   "date": "2026-10-02",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/undercurrents/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "View Details",
+   "date": "2026-10-02",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/zoo-boo-2026/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Zoo Boo 2026",
+   "date": "2026-10-02",
+   "venue": "Houston Zoo",
+   "town": "Houston",
+   "url": "https://houston.kidsoutandabout.com/content/zoo-boo-2026-0",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Zoo Zoo Boo 2026",
+   "date": "2026-10-02",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events-calendar/?event_category=40537",
+   "source": "Houston Family Magazine",
    "extraction": "heuristic"
   },
   {
@@ -574,6 +662,102 @@
    "venue": "Houston Polo Club",
    "town": "Houston",
    "url": "https://365thingsinhouston.com/calendar/texas-cup-at-houston-polo-club-2026/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Gov’t Mule & Ziggy Marley in Concert at Smart Financial Centre",
+   "date": "2026-10-13",
+   "venue": "Smart Financial Centre at Sugar Land",
+   "town": "Sugar Land",
+   "url": "https://365thingsinhouston.com/calendar/govt-mule-ziggy-marley-in-concert-at-smart-financial-centre/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Stages: Come From Away at The Gordy",
+   "date": "2026-10-14",
+   "venue": "Stages",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/stages-come-from-away-at-the-gordy-22/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Tom Jones in Concert at Smart Financial Centre",
+   "date": "2026-10-14",
+   "venue": "Smart Financial Centre at Sugar Land",
+   "town": "Sugar Land",
+   "url": "https://365thingsinhouston.com/calendar/tom-jones-in-concert-at-smart-financial-centre-2026/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Indigo Girls with Linda Perry in Concert at Smart Financial Centre",
+   "date": "2026-10-15",
+   "venue": "Smart Financial Centre at Sugar Land",
+   "town": "Sugar Land",
+   "url": "https://365thingsinhouston.com/calendar/indigo-girls-with-linda-perry-in-concert-at-smart-financial-centre/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Stages: Come From Away at The Gordy",
+   "date": "2026-10-15",
+   "venue": "Stages",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/stages-come-from-away-at-the-gordy-23/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "The Conjurer: An Intimate Magical Experience with Master Magician Curt Miller in",
+   "date": "2026-10-16",
+   "venue": "Hyatt Place Houston/Katy",
+   "town": "Katy",
+   "url": "https://365thingsinhouston.com/calendar/the-conjurer-an-intimate-magical-experience-with-master-magician-curt-miller-in-katy-2026/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Halloween Costume Clinic at Fabric Forge",
+   "date": "2026-10-16",
+   "venue": "Fabric Forge",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/halloween-costume-clinic-at-fabric-forge/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Mon Laferte in Concert at Smart Financial Centre",
+   "date": "2026-10-16",
+   "venue": "Smart Financial Centre at Sugar Land",
+   "town": "Sugar Land",
+   "url": "https://365thingsinhouston.com/calendar/mon-laferte-in-concert-at-smart-financial-centre-2026/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Neon Nostalgic: MTV VJs Mark Goodman & Alan Hunter at Miller Outdoor Theatre",
+   "date": "2026-10-16",
+   "venue": "Miller Outdoor Theatre",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/neon-nostalgic-mtv-vjs-mark-goodman-alan-hunter-at-miller-outdoor-theatre/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Stages: Come From Away at The Gordy",
+   "date": "2026-10-16",
+   "venue": "Stages",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/stages-come-from-away-at-the-gordy-24/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "W Conference 2026 at Hope City",
+   "date": "2026-10-16",
+   "venue": "Hope City",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/w-conference-2026-at-hope-city-1/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Weezer in Concert at Toyota Center",
+   "date": "2026-10-16",
+   "venue": "Toyota Center",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/weezer-in-concert-at-toyota-center-2026/",
    "source": "365 Things in Houston"
   }
  ]

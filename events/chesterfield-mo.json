@@ -1,20 +1,20 @@
 {
  "schema": "lantern-events/v1",
  "region": "chesterfield-mo",
- "generated_at": "2026-10-09T17:23:44Z",
+ "generated_at": "2026-10-12T17:24:29Z",
  "events": [
   {
-   "name": "Alpha Players: Anastasia the Musical",
-   "date": "2026-10-09",
-   "venue": "Florissant Performing Arts Center",
-   "town": "Florissant",
-   "url": "https://saintlouis.kidsoutandabout.com/content/alpha-players-anastasia-musical",
+   "name": "Aquarium Bingo for Books",
+   "date": "2026-10-12",
+   "venue": "St. Louis Aquarium at Union Station",
+   "town": "St. Louis",
+   "url": "https://saintlouis.kidsoutandabout.com/content/aquarium-bingo-books",
    "source": "Kids Out and About STL",
    "extraction": "heuristic"
   },
   {
    "name": "Big Joel's Spooky Safari",
-   "date": "2026-10-09",
+   "date": "2026-10-12",
    "venue": "Big Joel's Safari Petting Zoo & Educational Park",
    "town": "Wright City",
    "url": "https://saintlouis.kidsoutandabout.com/content/big-joels-spooky-safari-1",
@@ -22,17 +22,8 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Boo at the Zoo",
-   "date": "2026-10-09",
-   "venue": "Saint Louis Zoo",
-   "town": "St. Louis",
-   "url": "https://saintlouis.kidsoutandabout.com/content/boo-zoo-38",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
    "name": "BOOterfly House",
-   "date": "2026-10-09",
+   "date": "2026-10-12",
    "venue": "Sophia M. Sachs Butterfly House",
    "town": "Chesterfield",
    "url": "https://saintlouis.kidsoutandabout.com/content/booterfly-house-1",
@@ -41,7 +32,7 @@
   },
   {
    "name": "Corn Maze- Broemmelsiek Park",
-   "date": "2026-10-09",
+   "date": "2026-10-12",
    "venue": "Broemmelsiek Park",
    "town": "Defiance",
    "url": "https://saintlouis.kidsoutandabout.com/content/corn-maze-broemmelsiek-park-0",
@@ -50,7 +41,7 @@
   },
   {
    "name": "Dinoroarus",
-   "date": "2026-10-09",
+   "date": "2026-10-12",
    "venue": "Saint Louis Zoo",
    "town": "St. Louis",
    "url": "https://saintlouis.kidsoutandabout.com/content/dinoroarus",
@@ -58,17 +49,17 @@
    "extraction": "heuristic"
   },
   {
-   "name": "FALL SERIES: Giselle",
-   "date": "2026-10-09",
-   "venue": "Blanche M. Touhill Performing Arts Center",
-   "town": "St. Louis",
-   "url": "https://saintlouis.kidsoutandabout.com/content/fall-series-giselle",
+   "name": "Ecktoberfest",
+   "date": "2026-10-12",
+   "venue": "",
+   "town": "Belleville",
+   "url": "https://saintlouis.kidsoutandabout.com/content/ecktoberfest-1",
    "source": "Kids Out and About STL",
    "extraction": "heuristic"
   },
   {
    "name": "Fright at the Museum 2026",
-   "date": "2026-10-09",
+   "date": "2026-10-12",
    "venue": "",
    "town": "St. Louis",
    "url": "https://saintlouis.kidsoutandabout.com/content/fright-museum-2026",
@@ -76,35 +67,35 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Ghosts of Glen",
-   "date": "2026-10-09",
-   "venue": "Glen Carbon Heritage Museum",
-   "town": "Glen Carbon",
-   "url": "https://saintlouis.kidsoutandabout.com/content/ghosts-glen",
+   "name": "Illustration Mentorship",
+   "date": "2026-10-12",
+   "venue": "Winged Canvas",
+   "town": "Markham",
+   "url": "https://saintlouis.kidsoutandabout.com/content/illustration-mentorship",
    "source": "Kids Out and About STL",
    "extraction": "heuristic"
   },
   {
-   "name": "Girl Scout Information Night",
-   "date": "2026-10-09",
-   "venue": "Parkwood Park",
-   "town": "Maryland Heights",
-   "url": "https://saintlouis.kidsoutandabout.com/content/girl-scout-information-night-22",
+   "name": "Indigenous Peoples' Day Celebration in Queeny Park",
+   "date": "2026-10-12",
+   "venue": "Queeny Park",
+   "town": "St. Louis",
+   "url": "https://saintlouis.kidsoutandabout.com/content/indigenous-peoples-day-celebration-queeny-park",
    "source": "Kids Out and About STL",
    "extraction": "heuristic"
   },
   {
-   "name": "Grant's Farm Halloween Nights",
-   "date": "2026-10-09",
-   "venue": "Grant's Farm Parking",
-   "town": "Gravois Township",
-   "url": "https://saintlouis.kidsoutandabout.com/content/grants-farm-halloween-nights-0",
+   "name": "Indigenous Peoples' Day: Remembering Roots Through Art, Culture & Community",
+   "date": "2026-10-12",
+   "venue": "Missouri Botanical Garden",
+   "town": "St. Louis",
+   "url": "https://saintlouis.kidsoutandabout.com/content/indigenous-peoples-day-remembering-roots-through-art-culture-community",
    "source": "Kids Out and About STL",
    "extraction": "heuristic"
   },
   {
    "name": "Kizuna Quest North American Launch",
-   "date": "2026-10-09",
+   "date": "2026-10-12",
    "venue": "",
    "town": "ONLINE ordering",
    "url": "https://saintlouis.kidsoutandabout.com/content/kizuna-quest-north-american-launch",
@@ -112,35 +103,26 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Lap Time",
-   "date": "2026-10-09",
-   "venue": "",
-   "town": "Saint Ann",
-   "url": "https://saintlouis.kidsoutandabout.com/content/lap-time",
+   "name": "Little's Playtime at Enchanted Playroom",
+   "date": "2026-10-12",
+   "venue": "Enchanted Playroom",
+   "town": "O'Fallon",
+   "url": "https://saintlouis.kidsoutandabout.com/content/littles-playtime-enchanted-playroom-0",
    "source": "Kids Out and About STL",
    "extraction": "heuristic"
   },
   {
-   "name": "Minerals Make Missouri",
-   "date": "2026-10-09",
-   "venue": "Felix Valle House State Historic Site",
-   "town": "Ste. Genevieve",
-   "url": "https://saintlouis.kidsoutandabout.com/content/minerals-make-missouri",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Open Gym - Come play at Miss Kelly's Gym!",
-   "date": "2026-10-09",
-   "venue": "",
-   "town": "Miss Kelly's Gym - Creve Coeur and Cottl",
-   "url": "https://saintlouis.kidsoutandabout.com/content/open-gym-come-play-miss-kellys-gym",
+   "name": "Movie Magic Monday",
+   "date": "2026-10-12",
+   "venue": "The Edge",
+   "town": "Belleville",
+   "url": "https://saintlouis.kidsoutandabout.com/content/movie-magic-monday",
    "source": "Kids Out and About STL",
    "extraction": "heuristic"
   },
   {
    "name": "Open Play at Enchanted Playroom",
-   "date": "2026-10-09",
+   "date": "2026-10-12",
    "venue": "Enchanted Playroom",
    "town": "O'Fallon",
    "url": "https://saintlouis.kidsoutandabout.com/content/open-play-enchanted-playroom",
@@ -149,7 +131,7 @@
   },
   {
    "name": "Open Play at Your Village",
-   "date": "2026-10-09",
+   "date": "2026-10-12",
    "venue": "Your Village STL: Jennifer Tietjen",
    "town": "Chesterfield",
    "url": "https://saintlouis.kidsoutandabout.com/content/open-play-your-village",
@@ -157,17 +139,8 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Parents Night Out - Miss Kelly's Gym",
-   "date": "2026-10-09",
-   "venue": "",
-   "town": "Miss Kelly's Gym - Creve Coeur and Cottl",
-   "url": "https://saintlouis.kidsoutandabout.com/content/parents-night-out-miss-kellys-gym",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
    "name": "Pirates and Pumpkins at the St. Louis Aquarium",
-   "date": "2026-10-09",
+   "date": "2026-10-12",
    "venue": "St. Louis Aquarium at Union Station",
    "town": "St. Louis",
    "url": "https://saintlouis.kidsoutandabout.com/content/pirates-and-pumpkins-st-louis-aquarium-1",
@@ -176,7 +149,7 @@
   },
   {
    "name": "Pumpkin Patch & Fall Festival",
-   "date": "2026-10-09",
+   "date": "2026-10-12",
    "venue": "Pin Oak Farms",
    "town": "New Haven",
    "url": "https://saintlouis.kidsoutandabout.com/content/pumpkin-patch-fall-festival-0",
@@ -184,20 +157,11 @@
    "extraction": "heuristic"
   },
   {
-   "name": "St Mary's Oktoberfest Alton",
-   "date": "2026-10-09",
-   "venue": "",
-   "town": "Alton",
-   "url": "https://saintlouis.kidsoutandabout.com/content/st-marys-oktoberfest-alton-2",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Storytime in the Park",
-   "date": "2026-10-09",
-   "venue": "Wapelhorst Park",
-   "town": "Saint Charles",
-   "url": "https://saintlouis.kidsoutandabout.com/content/storytime-park-12",
+   "name": "St. Louis Renaissance Festival",
+   "date": "2026-10-12",
+   "venue": "St. Louis Renaissance Festival",
+   "town": "Wentzville",
+   "url": "https://saintlouis.kidsoutandabout.com/content/st-louis-renaissance-festival-2",
    "source": "Kids Out and About STL",
    "extraction": "heuristic"
   }

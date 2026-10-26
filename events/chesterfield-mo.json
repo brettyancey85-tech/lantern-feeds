@@ -1,56 +1,11 @@
 {
  "schema": "lantern-events/v1",
  "region": "chesterfield-mo",
- "generated_at": "2026-10-23T17:24:19Z",
+ "generated_at": "2026-10-26T17:22:25Z",
  "events": [
   {
-   "name": "Guest Contributor",
-   "date": "2026-10-22",
-   "venue": "",
-   "town": "",
-   "url": "https://stlouismom.com/author/guestcontributor1/",
-   "source": "STL Mom",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "2026 Glow Pumpkin Plunge",
-   "date": "2026-10-23",
-   "venue": "The Pointe - Ballwin Parks & Recreation",
-   "town": "Ballwin",
-   "url": "https://saintlouis.kidsoutandabout.com/content/2026-glow-pumpkin-plunge",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "9th Annual Boo Bash",
-   "date": "2026-10-23",
-   "venue": "James J. Eagan Center",
-   "town": "Florissant",
-   "url": "https://saintlouis.kidsoutandabout.com/content/9th-annual-boo-bash",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Admissions Events at The College School",
-   "date": "2026-10-23",
-   "venue": "The College School",
-   "town": "Webster Groves",
-   "url": "https://saintlouis.kidsoutandabout.com/content/admissions-events-college-school-2",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Arnold Chamber of Commerce Annual Trunk or Treat & Food Drive",
-   "date": "2026-10-23",
-   "venue": "Fox Elementary School",
-   "town": "Arnold",
-   "url": "https://saintlouis.kidsoutandabout.com/content/arnold-chamber-commerce-annual-trunk-or-treat-food-drive",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
    "name": "Big Joel's Spooky Safari",
-   "date": "2026-10-23",
+   "date": "2026-10-25",
    "venue": "Big Joel's Safari Petting Zoo & Educational Park",
    "town": "Wright City",
    "url": "https://saintlouis.kidsoutandabout.com/content/big-joels-spooky-safari-1",
@@ -59,7 +14,7 @@
   },
   {
    "name": "Boo at the Zoo",
-   "date": "2026-10-23",
+   "date": "2026-10-25",
    "venue": "Saint Louis Zoo",
    "town": "St. Louis",
    "url": "https://saintlouis.kidsoutandabout.com/content/boo-zoo-38",
@@ -68,7 +23,7 @@
   },
   {
    "name": "BOOterfly House",
-   "date": "2026-10-23",
+   "date": "2026-10-25",
    "venue": "Sophia M. Sachs Butterfly House",
    "town": "Chesterfield",
    "url": "https://saintlouis.kidsoutandabout.com/content/booterfly-house-1",
@@ -77,7 +32,7 @@
   },
   {
    "name": "Corn Maze- Broemmelsiek Park",
-   "date": "2026-10-23",
+   "date": "2026-10-25",
    "venue": "Broemmelsiek Park",
    "town": "Defiance",
    "url": "https://saintlouis.kidsoutandabout.com/content/corn-maze-broemmelsiek-park-0",
@@ -86,7 +41,7 @@
   },
   {
    "name": "Dinoroarus",
-   "date": "2026-10-23",
+   "date": "2026-10-25",
    "venue": "Saint Louis Zoo",
    "town": "St. Louis",
    "url": "https://saintlouis.kidsoutandabout.com/content/dinoroarus",
@@ -95,7 +50,7 @@
   },
   {
    "name": "Fright at the Museum 2026",
-   "date": "2026-10-23",
+   "date": "2026-10-25",
    "venue": "",
    "town": "St. Louis",
    "url": "https://saintlouis.kidsoutandabout.com/content/fright-museum-2026",
@@ -103,35 +58,8 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Ghosts of Glen",
-   "date": "2026-10-23",
-   "venue": "Glen Carbon Heritage Museum",
-   "town": "Glen Carbon",
-   "url": "https://saintlouis.kidsoutandabout.com/content/ghosts-glen",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Girl Scout Monster Mash",
-   "date": "2026-10-23",
-   "venue": "Scenic Regional Library - Pacific Branch",
-   "town": "Pacific",
-   "url": "https://saintlouis.kidsoutandabout.com/content/girl-scout-monster-mash-1",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Girl Scouts at the Boys and Girls Club Trunk or Treat",
-   "date": "2026-10-23",
-   "venue": "Girl Scouts of Eastern Missouri Shop & Build-A-Bear Workshop",
-   "town": "St. Louis",
-   "url": "https://saintlouis.kidsoutandabout.com/content/girl-scouts-boys-and-girls-club-trunk-or-treat",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
    "name": "Glow City at City Museum",
-   "date": "2026-10-23",
+   "date": "2026-10-25",
    "venue": "",
    "town": "St. Louis",
    "url": "https://saintlouis.kidsoutandabout.com/content/glow-city-city-museum",
@@ -140,7 +68,7 @@
   },
   {
    "name": "Grant's Farm Halloween Nights",
-   "date": "2026-10-23",
+   "date": "2026-10-25",
    "venue": "Grant's Farm Parking",
    "town": "Gravois Township",
    "url": "https://saintlouis.kidsoutandabout.com/content/grants-farm-halloween-nights-0",
@@ -148,44 +76,8 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Halloween Hullabaloo",
-   "date": "2026-10-23",
-   "venue": "The Pointe - Ballwin Parks & Recreation",
-   "town": "Ballwin",
-   "url": "https://saintlouis.kidsoutandabout.com/content/halloween-hullabaloo-5",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Halloween Skate",
-   "date": "2026-10-23",
-   "venue": "Brentwood Ice Rink",
-   "town": "Brentwood",
-   "url": "https://saintlouis.kidsoutandabout.com/content/halloween-skate-3",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Halloween Spooktacular DJ Skate",
-   "date": "2026-10-23",
-   "venue": "Rec-Plex",
-   "town": "St. Peters",
-   "url": "https://saintlouis.kidsoutandabout.com/content/halloween-spooktacular-dj-skate",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Jack O’Lantern Trail",
-   "date": "2026-10-23",
-   "venue": "Faust Park",
-   "town": "Chesterfield",
-   "url": "https://saintlouis.kidsoutandabout.com/content/jack-o%E2%80%99lantern-trail-1",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
    "name": "Jack’s Lighted Trail",
-   "date": "2026-10-23",
+   "date": "2026-10-25",
    "venue": "",
    "town": "Belleville",
    "url": "https://saintlouis.kidsoutandabout.com/content/jack%E2%80%99s-lighted-trail-0",
@@ -193,35 +85,8 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Joshua's Boots",
-   "date": "2026-10-23",
-   "venue": "COCA — Center of Creative Arts",
-   "town": "St. Louis",
-   "url": "https://saintlouis.kidsoutandabout.com/content/joshuas-boots",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Kid's Open Gym",
-   "date": "2026-10-23",
-   "venue": "Team Central Gymnastics Academy",
-   "town": "Maryland Heights",
-   "url": "https://saintlouis.kidsoutandabout.com/content/kids-open-gym-0",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Lap Time",
-   "date": "2026-10-23",
-   "venue": "",
-   "town": "Saint Ann",
-   "url": "https://saintlouis.kidsoutandabout.com/content/lap-time",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
    "name": "Minerals Make Missouri",
-   "date": "2026-10-23",
+   "date": "2026-10-25",
    "venue": "Felix Valle House State Historic Site",
    "town": "Ste. Genevieve",
    "url": "https://saintlouis.kidsoutandabout.com/content/minerals-make-missouri",
@@ -229,62 +94,8 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Minions & Monsters Skate",
-   "date": "2026-10-23",
-   "venue": "Skate City Belleville",
-   "town": "Belleville",
-   "url": "https://saintlouis.kidsoutandabout.com/content/minions-monsters-skate",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Morning in the Meadow",
-   "date": "2026-10-23",
-   "venue": "The Waldorf School of St. Louis",
-   "town": "St. Louis",
-   "url": "https://saintlouis.kidsoutandabout.com/content/morning-meadow-1",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "No School Days",
-   "date": "2026-10-23",
-   "venue": "The Brentwood Community Center",
-   "town": "Missouri",
-   "url": "https://saintlouis.kidsoutandabout.com/content/no-school-days-2",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Open Gym - Come play at Miss Kelly's Gym!",
-   "date": "2026-10-23",
-   "venue": "",
-   "town": "Miss Kelly's Gym - Creve Coeur and Cottl",
-   "url": "https://saintlouis.kidsoutandabout.com/content/open-gym-come-play-miss-kellys-gym",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Open Play at Enchanted Playroom",
-   "date": "2026-10-23",
-   "venue": "Enchanted Playroom",
-   "town": "O'Fallon",
-   "url": "https://saintlouis.kidsoutandabout.com/content/open-play-enchanted-playroom",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Open Play at Your Village",
-   "date": "2026-10-23",
-   "venue": "Your Village STL: Jennifer Tietjen",
-   "town": "Chesterfield",
-   "url": "https://saintlouis.kidsoutandabout.com/content/open-play-your-village",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
    "name": "Pirates and Pumpkins at the St. Louis Aquarium",
-   "date": "2026-10-23",
+   "date": "2026-10-25",
    "venue": "St. Louis Aquarium at Union Station",
    "town": "St. Louis",
    "url": "https://saintlouis.kidsoutandabout.com/content/pirates-and-pumpkins-st-louis-aquarium-1",
@@ -293,7 +104,7 @@
   },
   {
    "name": "Pumpkin Patch & Fall Festival",
-   "date": "2026-10-23",
+   "date": "2026-10-25",
    "venue": "Pin Oak Farms",
    "town": "New Haven",
    "url": "https://saintlouis.kidsoutandabout.com/content/pumpkin-patch-fall-festival-0",
@@ -301,11 +112,38 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Trunk or Treat at Fenton Lodge",
-   "date": "2026-10-23",
+   "name": "Open Play at Enchanted Playroom",
+   "date": "2026-10-26",
+   "venue": "Enchanted Playroom",
+   "town": "O'Fallon",
+   "url": "https://saintlouis.kidsoutandabout.com/content/open-play-enchanted-playroom",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Open Play at Your Village",
+   "date": "2026-10-26",
+   "venue": "Your Village STL: Jennifer Tietjen",
+   "town": "Chesterfield",
+   "url": "https://saintlouis.kidsoutandabout.com/content/open-play-your-village",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Open Gym - Come play at Miss Kelly's Gym!",
+   "date": "2026-10-28",
    "venue": "",
-   "town": "Fenton Mo 63026",
-   "url": "https://saintlouis.kidsoutandabout.com/content/trunk-or-treat-fenton-lodge",
+   "town": "Miss Kelly's Gym - Creve Coeur and Cottl",
+   "url": "https://saintlouis.kidsoutandabout.com/content/open-gym-come-play-miss-kellys-gym",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Lap Time",
+   "date": "2026-10-30",
+   "venue": "",
+   "town": "Saint Ann",
+   "url": "https://saintlouis.kidsoutandabout.com/content/lap-time",
    "source": "Kids Out and About STL",
    "extraction": "heuristic"
   }

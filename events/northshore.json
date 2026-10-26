@@ -1,488 +1,8 @@
 {
  "schema": "lantern-events/v1",
  "region": "northshore",
- "generated_at": "2026-10-23T17:24:19Z",
+ "generated_at": "2026-10-26T17:22:25Z",
  "events": [
-  {
-   "name": "A Very Farmy Halloween Edition",
-   "date": "2026-10-23",
-   "venue": "Luckie Farms",
-   "town": "Lake Stevens",
-   "url": "https://www.parentmap.com/calendar/a-very-farmy-halloween-edition/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Ai Weiwei: Circle of Animals/Zodiac Heads",
-   "date": "2026-10-23",
-   "venue": "Olympic Sculpture Park",
-   "town": "Seattle",
-   "url": "https://www.parentmap.com/calendar/ai-weiwei-circle-animalszodiac-heads/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Bellewood Farms Harvest Festival",
-   "date": "2026-10-23",
-   "venue": "Bellewood Farms",
-   "town": "Lynden",
-   "url": "https://www.parentmap.com/calendar/bellewood-farms-harvest-festival/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Briscot Farm Family Fall Fun",
-   "date": "2026-10-23",
-   "venue": "Briscot Farm",
-   "town": "Kent",
-   "url": "https://www.parentmap.com/calendar/briscot-farm-family-fall-fun/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Bubble Planet Experience",
-   "date": "2026-10-23",
-   "venue": "Bubble Planet",
-   "town": "Bellevue",
-   "url": "https://www.parentmap.com/calendar/bubble-planet-experience/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Carpinito Brothers Fall Festival",
-   "date": "2026-10-23",
-   "venue": "Carpinito Brothers Farm",
-   "town": "Kent",
-   "url": "https://www.parentmap.com/calendar/carpinito-brothers-fall-festival-2/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Craven Farm Fall Festival",
-   "date": "2026-10-23",
-   "venue": "Craven Farm",
-   "town": "Snohomish",
-   "url": "https://www.parentmap.com/calendar/craven-farm-fall-festival-0/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Critter Crawl",
-   "date": "2026-10-23",
-   "venue": "Chambers Creek Regional Park",
-   "town": "University Place",
-   "url": "https://www.parentmap.com/calendar/pumpkin-prowl/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Dog Days at PDZA",
-   "date": "2026-10-23",
-   "venue": "Point Defiance Zoo & Aquarium",
-   "town": "Tacoma",
-   "url": "https://www.parentmap.com/calendar/dog-days-pdza/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Edmonds Museum Scarecrow Festival Contest",
-   "date": "2026-10-23",
-   "venue": "",
-   "town": "",
-   "url": "https://www.parentmap.com/calendar/47695-2/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Fall Festival at Bob’s Corn and Pumpkin Farm",
-   "date": "2026-10-23",
-   "venue": "Bob’s Corn and Pumpkin Farm",
-   "town": "Snohomish",
-   "url": "https://www.parentmap.com/calendar/fall-festival-bobs-corn-and-pumpkin-farm/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Farm to Table Trails",
-   "date": "2026-10-23",
-   "venue": "",
-   "town": "",
-   "url": "https://www.parentmap.com/calendar/farm-table-trails/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "For Which it Stands: The Many Threads of the American Flag",
-   "date": "2026-10-23",
-   "venue": "MOHAI (Museum of History & Industry)",
-   "town": "Seattle",
-   "url": "https://www.parentmap.com/calendar/for-which-it-stands-the-many-threads-of-the-american-flag/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Free Admission at the Flying Heritage & Combat Armor Museum",
-   "date": "2026-10-23",
-   "venue": "Flying Heritage & Combat Armor Museum",
-   "town": "Everett",
-   "url": "https://www.parentmap.com/calendar/free-admission-flying-heritage-combat-armor-museum/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Free Admission at Foss Water Seaport",
-   "date": "2026-10-23",
-   "venue": "Foss Waterway Seaport",
-   "town": "Tacoma",
-   "url": "https://www.parentmap.com/calendar/free-admission-foss-water-seaport/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Free Beach Shuttle at Discovery Park",
-   "date": "2026-10-23",
-   "venue": "Discovery Park Visitor Center",
-   "town": "Seattle",
-   "url": "https://www.parentmap.com/calendar/free-beach-shuttle-at-discovery-park/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Giant Skulls Day of the Dead Art Exhibit",
-   "date": "2026-10-23",
-   "venue": "Westlake Park",
-   "town": "Seattle",
-   "url": "https://www.parentmap.com/calendar/sea-giant-skulls-day-dead-art-exhibit/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Halloween Afternoon Tea",
-   "date": "2026-10-23",
-   "venue": "Cafe Flora",
-   "town": "Seattle",
-   "url": "https://www.parentmap.com/calendar/halloween-afternoon-tea/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Harvest Festival at Swans Trail Farms",
-   "date": "2026-10-23",
-   "venue": "Swan’s Trail Farms",
-   "town": "Snohomish",
-   "url": "https://www.parentmap.com/calendar/harvest-festival-swans-trail-farms/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Indoor Play at Crossroads Community Center",
-   "date": "2026-10-23",
-   "venue": "Crossroads Community Center",
-   "town": "Bellevue",
-   "url": "https://www.parentmap.com/calendar/indoor-play-crossroads-community-center/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Indoor Play at Highland Community Center",
-   "date": "2026-10-23",
-   "venue": "Highland Community Center",
-   "town": "Bellevue",
-   "url": "https://www.parentmap.com/calendar/indoor-play-highland-community-center/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Indoor Playground",
-   "date": "2026-10-23",
-   "venue": "Les Gove Gymnasium",
-   "town": "Auburn",
-   "url": "https://www.parentmap.com/calendar/indoor-playground-1/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Little Sprouts Drop-in Program at Plucky Palomino Petting Zoo",
-   "date": "2026-10-23",
-   "venue": "Plucky Palomino Petting Zoo",
-   "town": "North Bend",
-   "url": "https://www.parentmap.com/calendar/little-sprouts-drop-in-program-at-plucky-palomino-petting-zoo/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Nominations Open for MONOPOLY: Seattle Edition",
-   "date": "2026-10-23",
-   "venue": "",
-   "town": "",
-   "url": "https://www.parentmap.com/calendar/nominations-open-for-monopoly-seattle-edition/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Open Dance and Play at All That Dance",
-   "date": "2026-10-23",
-   "venue": "All That Dance",
-   "town": "Seattle",
-   "url": "https://www.parentmap.com/calendar/open-dance-and-play-at-all-that-dance-2/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Play to Learn at Asia Pacific Cultural Center",
-   "date": "2026-10-23",
-   "venue": "Asia Pacific Cultural Center",
-   "town": "Tacoma",
-   "url": "https://www.parentmap.com/calendar/41433/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Practically Magic Halloweekend",
-   "date": "2026-10-23",
-   "venue": "Downtown Coupeville",
-   "town": "Coupeville",
-   "url": "https://www.parentmap.com/calendar/practically-magic-halloweekend/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Pumpkin Farm and Puzzle Patch",
-   "date": "2026-10-23",
-   "venue": "JB Family Growers",
-   "town": "Woodinville",
-   "url": "https://www.parentmap.com/calendar/pumpkin-farm-and-puzzle-patch/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Remlinger Farms Fall Harvest Festival",
-   "date": "2026-10-23",
-   "venue": "Remlinger Farms",
-   "town": "Carnation",
-   "url": "https://www.parentmap.com/calendar/remlinger-farms-fall-harvest-festival-0-s2/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Rutledge Fall on the Farm",
-   "date": "2026-10-23",
-   "venue": "Rutledge Corn Maze",
-   "town": "Olympia",
-   "url": "https://www.parentmap.com/calendar/rutledge-fall-farm-s2-3-4/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Salmon SEEson at 90th St Bridge in Redmond",
-   "date": "2026-10-23",
-   "venue": "90th St Bridge",
-   "town": "Redmond",
-   "url": "https://www.parentmap.com/calendar/salmon-seeson-90th-st-bridge-redmond/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Salmon SEEson at Cedar River Park",
-   "date": "2026-10-23",
-   "venue": "Cedar River Park",
-   "town": "Renton",
-   "url": "https://www.parentmap.com/calendar/salmon-seeson-cedar-river-park-2/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Salmon SEEson at Issaquah Creek",
-   "date": "2026-10-23",
-   "venue": "Bridge over Issaquah Creek",
-   "town": "Issaquah",
-   "url": "https://www.parentmap.com/calendar/salmon-seeson-issaquah-creek/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Salmon SEEson at Longfellow Creek",
-   "date": "2026-10-23",
-   "venue": "Dragonfly Garden and Pavilion",
-   "town": "Seattle",
-   "url": "https://www.parentmap.com/calendar/salmon-seeson-longfellow-creek/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Salmon SEEson at North Creek Trail Park",
-   "date": "2026-10-23",
-   "venue": "North Creek Park",
-   "town": "Bothell",
-   "url": "https://www.parentmap.com/calendar/salmon-seeson-north-creek-trail-park/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Salmon SEEson Flaming Geyser State Park",
-   "date": "2026-10-23",
-   "venue": "Flaming Geyser State Park",
-   "town": "Auburn",
-   "url": "https://www.parentmap.com/calendar/salmon-seeson-flaming-geyser-state-park-2/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Schilter Family Farm Fall Harvest Festival",
-   "date": "2026-10-23",
-   "venue": "Schilter Family Farm",
-   "town": "Olympia",
-   "url": "https://www.parentmap.com/calendar/schilter-family-farm-fall-harvest-festival-s3/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Spooky Science at the Burke Museum",
-   "date": "2026-10-23",
-   "venue": "Burke Museum",
-   "town": "Seattle",
-   "url": "https://www.parentmap.com/calendar/spooky-science-burke-museum/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Spooner Farms Harvest Festival",
-   "date": "2026-10-23",
-   "venue": "Spooner Farms",
-   "town": "Puyallup",
-   "url": "https://www.parentmap.com/calendar/spooner-farms-harvest-festival/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Squash Hunt",
-   "date": "2026-10-23",
-   "venue": "Bloedel Reserve",
-   "town": "Bainbridge Island",
-   "url": "https://www.parentmap.com/calendar/47781/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Stocker Farms Fall Festival",
-   "date": "2026-10-23",
-   "venue": "Stocker Farms",
-   "town": "Snohomish",
-   "url": "https://www.parentmap.com/calendar/stocker-farms-fall-festival/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Story Time with Seattle Botanic Gardens",
-   "date": "2026-10-23",
-   "venue": "",
-   "town": "",
-   "url": "https://www.parentmap.com/calendar/virtual-story-time-uw-botanic-gardens-s2-2/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Storywalk at Alderwood Park: César’s Cerulean Surprise",
-   "date": "2026-10-23",
-   "venue": "Alderwood Park – Tacoma",
-   "town": "Tacoma",
-   "url": "https://www.parentmap.com/calendar/storywalk-at-alderwood-park-cesars-cerulean-surprise/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "StoryWalk at Lake Wilderness Arboretum",
-   "date": "2026-10-23",
-   "venue": "Lake Wilderness Arboretum",
-   "town": "Maple Valley",
-   "url": "https://www.parentmap.com/calendar/storywalk-lake-wilderness-arboretum-2/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Stroller Skate at Rock and Roll Roller Rink",
-   "date": "2026-10-23",
-   "venue": "Rock and Roll Roller Rink",
-   "town": "Issaquah",
-   "url": "https://www.parentmap.com/calendar/stroller-skate-at-rock-and-roll-roller-rink/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Thomasson Family Farm Fall Festival",
-   "date": "2026-10-23",
-   "venue": "Thomasson Family Farm",
-   "town": "Enumclaw",
-   "url": "https://www.parentmap.com/calendar/thomasson-family-farm-fall-festival-s3/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Toddler Gym at Delridge Community Center",
-   "date": "2026-10-23",
-   "venue": "Delridge Community Center",
-   "town": "Seattle",
-   "url": "https://www.parentmap.com/calendar/toddler-gym-delridge-community-center/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Toddler Gym at Rainier Beach Community Center",
-   "date": "2026-10-23",
-   "venue": "Rainier Beach Community Center and Pool",
-   "town": "Seattle",
-   "url": "https://www.parentmap.com/calendar/toddler-gym-rainier-beach-community-center-2/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Toddler Gym Playtime at Ballard CC",
-   "date": "2026-10-23",
-   "venue": "Ballard Community Center",
-   "town": "Seattle",
-   "url": "https://www.parentmap.com/calendar/toddler-gym-playtime-ballard-cc-2/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Toddler Gym Playtime at Magnolia CC",
-   "date": "2026-10-23",
-   "venue": "Magnolia Community Center",
-   "town": "Seattle",
-   "url": "https://www.parentmap.com/calendar/toddler-gym-playtime-magnolia-cc/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Toddler Gym Playtime at Yesler CC",
-   "date": "2026-10-23",
-   "venue": "Yesler Community Center",
-   "town": "Seattle",
-   "url": "https://www.parentmap.com/calendar/toddler-gym-playtime-yesler-cc-2/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Toddler Time",
-   "date": "2026-10-23",
-   "venue": "Issaquah Community Center",
-   "town": "Issaquah",
-   "url": "https://www.parentmap.com/calendar/toddler-time-issaquah/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Toddler Time",
-   "date": "2026-10-23",
-   "venue": "Mosaic Room",
-   "town": "Seattle",
-   "url": "https://www.parentmap.com/calendar/toddler-time/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Tot Play Hour at Kraken Community Iceplex",
-   "date": "2026-10-23",
-   "venue": "Kraken Community Iceplex",
-   "town": "Seattle",
-   "url": "https://www.parentmap.com/calendar/tot-play-hour-kraken-community-iceplex-s4/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Tot Shabbat at the J",
-   "date": "2026-10-23",
-   "venue": "Stroum Jewish Community Center",
-   "town": "Mercer Island",
-   "url": "https://www.parentmap.com/calendar/tot-shabbat-j/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Tots on the Trail",
-   "date": "2026-10-23",
-   "venue": "Point Defiance Park – Fort Nisqually Picnic Shelter",
-   "town": "Tacoma",
-   "url": "https://www.parentmap.com/calendar/tots-trail/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Trails Through Time: Bellevue’s Coal Creek History Hike",
-   "date": "2026-10-23",
-   "venue": "Coal Creek SE 60th St Trailhead",
-   "town": "Bellevue",
-   "url": "https://www.parentmap.com/calendar/trails-through-time-bellevues-coal-creek-history-hike/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Trolls: A Field Study at NW Trek and PDZA",
-   "date": "2026-10-23",
-   "venue": "Point Defiance Zoo & Aquarium",
-   "town": "Tacoma",
-   "url": "https://www.parentmap.com/calendar/trolls-a-field-study-at-nw-trek/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Trout Fishing Derby",
-   "date": "2026-10-23",
-   "venue": "",
-   "town": "",
-   "url": "https://www.parentmap.com/calendar/2025-trout-fishing-derby/2026-10-23/",
-   "source": "ParentMap"
-  },
-  {
-   "name": "Visit Old McDebbie’s Farm and Jim’s U-Fish",
-   "date": "2026-10-23",
-   "venue": "Old McDebbie’s Farm",
-   "town": "Spanaway",
-   "url": "https://www.parentmap.com/calendar/visit-old-mcdebbies-farm-and-jims-u-fish/2026-10-23/",
-   "source": "ParentMap"
-  },
   {
    "name": "Ai Weiwei: Circle of Animals/Zodiac Heads",
    "date": "2026-10-26",
@@ -2361,6 +1881,478 @@
    "venue": "West Seattle Church of the Nazarene",
    "town": "Seattle",
    "url": "https://www.parentmap.com/calendar/west-seattle-nazarene-playspace/2026-11-05/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "61st Annual Veterans Day Parade & Observance",
+   "date": "2026-11-07",
+   "venue": "Downtown Auburn, Washington",
+   "town": "Auburn",
+   "url": "https://www.parentmap.com/calendar/60th-annual-veterans-day-parade-observance/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Ai Weiwei: Circle of Animals/Zodiac Heads",
+   "date": "2026-11-07",
+   "venue": "Olympic Sculpture Park",
+   "town": "Seattle",
+   "url": "https://www.parentmap.com/calendar/ai-weiwei-circle-animalszodiac-heads/2026-11-07/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Baby Goat Snuggle Sesh",
+   "date": "2026-11-07",
+   "venue": "Plucky Palomino Petting Zoo",
+   "town": "North Bend",
+   "url": "https://www.parentmap.com/calendar/baby-goat-snuggle-sesh/2026-11-07/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "BIMA Día de los Muertos Community Celebrations",
+   "date": "2026-11-07",
+   "venue": "Bainbridge Island Museum of Art",
+   "town": "Bainbridge Island",
+   "url": "https://www.parentmap.com/calendar/bima-dia-de-los-muertos-community-celebrations/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "BIMA Día de los Muertos Ofrenda",
+   "date": "2026-11-07",
+   "venue": "Bainbridge Island Museum of Art",
+   "town": "Bainbridge Island",
+   "url": "https://www.parentmap.com/calendar/bima-dia-de-los-muertos-ofrenda/2026-11-07/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Bubble Planet Experience",
+   "date": "2026-11-07",
+   "venue": "Bubble Planet",
+   "town": "Bellevue",
+   "url": "https://www.parentmap.com/calendar/bubble-planet-experience/2026-11-07/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Celebrate Diwali at The Bellevue Collection",
+   "date": "2026-11-07",
+   "venue": "Bellevue Square",
+   "town": "Bellevue",
+   "url": "https://www.parentmap.com/calendar/celebrate-diwali-bellevue-collection-2/2026-11-07/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Christmas Minis at The Fremont Social",
+   "date": "2026-11-07",
+   "venue": "The Fremont Social",
+   "town": "Seattle",
+   "url": "https://www.parentmap.com/calendar/christmas-minis-at-the-fremont-social/2026-11-07/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Día de los Muertos Mariposa (Butterfly) Wings Procession",
+   "date": "2026-11-07",
+   "venue": "Bainbridge Island Museum of Art",
+   "town": "Bainbridge Island",
+   "url": "https://www.parentmap.com/calendar/dia-de-los-muertos-kidimu/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Detective Cookie’s Chess Club",
+   "date": "2026-11-07",
+   "venue": "Rainier Beach Community Center and Pool",
+   "town": "Seattle",
+   "url": "https://www.parentmap.com/calendar/32679-s2/2026-11-07/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "‘Exquisite Creatures’ Exhibit",
+   "date": "2026-11-07",
+   "venue": "Exquisite Creatures Exhibit",
+   "town": "Seattle",
+   "url": "https://www.parentmap.com/calendar/exquisite-creatures-exhibit/2026-11-07/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Fall Foliage Festival",
+   "date": "2026-11-07",
+   "venue": "Rhododendron Species Botanical Garden",
+   "town": "Federal Way",
+   "url": "https://www.parentmap.com/calendar/fall-foliage-festival/2026-11-07/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Family Reading Night at Paper Boat Booksellers",
+   "date": "2026-11-07",
+   "venue": "Paper Boat Booksellers",
+   "town": "Seattle",
+   "url": "https://www.parentmap.com/calendar/family-reading-night-paper-boat-booksellers/2026-11-07/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Festál: Diwali — Lights of India",
+   "date": "2026-11-07",
+   "venue": "Seattle Center Armory",
+   "town": "Seattle",
+   "url": "https://www.parentmap.com/calendar/49689/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "For Which it Stands: The Many Threads of the American Flag",
+   "date": "2026-11-07",
+   "venue": "MOHAI (Museum of History & Industry)",
+   "town": "Seattle",
+   "url": "https://www.parentmap.com/calendar/for-which-it-stands-the-many-threads-of-the-american-flag/2026-11-07/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Fort Ward parkrun",
+   "date": "2026-11-07",
+   "venue": "Fort Ward Park – Upper Lot",
+   "town": "Bainbridge Island",
+   "url": "https://www.parentmap.com/calendar/fort-ward-parkrun/2026-11-07/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Free Admission at the Flying Heritage & Combat Armor Museum",
+   "date": "2026-11-07",
+   "venue": "Flying Heritage & Combat Armor Museum",
+   "town": "Everett",
+   "url": "https://www.parentmap.com/calendar/free-admission-flying-heritage-combat-armor-museum/2026-11-07/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Free Admission at Foss Water Seaport",
+   "date": "2026-11-07",
+   "venue": "Foss Waterway Seaport",
+   "town": "Tacoma",
+   "url": "https://www.parentmap.com/calendar/free-admission-foss-water-seaport/2026-11-07/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Grit City Comic Show",
+   "date": "2026-11-07",
+   "venue": "Greater Tacoma Convention & Trade Center",
+   "town": "Tacoma",
+   "url": "https://www.parentmap.com/calendar/grit-city-comic-show/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Harvest Carnival at Shoreline Cooperative Preschool",
+   "date": "2026-11-07",
+   "venue": "Shoreline Cooperative Preschool",
+   "town": "Shoreline",
+   "url": "https://www.parentmap.com/calendar/harvest-carnival-at-shoreline-cooperative-preschool/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Hip-Hop History Month Celebration at MOPOP",
+   "date": "2026-11-07",
+   "venue": "Museum of Pop Culture (MoPOP)",
+   "town": "Seattle",
+   "url": "https://www.parentmap.com/calendar/hip-hop-history-month-celebration-at-mopop/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Indoor Toddler Gym at Magnuson CC",
+   "date": "2026-11-07",
+   "venue": "Magnuson Community Center",
+   "town": "Seattle",
+   "url": "https://www.parentmap.com/calendar/indoor-toddler-gym-magnuson-cc-s2/2026-11-07/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Insect Safari",
+   "date": "2026-11-07",
+   "venue": "Evergreen Branch",
+   "town": "Everett",
+   "url": "https://www.parentmap.com/calendar/insect-safari-5/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Kennedy Creek Salmon Trail",
+   "date": "2026-11-07",
+   "venue": "Kennedy Creek Natural Area Preserve",
+   "town": "Shelton",
+   "url": "https://www.parentmap.com/calendar/kennedy-creek-salmon-trail/2026-11-07/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Kid’s Story Time at The Couth Buzzard",
+   "date": "2026-11-07",
+   "venue": "Couth Buzzard, 8310 Greenwood Ave. N.",
+   "town": "Seattle",
+   "url": "https://www.parentmap.com/calendar/kids-story-time-couth-buzzard/2026-11-07/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Lights in the Night",
+   "date": "2026-11-07",
+   "venue": "WET Science Center",
+   "town": "Olympia",
+   "url": "https://www.parentmap.com/calendar/lights-in-the-night/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Little Beats Concert Series",
+   "date": "2026-11-07",
+   "venue": "McGilvra Elementary School",
+   "town": "Seattle",
+   "url": "https://www.parentmap.com/calendar/little-beats-concert-series/2026-11-07/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Luckie Farms – Interactive Farm Experience",
+   "date": "2026-11-07",
+   "venue": "Luckie Farms",
+   "town": "Lake Stevens",
+   "url": "https://www.parentmap.com/calendar/luckie-farms-interactive-farm-experience-0-s2/2026-11-07/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Luckie Farms Pumpkin Smash with Highland Cows",
+   "date": "2026-11-07",
+   "venue": "Luckie Farms",
+   "town": "Lake Stevens",
+   "url": "https://www.parentmap.com/calendar/luckie-farms-pumpkin-smash-with-highland-cows/2026-11-07/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "MaST Center’s Discovery Day",
+   "date": "2026-11-07",
+   "venue": "MaST Center",
+   "town": "Des Moines",
+   "url": "https://www.parentmap.com/calendar/45841/2026-11-07/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Petting Zoo Animal Encounter @ Plucky Palomino Petting Zoo",
+   "date": "2026-11-07",
+   "venue": "Plucky Palomino Petting Zoo",
+   "town": "North Bend",
+   "url": "https://www.parentmap.com/calendar/petting-zoo-animal-encounter-plucky-palomino-petting-zoo-3-3-4/2026-11-07/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Phinney Día de los Muertos Celebration",
+   "date": "2026-11-07",
+   "venue": "Phinney Neighborhood Center",
+   "town": "Seattle",
+   "url": "https://www.parentmap.com/calendar/dia-de-los-muertos-celebration-0/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Piper’s Creek Salmon Viewing with Naturalists",
+   "date": "2026-11-07",
+   "venue": "Carkeek Park",
+   "town": "Seattle",
+   "url": "https://www.parentmap.com/calendar/33719/2026-11-07/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Pumpkin Drop",
+   "date": "2026-11-07",
+   "venue": "Farrel McWhirter Park",
+   "town": "Redmond",
+   "url": "https://www.parentmap.com/calendar/pumpkin-drop/2026-11-07/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Puppy Prov",
+   "date": "2026-11-07",
+   "venue": "The Atlas Theatre",
+   "town": "Seattle",
+   "url": "https://www.parentmap.com/calendar/puppy-prov/2026-11-07/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Renton parkrun",
+   "date": "2026-11-07",
+   "venue": "Cedar River Dog Park",
+   "town": "Renton",
+   "url": "https://www.parentmap.com/calendar/renton-parkrun/2026-11-07/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Ruby Vibe Co Seattle Pop-Up Event",
+   "date": "2026-11-07",
+   "venue": "melody building",
+   "town": "Seattle",
+   "url": "https://www.parentmap.com/calendar/ruby-vibe-co-seattle-pop-up-event/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Salmon SEEson at Ebright Creek",
+   "date": "2026-11-07",
+   "venue": "Ebright Creek Park",
+   "town": "Sammamish",
+   "url": "https://www.parentmap.com/calendar/salmon-seeson-ebright-creek/2026-11-07/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Salmon SEEson at Issaquah Creek",
+   "date": "2026-11-07",
+   "venue": "Bridge over Issaquah Creek",
+   "town": "Issaquah",
+   "url": "https://www.parentmap.com/calendar/salmon-seeson-issaquah-creek/2026-11-07/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Salmon SEEson at Longfellow Creek",
+   "date": "2026-11-07",
+   "venue": "Dragonfly Garden and Pavilion",
+   "town": "Seattle",
+   "url": "https://www.parentmap.com/calendar/salmon-seeson-longfellow-creek/2026-11-07/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Salmon SEEson at North Creek Trail Park",
+   "date": "2026-11-07",
+   "venue": "North Creek Park",
+   "town": "Bothell",
+   "url": "https://www.parentmap.com/calendar/salmon-seeson-north-creek-trail-park/2026-11-07/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Salmon SEEson Flaming Geyser State Park",
+   "date": "2026-11-07",
+   "venue": "Flaming Geyser State Park",
+   "town": "Auburn",
+   "url": "https://www.parentmap.com/calendar/salmon-seeson-flaming-geyser-state-park-2/2026-11-07/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Saturday Morning Storytime",
+   "date": "2026-11-07",
+   "venue": "Barnes & Noble Booksellers Federal Way",
+   "town": "Federal Way",
+   "url": "https://www.parentmap.com/calendar/saturday-morning-storytime-0/2026-11-07/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Saturdays at SAM",
+   "date": "2026-11-07",
+   "venue": "Seattle Art Museum",
+   "town": "Seattle",
+   "url": "https://www.parentmap.com/calendar/saturdays-at-sam/2026-11-07/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Sea-Meow Convention",
+   "date": "2026-11-07",
+   "venue": "Seattle Center Exhibition Hall",
+   "town": "Seattle",
+   "url": "https://www.parentmap.com/calendar/sea-meow-convention-2025/2026-11-07/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Seattle Art Museum Family Tour",
+   "date": "2026-11-07",
+   "venue": "Seattle Art Museum",
+   "town": "Seattle",
+   "url": "https://www.parentmap.com/calendar/seattle-art-museum-family-tour/2026-11-07/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Seattle Forest Week",
+   "date": "2026-11-07",
+   "venue": "",
+   "town": "",
+   "url": "https://www.parentmap.com/calendar/seattle-forest-week/2026-11-07/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Seattle Ski Swap at Hazel Wolf K-8",
+   "date": "2026-11-07",
+   "venue": "Hazel Wolf K-8 School",
+   "town": "Seattle",
+   "url": "https://www.parentmap.com/calendar/seattle-ski-swap-at-hazel-wolf-k-8/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Sensory Friendly Room and Art Time",
+   "date": "2026-11-07",
+   "venue": "Hands On Children’s Museum",
+   "town": "Olympia",
+   "url": "https://www.parentmap.com/calendar/sensory-friendly-room-and-art-time-2/2026-11-07/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Seymour’s Kids Club: Día de los Muertos Piñatas",
+   "date": "2026-11-07",
+   "venue": "Washington State History Museum",
+   "town": "Tacoma",
+   "url": "https://www.parentmap.com/calendar/seymours-kids-club-winning-her-wings-living-voices/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Singing and Stories with Nancy Stewart",
+   "date": "2026-11-07",
+   "venue": "Island Books",
+   "town": "Mercer Island",
+   "url": "https://www.parentmap.com/calendar/singing-and-stories-nancy-stewart-2/2026-11-07/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Sip, Shop, and Sparkle: Women’s Shelter Jewelry Project’s 2026 Annual Sale",
+   "date": "2026-11-07",
+   "venue": "Original Rainier Brewery",
+   "town": "Seattle",
+   "url": "https://www.parentmap.com/calendar/sip-shop-and-sparkle-womens-shelter-jewelry-projects-2026-annual-sale-2/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Story Time at Spark & Spell",
+   "date": "2026-11-07",
+   "venue": "Spark & Spell",
+   "town": "Seattle",
+   "url": "https://www.parentmap.com/calendar/story-time-at-spark-spell/2026-11-07/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Story Time with Seattle Botanic Gardens",
+   "date": "2026-11-07",
+   "venue": "",
+   "town": "",
+   "url": "https://www.parentmap.com/calendar/virtual-story-time-uw-botanic-gardens-s2-2/2026-11-07/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Sturtevant’s Ready. Set. Snow! Ski & Snowboard Sale",
+   "date": "2026-11-07",
+   "venue": "Sturtevant’s Bellevue",
+   "town": "Bellevue",
+   "url": "https://www.parentmap.com/calendar/sturtevants-ready-set-snow-ski-snowboard-sale-bellevue/2026-11-07/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Toddler Gym at Delridge Community Center",
+   "date": "2026-11-07",
+   "venue": "Delridge Community Center",
+   "town": "Seattle",
+   "url": "https://www.parentmap.com/calendar/toddler-gym-delridge-community-center-s2/2026-11-07/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Trolls: A Field Study at NW Trek and PDZA",
+   "date": "2026-11-07",
+   "venue": "Point Defiance Zoo & Aquarium",
+   "town": "Tacoma",
+   "url": "https://www.parentmap.com/calendar/trolls-a-field-study-at-nw-trek/2026-11-07/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Weekend Family Workshop at Museum of Flight",
+   "date": "2026-11-07",
+   "venue": "Museum of Flight",
+   "town": "Tukwila",
+   "url": "https://www.parentmap.com/calendar/50678-s3/2026-11-07/",
+   "source": "ParentMap"
+  },
+  {
+   "name": "Y-WE Move: Self-Defense",
+   "date": "2026-11-07",
+   "venue": "Young Women Empowered",
+   "town": "Seattle, WA",
+   "url": "https://www.parentmap.com/calendar/y-we-move-self-defense/2026-11-07/",
    "source": "ParentMap"
   }
  ]

@@ -1,688 +1,8 @@
 {
  "schema": "lantern-events/v1",
  "region": "west-alabama",
- "generated_at": "2026-10-23T17:24:19Z",
+ "generated_at": "2026-10-26T17:22:25Z",
  "events": [
-  {
-   "name": "205 & Park: College Edition",
-   "date": "2026-10-23",
-   "venue": "Boutwell Auditorium",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/205-park-college-edition/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "$5 Bags of Groceries at Bid Llama",
-   "date": "2026-10-23",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/5-bags-of-groceries-at-bid-llama/2026-10-23/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "AAA Alabama Bringing TSA PreCheck Enrollment Event to Birmingham",
-   "date": "2026-10-23",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/aaa-alabama-bringing-tsa-precheck-enrollment-event-to-birmingham/2026-10-23/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "ARX MORTIS 2026",
-   "date": "2026-10-23",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/arx-mortis-2026/2026-10-23/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Boo Bash",
-   "date": "2026-10-23",
-   "venue": "Pinson Public Library",
-   "town": "Pinson",
-   "url": "https://birminghammomcollective.com/event/boo-bash/",
-   "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "Brick’d Up Step Aerobics",
-   "date": "2026-10-23",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/brickd-up-step-aerobics-75/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Christmas Open House",
-   "date": "2026-10-23",
-   "venue": "University Pickers – Huntsville",
-   "town": "Huntsville",
-   "url": "https://bhamnow.com/bhamn-event/christmas-open-house-2/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Curious Savage",
-   "date": "2026-10-23",
-   "venue": "Hueytown Community Theatre",
-   "town": "Hueytown",
-   "url": "https://bhamnow.com/bhamn-event/curious-savage-4/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Dino Safari",
-   "date": "2026-10-23",
-   "venue": "Birmingham Zoo",
-   "town": "Birmingham",
-   "url": "https://birminghammomcollective.com/event/dino-safari/2026-10-23/",
-   "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "Dino Safari – March 4 to November 1",
-   "date": "2026-10-23",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/dino-safari-march-4-to-november-1-233/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Dirty Rotten Scoundrels at Leeds Arts Council",
-   "date": "2026-10-23",
-   "venue": "Leeds Arts Council",
-   "town": "Leeds",
-   "url": "https://bhamnow.com/bhamn-event/dirty-rotten-scoundrels-at-leeds-arts-council/2026-10-23/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Dolly Parton Tribute",
-   "date": "2026-10-23",
-   "venue": "East Lake United Methodist Church",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/dolly-parton-tribute/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Fall Park Hop at Veterans Park",
-   "date": "2026-10-23",
-   "venue": "Veterans Park",
-   "town": "Birmingham",
-   "url": "https://birminghammomcollective.com/event/fall-park-hop-at-veterans-park/",
-   "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "Friday Night Pickleball Social",
-   "date": "2026-10-23",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/friday-night-pickleball-social-2/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "GirlSpring SHE Camp July 2026",
-   "date": "2026-10-23",
-   "venue": "Artplay",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/girlspring-she-camp-july-2026/2026-10-23/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Hocus Pocus – Movie",
-   "date": "2026-10-23",
-   "venue": "Alabama Theatre",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/hocus-pocus-movie-2/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "KIDZ BOP LIVE: The Concert Movie – Birmingham",
-   "date": "2026-10-23",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/kidz-bop-live-the-concert-movie-birmingham/2026-10-23/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Lakeshore Wheelchair Tennis Classic",
-   "date": "2026-10-23",
-   "venue": "Lakeshore Foundation",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/lakeshore-wheelchair-tennis-classic/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Leanne Morgan: THE TIME OF OUR LIVES TOUR",
-   "date": "2026-10-23",
-   "venue": "The BJCC",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/leanne-morgan-the-time-of-our-lives-tour/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Magic City Pop-Up Plaza presented by Bham Now",
-   "date": "2026-10-23",
-   "venue": "Railroad Park",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/magic-city-pop-up-plaza-presented-by-bham-now/2026-10-23/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Paint a Sweater Ornament",
-   "date": "2026-10-23",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/paint-a-sweater-ornament/2026-10-23/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Papers, Please! A Concert to Fight Houselessness",
-   "date": "2026-10-23",
-   "venue": "Cahaba Brewing",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/papers-please-a-concert-to-fight-houselessness/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Renata The Band Hits The Roof!",
-   "date": "2026-10-23",
-   "venue": "Tin Roof",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/renata-the-band-hits-the-roof/2026-10-23/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Revolutionary Roots: Celebrating Alabama’s Unique History and Natural Beauty",
-   "date": "2026-10-23",
-   "venue": "Vulcan Park and Museum",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/revolutionary-roots-celebrating-alabamas-unique-history-and-natural-beauty/2026-10-23/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "The Shark Is Broken",
-   "date": "2026-10-23",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/the-shark-is-broken/2026-10-23/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Small Fry Friday at Albert L Scott Library",
-   "date": "2026-10-23",
-   "venue": "Albert L. Scott Library – Alabaster Library",
-   "town": "Alabaster",
-   "url": "https://birminghammomcollective.com/event/small-fry-friday-at-albert-l-scott-library/2026-10-23/",
-   "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "Story Time at the Birmingham Zoo",
-   "date": "2026-10-23",
-   "venue": "Birmingham Zoo",
-   "town": "Birmingham",
-   "url": "https://birminghammomcollective.com/event/story-time-at-the-birmingham-zoo/2026-10-23/",
-   "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "Sunset Sessions",
-   "date": "2026-10-23",
-   "venue": "Tin Roof Birmingham",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/sunset-sessions/2026-10-23/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Sunset Sessions!",
-   "date": "2026-10-23",
-   "venue": "Tin Roof",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/sunset-sessions-2/2026-10-23/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Survival of the Slowest Opening Day – Saturday 6/13",
-   "date": "2026-10-23",
-   "venue": "McWane Science Center",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/survival-of-the-slowest-opening-day-saturday-6-13/2026-10-23/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Sweethearts Special",
-   "date": "2026-10-23",
-   "venue": "Heart of Dixie Railroad Museum",
-   "town": "Calera",
-   "url": "https://bhamnow.com/bhamn-event/sweethearts-special/2026-10-23/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Tai Chi",
-   "date": "2026-10-23",
-   "venue": "Pelham Senior Center – 50 Racquet Club Parkway Pelham AL 351",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/tai-chi-17/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "TECHNICAL SOCCER CAMP – 11PLUS1",
-   "date": "2026-10-23",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/technical-soccer-camp-11plus1/2026-10-23/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Teeny Tiny Time at Albert L Scott Library",
-   "date": "2026-10-23",
-   "venue": "Albert L. Scott Library – Alabaster Library",
-   "town": "Alabaster",
-   "url": "https://birminghammomcollective.com/event/teeny-tiny-time-at-albert-l-scott-library/2026-10-23/",
-   "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "24e Pelham’s Track or Treat",
-   "date": "2026-10-24",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/24e-pelhams-track-or-treat/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Adventure Fall Festival",
-   "date": "2026-10-24",
-   "venue": "Alabama Adventure & Splash Adventure",
-   "town": "Bessemer",
-   "url": "https://birminghammomcollective.com/event/adventure-fall-festival/2026-10-24/",
-   "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "Alabama Football vs Texas A&M – Homecoming | 2016 SEC Championship Reunion",
-   "date": "2026-10-24",
-   "venue": "Tuscaloosa, Ala.",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/alabama-football-vs-texas-am-homecoming/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Alloy Personal Training Opening Event",
-   "date": "2026-10-24",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/alloy-personal-training-opening-event/2026-10-24/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "ARX MORTIS 2026",
-   "date": "2026-10-24",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/arx-mortis-2026/2026-10-24/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Birmingham Persian Wall",
-   "date": "2026-10-24",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/birmingham-persian-wall/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Citizens Church Trunk or Treat",
-   "date": "2026-10-24",
-   "venue": "Citizens Church",
-   "town": "Birmingham",
-   "url": "https://birminghammomcollective.com/event/citizens-church-trunk-or-treat/",
-   "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "CityHIIT",
-   "date": "2026-10-24",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/cityhiit-4/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "The CLASSIC 5K Run/Walk",
-   "date": "2026-10-24",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/the-classic-5k-run-walk/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Dino Safari",
-   "date": "2026-10-24",
-   "venue": "Birmingham Zoo",
-   "town": "Birmingham",
-   "url": "https://birminghammomcollective.com/event/dino-safari/2026-10-24/",
-   "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "Dino Safari – March 4 to November 1",
-   "date": "2026-10-24",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/dino-safari-march-4-to-november-1-234/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Dirty Rotten Scoundrels at Leeds Arts Council",
-   "date": "2026-10-24",
-   "venue": "Leeds Arts Council",
-   "town": "Leeds",
-   "url": "https://bhamnow.com/bhamn-event/dirty-rotten-scoundrels-at-leeds-arts-council/2026-10-24/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Family Boo Bash with La La Librarian!",
-   "date": "2026-10-24",
-   "venue": "Saturn Birmingham",
-   "town": "Birmingham",
-   "url": "https://birminghammomcollective.com/event/family-boo-bash-with-la-la-librarian/",
-   "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "FREE MEN WELLNESS DAY & 5k Walk",
-   "date": "2026-10-24",
-   "venue": "Legion Field",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/free-men-wellness-day-5k-walk/2026-10-24/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "GirlSpring SHE Camp July 2026",
-   "date": "2026-10-24",
-   "venue": "Artplay",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/girlspring-she-camp-july-2026/2026-10-24/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Halloween Family Day",
-   "date": "2026-10-24",
-   "venue": "UAB’s ArtPlay",
-   "town": "Birmingham",
-   "url": "https://birminghammomcollective.com/event/halloween-family-day/",
-   "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "Halloween in the Heights & Witches Ride",
-   "date": "2026-10-24",
-   "venue": "Cahaba Heights",
-   "town": "Vestavia Hills",
-   "url": "https://birminghammomcollective.com/event/halloween-in-the-heights-witches-ride/",
-   "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "Historic Main Street Oxford’s Witches Walk and Ride on Main",
-   "date": "2026-10-24",
-   "venue": "Main Street, Oxford, AL 36203",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/historic-main-street-oxfords-witches-walk-and-ride-on-main/2026-10-24/1/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Historic Main Street Oxford’s Witches Walk and Ride on Main",
-   "date": "2026-10-24",
-   "venue": "Main Street Oxford, Alabama",
-   "town": "Oxford",
-   "url": "https://birminghammomcollective.com/event/historic-main-street-oxfords-witches-walk-and-ride-on-main/",
-   "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "History of Southern Rock Art Exhibit Opening w/ Russell Gulley in concert",
-   "date": "2026-10-24",
-   "venue": "East Village Arts",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/history-of-southern-rock-art-exhibit-opening-w-russell-gulley-in-concert/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Introduction to Stoneware Clay – Part 2: Glazing",
-   "date": "2026-10-24",
-   "venue": "University Pickers – Huntsville",
-   "town": "Huntsville",
-   "url": "https://bhamnow.com/bhamn-event/introduction-to-stoneware-clay-part-2-glazing/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "KIDZ BOP LIVE: The Concert Movie – Birmingham",
-   "date": "2026-10-24",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/kidz-bop-live-the-concert-movie-birmingham/2026-10-24/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "KZT Hands On Steam at Chelsea Library",
-   "date": "2026-10-24",
-   "venue": "Chelsea Public Library",
-   "town": "Chelsea",
-   "url": "https://birminghammomcollective.com/event/kzt-hands-on-steam-at-chelsea-library/2026-10-24/",
-   "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "Miles College Football vs Central State",
-   "date": "2026-10-24",
-   "venue": "Fairfield, Ala., Sloan-Alumni Stadium",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/miles-college-football-vs-central-state/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Mommy & Me Group",
-   "date": "2026-10-24",
-   "venue": "unitarian universalist Church of Birmingham",
-   "town": "Birmingham",
-   "url": "https://birminghammomcollective.com/event/mommy-me-group/2026-10-24/",
-   "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "Mommy & Me Group",
-   "date": "2026-10-24",
-   "venue": "4300 Hampton Heights Dr Birmingham, AL 35209 United States",
-   "town": "Birmingham",
-   "url": "https://birminghammomcollective.com/event/mommy-me-group-2/2026-10-24/",
-   "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "Pickleball Clinics",
-   "date": "2026-10-24",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/pickleball-clinics-222/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "PilatesFlow",
-   "date": "2026-10-24",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/pilatesflow-4/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Prayer & Candlelight Vigil for Missing Robert “Bobby” Hooper",
-   "date": "2026-10-24",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/prayer-candlelight-vigil-for-missing-robert-bobby-hooper/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Pumpkin Paint Pouring",
-   "date": "2026-10-24",
-   "venue": "Make It 52",
-   "town": "Helena",
-   "url": "https://birminghammomcollective.com/event/pumpkin-paint-pouring/",
-   "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "Revolutionary Roots: Celebrating Alabama’s Unique History and Natural Beauty",
-   "date": "2026-10-24",
-   "venue": "Vulcan Park and Museum",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/revolutionary-roots-celebrating-alabamas-unique-history-and-natural-beauty/2026-10-24/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Samford University Football at Furman",
-   "date": "2026-10-24",
-   "venue": "Greenville, S.C.",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/samford-university-football-at-furman/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Spookapalooza at Desoto State Park",
-   "date": "2026-10-24",
-   "venue": "DeSoto State Park",
-   "town": "Fort Payne",
-   "url": "https://bhamnow.com/bhamn-event/spookapalooza-at-desoto-state-park/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Story Time at the Birmingham Zoo",
-   "date": "2026-10-24",
-   "venue": "Birmingham Zoo",
-   "town": "Birmingham",
-   "url": "https://birminghammomcollective.com/event/story-time-at-the-birmingham-zoo/2026-10-24/",
-   "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "Sunset Sessions",
-   "date": "2026-10-24",
-   "venue": "Tin Roof Birmingham",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/sunset-sessions/2026-10-24/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Survival of the Slowest Opening Day – Saturday 6/13",
-   "date": "2026-10-24",
-   "venue": "McWane Science Center",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/survival-of-the-slowest-opening-day-saturday-6-13/2026-10-24/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Sweethearts Special",
-   "date": "2026-10-24",
-   "venue": "Heart of Dixie Railroad Museum",
-   "town": "Calera",
-   "url": "https://bhamnow.com/bhamn-event/sweethearts-special/2026-10-24/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "TECHNICAL SOCCER CAMP – 11PLUS1",
-   "date": "2026-10-24",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/technical-soccer-camp-11plus1/2026-10-24/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Trick or Trot 5k",
-   "date": "2026-10-24",
-   "venue": "Back Forty Beer Company",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/trick-or-trot-5k/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Y’all Aboard for a Train Ride!",
-   "date": "2026-10-24",
-   "venue": "Heart of Dixie Railroad Museum",
-   "town": "Calera",
-   "url": "https://birminghammomcollective.com/event/yall-aboard-for-a-train-ride/2026-10-24/",
-   "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "Asbury UMC Trunk or Treat",
-   "date": "2026-10-25",
-   "venue": "Asbury United Methodist Church",
-   "town": "Birmingham",
-   "url": "https://birminghammomcollective.com/event/asbury-umc-trunk-or-treat/",
-   "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "Bluff Park UMC Trunk or Treat",
-   "date": "2026-10-25",
-   "venue": "Bluff Park UMC",
-   "town": "Hoover",
-   "url": "https://birminghammomcollective.com/event/bluff-park-umc-trunk-or-treat/",
-   "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "The Church at Brook Hills Trunk or Treat",
-   "date": "2026-10-25",
-   "venue": "The Church at Brook Hills",
-   "town": "Birmingham",
-   "url": "https://birminghammomcollective.com/event/the-church-at-brook-hills-trunk-or-treat/",
-   "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "Dino Safari",
-   "date": "2026-10-25",
-   "venue": "Birmingham Zoo",
-   "town": "Birmingham",
-   "url": "https://birminghammomcollective.com/event/dino-safari/2026-10-25/",
-   "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "Double Oak Community Church Trunk or Treat",
-   "date": "2026-10-25",
-   "venue": "Mt. Laurel",
-   "town": "Birmingham",
-   "url": "https://birminghammomcollective.com/event/double-oak-community-church-trunk-or-treat/",
-   "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "Homewood Park Fall Festival",
-   "date": "2026-10-25",
-   "venue": "Homewood Central Park",
-   "town": "Homewood",
-   "url": "https://birminghammomcollective.com/event/homewood-park-fall-festival/",
-   "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "Karma is a Scientist – A Taylor Swift all ages event",
-   "date": "2026-10-25",
-   "venue": "McWane Science Center",
-   "town": "Birmingham",
-   "url": "https://birminghammomcollective.com/event/karma-is-a-scientist-a-taylor-swift-all-ages-event/",
-   "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "Story Time at the Birmingham Zoo",
-   "date": "2026-10-25",
-   "venue": "Birmingham Zoo",
-   "town": "Birmingham",
-   "url": "https://birminghammomcollective.com/event/story-time-at-the-birmingham-zoo/2026-10-25/",
-   "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "AAA Alabama Bringing TSA PreCheck Enrollment Event to Birmingham",
-   "date": "2026-10-26",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/aaa-alabama-bringing-tsa-precheck-enrollment-event-to-birmingham/2026-10-26/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Alabama Women in Business Luncheon: Investing in Women’s and Girls’ Futures",
-   "date": "2026-10-26",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/alabama-women-in-business-luncheon-investing-in-womens-and-girls-futures/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Ball Room Dancing",
-   "date": "2026-10-26",
-   "venue": "Pelham Senior Center – 50 Racquet Club Parkway Pelham AL 351",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/ball-room-dancing-17/",
-   "source": "Bham Now"
-  },
   {
    "name": "Breakfast Club at Vestavia Hills Library",
    "date": "2026-10-26",
@@ -690,22 +10,6 @@
    "town": "Vestavia Hills",
    "url": "https://birminghammomcollective.com/event/breakfast-club-at-vestavia-hills-library/2026-10-26/",
    "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "Brick’d Up Step Aerobics",
-   "date": "2026-10-26",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/brickd-up-step-aerobics-76/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Cardio Drumming",
-   "date": "2026-10-26",
-   "venue": "Pelham Senior Center – 50 Racquet Club Parkway Pelham AL 351",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/cardio-drumming-23/",
-   "source": "Bham Now"
   },
   {
    "name": "City Center Art Fall 2026 – Studio art classes for young artists in Grades 2-12",
@@ -716,155 +20,11 @@
    "source": "Birmingham Mom Collective"
   },
   {
-   "name": "City Center Art Fall 2026 – Studio Art Classes for Young Artists in Grades 4-5",
-   "date": "2026-10-26",
-   "venue": "Space One Eleven, 2409 2nd Ave N, Birmingham, AL 35203, USA",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/city-center-art-fall-2026-studio-art-classes-for-young-artists-in-grades-4-5/2026-10-26/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Dino Safari – March 4 to November 1",
+   "name": "I-59 paving near Trussville squeezes lanes Oct. 26–Nov. 1",
    "date": "2026-10-26",
    "venue": "",
    "town": "",
-   "url": "https://bhamnow.com/bhamn-event/dino-safari-march-4-to-november-1-236/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Dirty Rotten Scoundrels at Leeds Arts Council",
-   "date": "2026-10-26",
-   "venue": "Leeds Arts Council",
-   "town": "Leeds",
-   "url": "https://bhamnow.com/bhamn-event/dirty-rotten-scoundrels-at-leeds-arts-council/2026-10-26/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "First Mile Club",
-   "date": "2026-10-26",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/first-mile-club-16/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Fitness Forward",
-   "date": "2026-10-26",
-   "venue": "Pelham Senior Center – 50 Racquet Club Parkway Pelham AL 351",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/fitness-forward-15/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "GirlSpring SHE Camp July 2026",
-   "date": "2026-10-26",
-   "venue": "Artplay",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/girlspring-she-camp-july-2026/2026-10-26/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "KIDZ BOP LIVE: The Concert Movie – Birmingham",
-   "date": "2026-10-26",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/kidz-bop-live-the-concert-movie-birmingham/2026-10-26/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Men’s Pickleball League",
-   "date": "2026-10-26",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/mens-pickleball-league-26/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Mondays Are Better with $5 Quesadillas",
-   "date": "2026-10-26",
-   "venue": "Tin Roof",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/mondays-are-better-with-5-quesadillas/2026-10-26/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Monologue Mondays",
-   "date": "2026-10-26",
-   "venue": "Birmingham Festival Theatre",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/monologue-mondays/2026-10-26/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Northside Neighborhood Pickleball Night",
-   "date": "2026-10-26",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/northside-neighborhood-pickleball-night-34/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Potluck Luncheon",
-   "date": "2026-10-26",
-   "venue": "Pelham Senior Center – 50 Racquet Club Parkway Pelham AL 351",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/potluck-luncheon-6/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Renata The Band Hits The Roof!",
-   "date": "2026-10-26",
-   "venue": "Tin Roof",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/renata-the-band-hits-the-roof/2026-10-26/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Revolutionary Roots: Celebrating Alabama’s Unique History and Natural Beauty",
-   "date": "2026-10-26",
-   "venue": "Vulcan Park and Museum",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/revolutionary-roots-celebrating-alabamas-unique-history-and-natural-beauty/2026-10-26/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "The Shark Is Broken",
-   "date": "2026-10-26",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/the-shark-is-broken/2026-10-26/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Special Event: Adam Ray",
-   "date": "2026-10-26",
-   "venue": "StarDome",
-   "town": "Hoover",
-   "url": "https://bhamnow.com/bhamn-event/special-event-adam-ray/2026-10-26/1/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Survival of the Slowest Opening Day – Saturday 6/13",
-   "date": "2026-10-26",
-   "venue": "McWane Science Center",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/survival-of-the-slowest-opening-day-saturday-6-13/2026-10-26/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Sweethearts Special",
-   "date": "2026-10-26",
-   "venue": "Heart of Dixie Railroad Museum",
-   "town": "Calera",
-   "url": "https://bhamnow.com/bhamn-event/sweethearts-special/2026-10-26/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "TECHNICAL SOCCER CAMP – 11PLUS1",
-   "date": "2026-10-26",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/technical-soccer-camp-11plus1/2026-10-26/",
+   "url": "https://bhamnow.com/2026/10/26/i-59-paving-near-trussville-squeezes-lanes-oct-26-nov-1/#utm_source=rss&utm_medium=rss&utm_campaign=i-59-paving-near-trussville-squeezes-lanes-oct-26-nov-1",
    "source": "Bham Now"
   },
   {
@@ -876,19 +36,11 @@
    "source": "Birmingham Mom Collective"
   },
   {
-   "name": "Vibe Flow",
-   "date": "2026-10-26",
+   "name": "6 ways to celebrate Día de los Muertos in Birmingham",
+   "date": "2026-10-27",
    "venue": "",
    "town": "",
-   "url": "https://bhamnow.com/bhamn-event/vibe-flow-4/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Beginner Line Dancing",
-   "date": "2026-10-27",
-   "venue": "Pelham Senior Center – 50 Racquet Club Parkway Pelham AL 351",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/beginner-line-dancing-17/",
+   "url": "https://bhamnow.com/2026/10/23/6-ways-to-celebrate-dia-de-los-muertos-in-birmingham/#utm_source=rss&utm_medium=rss&utm_campaign=6-ways-to-celebrate-dia-de-los-muertos-in-birmingham",
    "source": "Bham Now"
   },
   {
@@ -898,38 +50,6 @@
    "town": "Birmingham",
    "url": "https://birminghammomcollective.com/event/city-center-art-fall-2026-studio-art-classes-for-young-artists-in-grades-2-12/2026-10-27/",
    "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "City Center Art Fall 2026 – Studio art classes for young artists in grades 2-3",
-   "date": "2026-10-27",
-   "venue": "Space One Eleven, 2409 2nd Ave N, Birmingham, AL 35203, USA",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/city-center-art-fall-2026-studio-art-classes-for-young-artists-in-grades-2-3/2026-10-27/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Coed Pickleball Fall League",
-   "date": "2026-10-27",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/coed-pickleball-fall-league-6/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Dino Safari – March 4 to November 1",
-   "date": "2026-10-27",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/dino-safari-march-4-to-november-1-237/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Dirty Rotten Scoundrels at Leeds Arts Council",
-   "date": "2026-10-27",
-   "venue": "Leeds Arts Council",
-   "town": "Leeds",
-   "url": "https://bhamnow.com/bhamn-event/dirty-rotten-scoundrels-at-leeds-arts-council/2026-10-27/",
-   "source": "Bham Now"
   },
   {
    "name": "Family Night at Frothy Monkey",
@@ -948,30 +68,6 @@
    "source": "Birmingham Mom Collective"
   },
   {
-   "name": "Forest Futsal Academy Training Session",
-   "date": "2026-10-27",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/forest-futsal-academy-training-session/2026-10-27/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "GirlSpring SHE Camp July 2026",
-   "date": "2026-10-27",
-   "venue": "Artplay",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/girlspring-she-camp-july-2026/2026-10-27/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Giveback Night at Rojo for Special Equestrians",
-   "date": "2026-10-27",
-   "venue": "Rojo, 2921 Highland Ave, Birmingham, AL 35205, USA, United S",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/giveback-night-at-rojo-for-special-equestrians/",
-   "source": "Bham Now"
-  },
-  {
    "name": "Group Therapy for Women Navigating Infertility",
    "date": "2026-10-27",
    "venue": "Empower Counseling",
@@ -980,84 +76,12 @@
    "source": "Birmingham Mom Collective"
   },
   {
-   "name": "Improver Line Dancing",
-   "date": "2026-10-27",
-   "venue": "Pelham Senior Center – 50 Racquet Club Parkway Pelham AL 351",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/improver-line-dancing-13/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Intermediate Line Dancing",
-   "date": "2026-10-27",
-   "venue": "Pelham Senior Center – 50 Racquet Club Parkway Pelham AL 351",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/intermediate-line-dancing-13/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Jefferson County Mental Health Resource Fair",
-   "date": "2026-10-27",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/jefferson-county-mental-health-resource-fair/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "KIDZ BOP LIVE: The Concert Movie – Birmingham",
-   "date": "2026-10-27",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/kidz-bop-live-the-concert-movie-birmingham/2026-10-27/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Magic City Futbol",
-   "date": "2026-10-27",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/magic-city-futbol-2/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "PilatesFlow",
-   "date": "2026-10-27",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/pilatesflow-15/",
-   "source": "Bham Now"
-  },
-  {
    "name": "Pop-in-Play at Avondale Regional Branch Library",
    "date": "2026-10-27",
    "venue": "Avondale Regional Library",
    "town": "Birmingham",
    "url": "https://birminghammomcollective.com/event/pop-in-play-at-avondale-regional-branch-library/2026-10-27/",
    "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "PrimalFLOW",
-   "date": "2026-10-27",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/primalflow-9/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Renata The Band Hits The Roof!",
-   "date": "2026-10-27",
-   "venue": "Tin Roof",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/renata-the-band-hits-the-roof/2026-10-27/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Revolutionary Roots: Celebrating Alabama’s Unique History and Natural Beauty",
-   "date": "2026-10-27",
-   "venue": "Vulcan Park and Museum",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/revolutionary-roots-celebrating-alabamas-unique-history-and-natural-beauty/2026-10-27/",
-   "source": "Bham Now"
   },
   {
    "name": "Storytime at Columbiana Public Library",
@@ -1076,52 +100,12 @@
    "source": "Birmingham Mom Collective"
   },
   {
-   "name": "Survival of the Slowest Opening Day – Saturday 6/13",
-   "date": "2026-10-27",
-   "venue": "McWane Science Center",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/survival-of-the-slowest-opening-day-saturday-6-13/2026-10-27/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Sweethearts Special",
-   "date": "2026-10-27",
-   "venue": "Heart of Dixie Railroad Museum",
-   "town": "Calera",
-   "url": "https://bhamnow.com/bhamn-event/sweethearts-special/2026-10-27/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "TECHNICAL SOCCER CAMP – 11PLUS1",
-   "date": "2026-10-27",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/technical-soccer-camp-11plus1/2026-10-27/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "TENDER TUESDAYS AT THE ROOF!",
-   "date": "2026-10-27",
-   "venue": "Tin Roof",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/tender-tuesdays-at-the-roof/2026-10-27/",
-   "source": "Bham Now"
-  },
-  {
    "name": "Toddler A-Go-Go at Vestavia Hills Library",
    "date": "2026-10-27",
    "venue": "Vestavia Hills Library in the Forest",
    "town": "Vestavia Hills",
    "url": "https://birminghammomcollective.com/event/toddler-a-go-go-at-vestavia-hills-library-3/2026-10-27/",
    "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "1504",
-   "date": "2026-10-28",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/1504/",
-   "source": "Bham Now"
   },
   {
    "name": "City Center Art Fall 2026 – Studio art classes for young artists in Grades 2-12",
@@ -1132,52 +116,12 @@
    "source": "Birmingham Mom Collective"
   },
   {
-   "name": "DanceFLOW",
-   "date": "2026-10-28",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/danceflow-4/",
-   "source": "Bham Now"
-  },
-  {
    "name": "Dino Safari",
    "date": "2026-10-28",
    "venue": "Birmingham Zoo",
    "town": "Birmingham",
    "url": "https://birminghammomcollective.com/event/dino-safari/2026-10-28/",
    "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "Dino Safari – March 4 to November 1",
-   "date": "2026-10-28",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/dino-safari-march-4-to-november-1-238/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "EPIC Parenting — Free 6-Week Parenting Class (Morning Sessions)",
-   "date": "2026-10-28",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/epic-parenting-free-6-week-parenting-class-morning-sessions/2026-10-28/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "GirlSpring SHE Camp July 2026",
-   "date": "2026-10-28",
-   "venue": "Artplay",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/girlspring-she-camp-july-2026/2026-10-28/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "KIDZ BOP LIVE: The Concert Movie – Birmingham",
-   "date": "2026-10-28",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/kidz-bop-live-the-concert-movie-birmingham/2026-10-28/",
-   "source": "Bham Now"
   },
   {
    "name": "Preschool Mommy & Me Music Class",
@@ -1188,14 +132,6 @@
    "source": "Birmingham Mom Collective"
   },
   {
-   "name": "Revolutionary Roots: Celebrating Alabama’s Unique History and Natural Beauty",
-   "date": "2026-10-28",
-   "venue": "Vulcan Park and Museum",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/revolutionary-roots-celebrating-alabamas-unique-history-and-natural-beauty/2026-10-28/",
-   "source": "Bham Now"
-  },
-  {
    "name": "Story Time at the Birmingham Zoo",
    "date": "2026-10-28",
    "venue": "Birmingham Zoo",
@@ -1204,76 +140,12 @@
    "source": "Birmingham Mom Collective"
   },
   {
-   "name": "Survival of the Slowest Opening Day – Saturday 6/13",
-   "date": "2026-10-28",
-   "venue": "McWane Science Center",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/survival-of-the-slowest-opening-day-saturday-6-13/2026-10-28/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Sweethearts Special",
-   "date": "2026-10-28",
-   "venue": "Heart of Dixie Railroad Museum",
-   "town": "Calera",
-   "url": "https://bhamnow.com/bhamn-event/sweethearts-special/2026-10-28/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Zumba Gold",
-   "date": "2026-10-28",
-   "venue": "Pelham Senior Center – 50 Racquet Club Parkway Pelham AL 351",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/zumba-gold-14/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "25th Annual LaVona Rushton Concert",
-   "date": "2026-10-29",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/25th-annual-lavona-rushton-concert/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "$3 Red Cup Specials: Weekend Warmup",
-   "date": "2026-10-29",
-   "venue": "Tin Roof Birmingham",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/3-red-cup-specials-weekend-warmup/2026-10-29/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "AAA Alabama Bringing TSA PreCheck Enrollment Event to Birmingham",
-   "date": "2026-10-29",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/aaa-alabama-bringing-tsa-precheck-enrollment-event-to-birmingham/2026-10-29/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "ARX MORTIS 2026",
-   "date": "2026-10-29",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/arx-mortis-2026/2026-10-29/",
-   "source": "Bham Now"
-  },
-  {
    "name": "City Center Art Fall 2026 – Studio art classes for young artists in Grades 2-12",
    "date": "2026-10-29",
    "venue": "Space One Eleven Arts Center",
    "town": "Birmingham",
    "url": "https://birminghammomcollective.com/event/city-center-art-fall-2026-studio-art-classes-for-young-artists-in-grades-2-12/2026-10-29/",
    "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "City Center Art Fall 2026 – Studio art classes for young artists in grades 9-12",
-   "date": "2026-10-29",
-   "venue": "Space One Eleven, 2409 2nd Ave N, Birmingham, AL 35203, USA",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/city-center-art-fall-2026-studio-art-classes-for-young-artists-in-grades-9-12/2026-10-29/",
-   "source": "Bham Now"
   },
   {
    "name": "Daniel in the Lions’ Den",
@@ -1292,100 +164,12 @@
    "source": "Birmingham Mom Collective"
   },
   {
-   "name": "Dino Safari – March 4 to November 1",
-   "date": "2026-10-29",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/dino-safari-march-4-to-november-1-239/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Dirty Rotten Scoundrels at Leeds Arts Council",
-   "date": "2026-10-29",
-   "venue": "Leeds Arts Council",
-   "town": "Leeds",
-   "url": "https://bhamnow.com/bhamn-event/dirty-rotten-scoundrels-at-leeds-arts-council/2026-10-29/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Forest Futsal Academy Training Session",
-   "date": "2026-10-29",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/forest-futsal-academy-training-session/2026-10-29/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "GirlSpring SHE Camp July 2026",
-   "date": "2026-10-29",
-   "venue": "Artplay",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/girlspring-she-camp-july-2026/2026-10-29/",
-   "source": "Bham Now"
-  },
-  {
    "name": "Halloween Run",
    "date": "2026-10-29",
    "venue": "fleet feet birmingham",
    "town": "Birmingham",
    "url": "https://birminghammomcollective.com/event/halloween-run/",
    "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "HalloweenFest",
-   "date": "2026-10-29",
-   "venue": "– Hoover AL 35216",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/halloweenfest/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "HalloweenFest: Heroes & Haunts",
-   "date": "2026-10-29",
-   "venue": "– Hoover Met Complex 5508 Stadium Trace Parkway Hoover AL 35",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/halloweenfest-heroes-haunts/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "How is Sculpture Made? Foundry Visit with Birmingham Sculpture and Artist Patty ",
-   "date": "2026-10-29",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/how-is-sculpture-made-foundry-visit-with-birmingham-sculpture-and-artist-patty-b-driscoll/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Howl-o-Ween at Shelby Humane",
-   "date": "2026-10-29",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/howl-o-ween-at-shelby-humane/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Karaoke Kickback",
-   "date": "2026-10-29",
-   "venue": "Jazzi’s On 3rd Music Gallery",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/karaoke-kickback/2026-10-29/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "KIDZ BOP LIVE: The Concert Movie – Birmingham",
-   "date": "2026-10-29",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/kidz-bop-live-the-concert-movie-birmingham/2026-10-29/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Magic City Futbol",
-   "date": "2026-10-29",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/magic-city-futbol-3/",
-   "source": "Bham Now"
   },
   {
    "name": "Mommies Who Run Run Club",
@@ -1396,36 +180,12 @@
    "source": "Birmingham Mom Collective"
   },
   {
-   "name": "Painting Acrylic Abstracts with Madison Faile",
+   "name": "Pelham YMCA Trunk or Treat",
    "date": "2026-10-29",
-   "venue": "Forstall Art Center",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/painting-acrylic-abstracts-with-madison-faile-3/2026-10-29/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Pickleball Clinics",
-   "date": "2026-10-29",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/pickleball-clinics-223/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Renata The Band Hits The Roof!",
-   "date": "2026-10-29",
-   "venue": "Tin Roof",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/renata-the-band-hits-the-roof/2026-10-29/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Revolutionary Roots: Celebrating Alabama’s Unique History and Natural Beauty",
-   "date": "2026-10-29",
-   "venue": "Vulcan Park and Museum",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/revolutionary-roots-celebrating-alabamas-unique-history-and-natural-beauty/2026-10-29/",
-   "source": "Bham Now"
+   "venue": "YMCA of Greater Birmingham – Pelham",
+   "town": "Pelham",
+   "url": "https://birminghammomcollective.com/event/pelham-ymca-trunk-or-treat/",
+   "source": "Birmingham Mom Collective"
   },
   {
    "name": "Shades Valley YMCA Trunk or Treat",
@@ -1434,22 +194,6 @@
    "town": "Homewood",
    "url": "https://birminghammomcollective.com/event/shades-valley-ymca-trunk-or-treat/",
    "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "The Shark Is Broken",
-   "date": "2026-10-29",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/the-shark-is-broken/2026-10-29/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Special Event: Grace Helbig & Mamrie Hart",
-   "date": "2026-10-29",
-   "venue": "StarDome",
-   "town": "Hoover",
-   "url": "https://bhamnow.com/bhamn-event/special-event-grace-helbig-mamrie-hart/",
-   "source": "Bham Now"
   },
   {
    "name": "Story Time at the Birmingham Zoo",
@@ -1468,44 +212,12 @@
    "source": "Birmingham Mom Collective"
   },
   {
-   "name": "Survival of the Slowest Opening Day – Saturday 6/13",
-   "date": "2026-10-29",
-   "venue": "McWane Science Center",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/survival-of-the-slowest-opening-day-saturday-6-13/2026-10-29/",
-   "source": "Bham Now"
-  },
-  {
    "name": "Sweet Peas Story Time at Calera Public Library",
    "date": "2026-10-29",
    "venue": "Calera Roy Downs Memorial Library",
    "town": "Calera",
    "url": "https://birminghammomcollective.com/event/sweet-peas-story-time-at-calera-public-library/2026-10-29/",
    "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "Sweethearts Special",
-   "date": "2026-10-29",
-   "venue": "Heart of Dixie Railroad Museum",
-   "town": "Calera",
-   "url": "https://bhamnow.com/bhamn-event/sweethearts-special/2026-10-29/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "TECHNICAL SOCCER CAMP – 11PLUS1",
-   "date": "2026-10-29",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/technical-soccer-camp-11plus1/2026-10-29/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "TIME CAPSULE BURIAL",
-   "date": "2026-10-29",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/time-capsule-burial/",
-   "source": "Bham Now"
   },
   {
    "name": "Time for Tales at Avondale Regional Branch Library",
@@ -1520,64 +232,8 @@
    "date": "2026-10-29",
    "venue": "Trussville Public Library",
    "town": "Trussville",
-   "url": "https://bhamnow.com/bhamn-event/trick-or-treat-at-trussville-public-library/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Trick R’ Treat at Trussville Public Library",
-   "date": "2026-10-29",
-   "venue": "Trussville Public Library",
-   "town": "Trussville",
-   "url": "https://bhamnow.com/bhamn-event/trick-r-treat-at-trussville-public-library/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Trunk or Treat",
-   "date": "2026-10-29",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/trunk-or-treat/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Trunk or Treat @ Shades Valley YMCA",
-   "date": "2026-10-29",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/trunk-or-treat-shades-valley-ymca/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "$5 Bags of Groceries at Bid Llama",
-   "date": "2026-10-30",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/5-bags-of-groceries-at-bid-llama/2026-10-30/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "ARX MORTIS 2026",
-   "date": "2026-10-30",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/arx-mortis-2026/2026-10-30/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Birds and Brews",
-   "date": "2026-10-30",
-   "venue": "Back Forty Beer Company",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/birds-and-brews/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Brick’d Up Step Aerobics",
-   "date": "2026-10-30",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/brickd-up-step-aerobics-78/",
-   "source": "Bham Now"
+   "url": "https://birminghammomcollective.com/event/trick-or-treat-at-trussville-public-library/",
+   "source": "Birmingham Mom Collective"
   },
   {
    "name": "Dino Safari",
@@ -1588,22 +244,6 @@
    "source": "Birmingham Mom Collective"
   },
   {
-   "name": "Dino Safari – March 4 to November 1",
-   "date": "2026-10-30",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/dino-safari-march-4-to-november-1-240/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Dirty Rotten Scoundrels at Leeds Arts Council",
-   "date": "2026-10-30",
-   "venue": "Leeds Arts Council",
-   "town": "Leeds",
-   "url": "https://bhamnow.com/bhamn-event/dirty-rotten-scoundrels-at-leeds-arts-council/2026-10-30/",
-   "source": "Bham Now"
-  },
-  {
    "name": "First Lutheran Church Fall Festival",
    "date": "2026-10-30",
    "venue": "First Lutheran Church of Birmingham",
@@ -1612,84 +252,12 @@
    "source": "Birmingham Mom Collective"
   },
   {
-   "name": "Friday Night Social Mixers: Fun, Friends & Pickleball!",
+   "name": "Harvest Jam",
    "date": "2026-10-30",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/friday-night-social-mixers-fun-friends-pickleball-43/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "GirlSpring SHE Camp July 2026",
-   "date": "2026-10-30",
-   "venue": "Artplay",
+   "venue": "The Village at Lee Branch",
    "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/girlspring-she-camp-july-2026/2026-10-30/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "KIDZ BOP LIVE: The Concert Movie – Birmingham",
-   "date": "2026-10-30",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/kidz-bop-live-the-concert-movie-birmingham/2026-10-30/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Miles College Football vs Fort Valley State",
-   "date": "2026-10-30",
-   "venue": "Fairfield, Ala., Sloan-Alumni Stadium",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/miles-college-football-vs-fort-valley-state/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "NASCAR Block Party & Car Show",
-   "date": "2026-10-30",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/nascar-cars-and-coffee/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Paint a Sweater Ornament",
-   "date": "2026-10-30",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/paint-a-sweater-ornament/2026-10-30/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Practical Magic – Movie",
-   "date": "2026-10-30",
-   "venue": "Alabama Theatre",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/practical-magic-movie/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Renata The Band Hits The Roof!",
-   "date": "2026-10-30",
-   "venue": "Tin Roof",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/renata-the-band-hits-the-roof/2026-10-30/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Revolutionary Roots: Celebrating Alabama’s Unique History and Natural Beauty",
-   "date": "2026-10-30",
-   "venue": "Vulcan Park and Museum",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/revolutionary-roots-celebrating-alabamas-unique-history-and-natural-beauty/2026-10-30/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Rocky Horror Masquerade Ball",
-   "date": "2026-10-30",
-   "venue": "Avondale Brewing Company",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/rocky-horror-masquerade-ball/",
-   "source": "Bham Now"
+   "url": "https://birminghammomcollective.com/event/harvest-jam/",
+   "source": "Birmingham Mom Collective"
   },
   {
    "name": "Small Fry Friday at Albert L Scott Library",
@@ -1698,14 +266,6 @@
    "town": "Alabaster",
    "url": "https://birminghammomcollective.com/event/small-fry-friday-at-albert-l-scott-library/2026-10-30/",
    "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "Special Event: Jess Hilarious",
-   "date": "2026-10-30",
-   "venue": "StarDome",
-   "town": "Hoover",
-   "url": "https://bhamnow.com/bhamn-event/special-event-jess-hilarious/2026-10-30/",
-   "source": "Bham Now"
   },
   {
    "name": "Story Time at the Birmingham Zoo",
@@ -1724,54 +284,6 @@
    "source": "Birmingham Mom Collective"
   },
   {
-   "name": "Sunset Sessions",
-   "date": "2026-10-30",
-   "venue": "Tin Roof Birmingham",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/sunset-sessions/2026-10-30/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Sunset Sessions!",
-   "date": "2026-10-30",
-   "venue": "Tin Roof",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/sunset-sessions-2/2026-10-30/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Survival of the Slowest Opening Day – Saturday 6/13",
-   "date": "2026-10-30",
-   "venue": "McWane Science Center",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/survival-of-the-slowest-opening-day-saturday-6-13/2026-10-30/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Sweethearts Special",
-   "date": "2026-10-30",
-   "venue": "Heart of Dixie Railroad Museum",
-   "town": "Calera",
-   "url": "https://bhamnow.com/bhamn-event/sweethearts-special/2026-10-30/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Tai Chi",
-   "date": "2026-10-30",
-   "venue": "Pelham Senior Center – 50 Racquet Club Parkway Pelham AL 351",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/tai-chi-18/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "TECHNICAL SOCCER CAMP – 11PLUS1",
-   "date": "2026-10-30",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/technical-soccer-camp-11plus1/2026-10-30/",
-   "source": "Bham Now"
-  },
-  {
    "name": "Teeny Tiny Time at Albert L Scott Library",
    "date": "2026-10-30",
    "venue": "Albert L. Scott Library – Alabaster Library",
@@ -1780,20 +292,12 @@
    "source": "Birmingham Mom Collective"
   },
   {
-   "name": "The Yard: Redefined",
-   "date": "2026-10-30",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/the-yard-redefined/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "CityHIIT",
+   "name": "Alabaster Fall Fest",
    "date": "2026-10-31",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/cityhiit-5/",
-   "source": "Bham Now"
+   "venue": "Alabaster City Hall",
+   "town": "Alabaster",
+   "url": "https://birminghammomcollective.com/event/alabaster-fall-fest/",
+   "source": "Birmingham Mom Collective"
   },
   {
    "name": "Dave & Booster’s Town Meeting",
@@ -1836,14 +340,6 @@
    "source": "Birmingham Mom Collective"
   },
   {
-   "name": "Pickleball Clinics",
-   "date": "2026-10-31",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/pickleball-clinics-224/",
-   "source": "Bham Now"
-  },
-  {
    "name": "The Red Clay Strays, Shane Smith and The Saints & Brent Cobb at Legacy Arena",
    "date": "2026-10-31",
    "venue": "Legacy Arena",
@@ -1868,36 +364,12 @@
    "source": "Birmingham Mom Collective"
   },
   {
-   "name": "UAB Football at South Florida",
-   "date": "2026-10-31",
-   "venue": "Tampa, FL, Raymond James Stadium",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/uab-football-at-south-florida/",
-   "source": "Bham Now"
-  },
-  {
    "name": "Y’all Aboard for a Train Ride!",
    "date": "2026-10-31",
    "venue": "Heart of Dixie Railroad Museum",
    "town": "Calera",
    "url": "https://birminghammomcollective.com/event/yall-aboard-for-a-train-ride/2026-10-31/",
    "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "AAA Alabama Bringing TSA PreCheck Enrollment Event to Birmingham",
-   "date": "2026-11-01",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/aaa-alabama-bringing-tsa-precheck-enrollment-event-to-birmingham/2026-11-01/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "City Walk Women’s Pickleball League",
-   "date": "2026-11-01",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/city-walk-womens-pickleball-league-3/",
-   "source": "Bham Now"
   },
   {
    "name": "Dino Safari",
@@ -1908,140 +380,12 @@
    "source": "Birmingham Mom Collective"
   },
   {
-   "name": "Dino Safari – March 4 to November 1",
-   "date": "2026-11-01",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/dino-safari-march-4-to-november-1-242/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Dirty Rotten Scoundrels at Leeds Arts Council",
-   "date": "2026-11-01",
-   "venue": "Leeds Arts Council",
-   "town": "Leeds",
-   "url": "https://bhamnow.com/bhamn-event/dirty-rotten-scoundrels-at-leeds-arts-council/2026-11-01/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Forest Futsal Academy Training Session",
-   "date": "2026-11-01",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/forest-futsal-academy-training-session/2026-11-01/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "GirlSpring SHE Camp July 2026",
-   "date": "2026-11-01",
-   "venue": "Artplay",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/girlspring-she-camp-july-2026/2026-11-01/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "KIDZ BOP LIVE: The Concert Movie – Birmingham",
-   "date": "2026-11-01",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/kidz-bop-live-the-concert-movie-birmingham/2026-11-01/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Music in the Park – Nacho Daddy",
-   "date": "2026-11-01",
-   "venue": "Park 124 – 310 Opportunity Dr Pelham AL 35124",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/music-in-the-park-nacho-daddy-3/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Renata The Band Hits The Roof!",
-   "date": "2026-11-01",
-   "venue": "Tin Roof",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/renata-the-band-hits-the-roof/2026-11-01/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Revolutionary Roots: Celebrating Alabama’s Unique History and Natural Beauty",
-   "date": "2026-11-01",
-   "venue": "Vulcan Park and Museum",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/revolutionary-roots-celebrating-alabamas-unique-history-and-natural-beauty/2026-11-01/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "The Shark Is Broken",
-   "date": "2026-11-01",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/the-shark-is-broken/2026-11-01/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Special Event: Jess Hilarious",
-   "date": "2026-11-01",
-   "venue": "StarDome",
-   "town": "Hoover",
-   "url": "https://bhamnow.com/bhamn-event/special-event-jess-hilarious/2026-11-01/",
-   "source": "Bham Now"
-  },
-  {
    "name": "Story Time at the Birmingham Zoo",
    "date": "2026-11-01",
    "venue": "Birmingham Zoo",
    "town": "Birmingham",
    "url": "https://birminghammomcollective.com/event/story-time-at-the-birmingham-zoo/2026-11-01/",
    "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "Sunday Best: Stand-Up Comedy at House Eleven",
-   "date": "2026-11-01",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/sunday-best-stand-up-comedy-at-house-eleven-2/2026-11-01/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Survival of the Slowest Opening Day – Saturday 6/13",
-   "date": "2026-11-01",
-   "venue": "McWane Science Center",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/survival-of-the-slowest-opening-day-saturday-6-13/2026-11-01/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Sweethearts Special",
-   "date": "2026-11-01",
-   "venue": "Heart of Dixie Railroad Museum",
-   "town": "Calera",
-   "url": "https://bhamnow.com/bhamn-event/sweethearts-special/2026-11-01/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "TECHNICAL SOCCER CAMP – 11PLUS1",
-   "date": "2026-11-01",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/technical-soccer-camp-11plus1/2026-11-01/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Try Tennis for Free: Pelham Tennis Center Community Day",
-   "date": "2026-11-01",
-   "venue": "City Park – 555 Ballpark Road Pelham AL 35124",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/try-tennis-for-free-pelham-tennis-center-community-day-2/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Ball Room Dancing",
-   "date": "2026-11-02",
-   "venue": "Pelham Senior Center – 50 Racquet Club Parkway Pelham AL 351",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/ball-room-dancing-18/",
-   "source": "Bham Now"
   },
   {
    "name": "Breakfast Club at Vestavia Hills Library",
@@ -2052,156 +396,12 @@
    "source": "Birmingham Mom Collective"
   },
   {
-   "name": "Brick’d Up Step Aerobics",
-   "date": "2026-11-02",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/brickd-up-step-aerobics-79/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Cardio Drumming",
-   "date": "2026-11-02",
-   "venue": "Pelham Senior Center – 50 Racquet Club Parkway Pelham AL 351",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/cardio-drumming-24/",
-   "source": "Bham Now"
-  },
-  {
    "name": "City Center Art Fall 2026 – Studio art classes for young artists in Grades 2-12",
    "date": "2026-11-02",
    "venue": "Space One Eleven Arts Center",
    "town": "Birmingham",
    "url": "https://birminghammomcollective.com/event/city-center-art-fall-2026-studio-art-classes-for-young-artists-in-grades-2-12/2026-11-02/",
    "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "City Center Art Fall 2026 – Studio Art Classes for Young Artists in Grades 4-5",
-   "date": "2026-11-02",
-   "venue": "Space One Eleven, 2409 2nd Ave N, Birmingham, AL 35203, USA",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/city-center-art-fall-2026-studio-art-classes-for-young-artists-in-grades-4-5/2026-11-02/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Dirty Rotten Scoundrels at Leeds Arts Council",
-   "date": "2026-11-02",
-   "venue": "Leeds Arts Council",
-   "town": "Leeds",
-   "url": "https://bhamnow.com/bhamn-event/dirty-rotten-scoundrels-at-leeds-arts-council/2026-11-02/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "First Mile Club",
-   "date": "2026-11-02",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/first-mile-club-17/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Fitness Forward",
-   "date": "2026-11-02",
-   "venue": "Pelham Senior Center – 50 Racquet Club Parkway Pelham AL 351",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/fitness-forward-16/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "GirlSpring SHE Camp July 2026",
-   "date": "2026-11-02",
-   "venue": "Artplay",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/girlspring-she-camp-july-2026/2026-11-02/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "KIDZ BOP LIVE: The Concert Movie – Birmingham",
-   "date": "2026-11-02",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/kidz-bop-live-the-concert-movie-birmingham/2026-11-02/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Men’s Pickleball League",
-   "date": "2026-11-02",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/mens-pickleball-league-27/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Mondays Are Better with $5 Quesadillas",
-   "date": "2026-11-02",
-   "venue": "Tin Roof",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/mondays-are-better-with-5-quesadillas/2026-11-02/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Monologue Mondays",
-   "date": "2026-11-02",
-   "venue": "Birmingham Festival Theatre",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/monologue-mondays/2026-11-02/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Northside Neighborhood Pickleball Night",
-   "date": "2026-11-02",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/northside-neighborhood-pickleball-night-35/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Omakase at Johin’na",
-   "date": "2026-11-02",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/omakase-at-johinna-2/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Renata The Band Hits The Roof!",
-   "date": "2026-11-02",
-   "venue": "Tin Roof",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/renata-the-band-hits-the-roof/2026-11-02/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Revolutionary Roots: Celebrating Alabama’s Unique History and Natural Beauty",
-   "date": "2026-11-02",
-   "venue": "Vulcan Park and Museum",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/revolutionary-roots-celebrating-alabamas-unique-history-and-natural-beauty/2026-11-02/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Survival of the Slowest Opening Day – Saturday 6/13",
-   "date": "2026-11-02",
-   "venue": "McWane Science Center",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/survival-of-the-slowest-opening-day-saturday-6-13/2026-11-02/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Sweethearts Special",
-   "date": "2026-11-02",
-   "venue": "Heart of Dixie Railroad Museum",
-   "town": "Calera",
-   "url": "https://bhamnow.com/bhamn-event/sweethearts-special/2026-11-02/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "TECHNICAL SOCCER CAMP – 11PLUS1",
-   "date": "2026-11-02",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/technical-soccer-camp-11plus1/2026-11-02/",
-   "source": "Bham Now"
   },
   {
    "name": "Titusville Branch Creative Horizons After-School Reading Club",
@@ -2212,60 +412,12 @@
    "source": "Birmingham Mom Collective"
   },
   {
-   "name": "Vibe Flow",
-   "date": "2026-11-02",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/vibe-flow-5/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "2026 State of Diabetes: Birmingham",
-   "date": "2026-11-03",
-   "venue": "Southern Museum of Flight",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/2026-state-of-diabetes-birmingham/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "American Diabetes Association “State of Diabetes” health summit",
-   "date": "2026-11-03",
-   "venue": "Southern Museum of Flight",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/american-diabetes-association-state-of-diabetes-health-summit/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Beginner Line Dancing",
-   "date": "2026-11-03",
-   "venue": "Pelham Senior Center – 50 Racquet Club Parkway Pelham AL 351",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/beginner-line-dancing-18/",
-   "source": "Bham Now"
-  },
-  {
    "name": "City Center Art Fall 2026 – Studio art classes for young artists in Grades 2-12",
    "date": "2026-11-03",
    "venue": "Space One Eleven Arts Center",
    "town": "Birmingham",
    "url": "https://birminghammomcollective.com/event/city-center-art-fall-2026-studio-art-classes-for-young-artists-in-grades-2-12/2026-11-03/",
    "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "City Center Art Fall 2026 – Studio art classes for young artists in grades 2-3",
-   "date": "2026-11-03",
-   "venue": "Space One Eleven, 2409 2nd Ave N, Birmingham, AL 35203, USA",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/city-center-art-fall-2026-studio-art-classes-for-young-artists-in-grades-2-3/2026-11-03/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Coed Pickleball Fall League",
-   "date": "2026-11-03",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/coed-pickleball-fall-league-7/",
-   "source": "Bham Now"
   },
   {
    "name": "Family Night at Frothy Monkey",
@@ -2276,22 +428,6 @@
    "source": "Birmingham Mom Collective"
   },
   {
-   "name": "Forest Futsal Academy Training Session",
-   "date": "2026-11-03",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/forest-futsal-academy-training-session/2026-11-03/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "GirlSpring SHE Camp July 2026",
-   "date": "2026-11-03",
-   "venue": "Artplay",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/girlspring-she-camp-july-2026/2026-11-03/",
-   "source": "Bham Now"
-  },
-  {
    "name": "Group Therapy for Women Navigating Infertility",
    "date": "2026-11-03",
    "venue": "Empower Counseling",
@@ -2300,68 +436,12 @@
    "source": "Birmingham Mom Collective"
   },
   {
-   "name": "Improver Line Dancing",
-   "date": "2026-11-03",
-   "venue": "Pelham Senior Center – 50 Racquet Club Parkway Pelham AL 351",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/improver-line-dancing-14/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Intermediate Line Dancing",
-   "date": "2026-11-03",
-   "venue": "Pelham Senior Center – 50 Racquet Club Parkway Pelham AL 351",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/intermediate-line-dancing-14/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "KIDZ BOP LIVE: The Concert Movie – Birmingham",
-   "date": "2026-11-03",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/kidz-bop-live-the-concert-movie-birmingham/2026-11-03/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Magic City Futbol",
-   "date": "2026-11-03",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/magic-city-futbol-4/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "PilatesFlow",
-   "date": "2026-11-03",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/pilatesflow-16/",
-   "source": "Bham Now"
-  },
-  {
    "name": "Pop-in-Play at Avondale Regional Branch Library",
    "date": "2026-11-03",
    "venue": "Avondale Regional Library",
    "town": "Birmingham",
    "url": "https://birminghammomcollective.com/event/pop-in-play-at-avondale-regional-branch-library/2026-11-03/",
    "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "PrimalFLOW",
-   "date": "2026-11-03",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/primalflow-10/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Revolutionary Roots: Celebrating Alabama’s Unique History and Natural Beauty",
-   "date": "2026-11-03",
-   "venue": "Vulcan Park and Museum",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/revolutionary-roots-celebrating-alabamas-unique-history-and-natural-beauty/2026-11-03/",
-   "source": "Bham Now"
   },
   {
    "name": "Stained Glass Spinner Workshop",
@@ -2388,76 +468,12 @@
    "source": "Birmingham Mom Collective"
   },
   {
-   "name": "Survival of the Slowest Opening Day – Saturday 6/13",
-   "date": "2026-11-03",
-   "venue": "McWane Science Center",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/survival-of-the-slowest-opening-day-saturday-6-13/2026-11-03/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Sweethearts Special",
-   "date": "2026-11-03",
-   "venue": "Heart of Dixie Railroad Museum",
-   "town": "Calera",
-   "url": "https://bhamnow.com/bhamn-event/sweethearts-special/2026-11-03/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "TECHNICAL SOCCER CAMP – 11PLUS1",
-   "date": "2026-11-03",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/technical-soccer-camp-11plus1/2026-11-03/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "TENDER TUESDAYS AT THE ROOF!",
-   "date": "2026-11-03",
-   "venue": "Tin Roof",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/tender-tuesdays-at-the-roof/2026-11-03/",
-   "source": "Bham Now"
-  },
-  {
    "name": "Toddler A-Go-Go at Vestavia Hills Library",
    "date": "2026-11-03",
    "venue": "Vestavia Hills Library in the Forest",
    "town": "Vestavia Hills",
    "url": "https://birminghammomcollective.com/event/toddler-a-go-go-at-vestavia-hills-library-3/2026-11-03/",
    "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "AAA Alabama Bringing TSA PreCheck Enrollment Event to Birmingham",
-   "date": "2026-11-04",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/aaa-alabama-bringing-tsa-precheck-enrollment-event-to-birmingham/2026-11-04/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Bingo & Karaoke Night at The Roof!",
-   "date": "2026-11-04",
-   "venue": "Tin Roof Birmingham",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/bingo-karaoke-night-at-the-roof/2026-11-04/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Brick’d Up Step Aerobics",
-   "date": "2026-11-04",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/brickd-up-step-aerobics-80/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Christmas Village Festival",
-   "date": "2026-11-04",
-   "venue": "BJCC Exhibition Halls",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/christmas-village-festival-5/2026-11-04/1/",
-   "source": "Bham Now"
   },
   {
    "name": "City Center Art Fall 2026 – Studio art classes for young artists in Grades 2-12",
@@ -2468,59 +484,11 @@
    "source": "Birmingham Mom Collective"
   },
   {
-   "name": "City Center Art Fall 2026 – Studio art classes for young artists in grades 6-8",
-   "date": "2026-11-04",
-   "venue": "Space One Eleven, 2409 2nd Ave N, Birmingham, AL 35203, USA",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/city-center-art-fall-2026-studio-art-classes-for-young-artists-in-grades-6-8/2026-11-04/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "DanceFLOW",
+   "name": "Netflix announces 3-part documentary on disappearance of Natalee Holloway",
    "date": "2026-11-04",
    "venue": "",
    "town": "",
-   "url": "https://bhamnow.com/bhamn-event/danceflow-5/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Dirty Rotten Scoundrels at Leeds Arts Council",
-   "date": "2026-11-04",
-   "venue": "Leeds Arts Council",
-   "town": "Leeds",
-   "url": "https://bhamnow.com/bhamn-event/dirty-rotten-scoundrels-at-leeds-arts-council/2026-11-04/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "EPIC Parenting — Free 6-Week Parenting Class (Morning Sessions)",
-   "date": "2026-11-04",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/epic-parenting-free-6-week-parenting-class-morning-sessions/2026-11-04/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Gentle Yoga",
-   "date": "2026-11-04",
-   "venue": "Pelham Senior Center – 50 Racquet Club Parkway Pelham AL 351",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/gentle-yoga-19/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "GirlSpring SHE Camp July 2026",
-   "date": "2026-11-04",
-   "venue": "Artplay",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/girlspring-she-camp-july-2026/2026-11-04/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "KIDZ BOP LIVE: The Concert Movie – Birmingham",
-   "date": "2026-11-04",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/kidz-bop-live-the-concert-movie-birmingham/2026-11-04/",
+   "url": "https://bhamnow.com/2026/10/23/netflix-announces-3-part-documentary-on-disappearance-of-natalee-holloway/#utm_source=rss&utm_medium=rss&utm_campaign=netflix-announces-3-part-documentary-on-disappearance-of-natalee-holloway",
    "source": "Bham Now"
   },
   {
@@ -2532,76 +500,12 @@
    "source": "Birmingham Mom Collective"
   },
   {
-   "name": "Promenaders",
-   "date": "2026-11-04",
-   "venue": "Pelham Senior Center – 50 Racquet Club Parkway Pelham AL 351",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/promenaders-7/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Pub Poll at Ferus",
-   "date": "2026-11-04",
-   "venue": "Ferus Artisan Ales",
-   "town": "Trussville",
-   "url": "https://bhamnow.com/bhamn-event/pub-poll-at-ferus/2026-11-04/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Renata The Band Hits The Roof!",
-   "date": "2026-11-04",
-   "venue": "Tin Roof",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/renata-the-band-hits-the-roof/2026-11-04/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Revolutionary Roots: Celebrating Alabama’s Unique History and Natural Beauty",
-   "date": "2026-11-04",
-   "venue": "Vulcan Park and Museum",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/revolutionary-roots-celebrating-alabamas-unique-history-and-natural-beauty/2026-11-04/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "The Shark Is Broken",
-   "date": "2026-11-04",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/the-shark-is-broken/2026-11-04/",
-   "source": "Bham Now"
-  },
-  {
    "name": "Story Time at the Birmingham Zoo",
    "date": "2026-11-04",
    "venue": "Birmingham Zoo",
    "town": "Birmingham",
    "url": "https://birminghammomcollective.com/event/story-time-at-the-birmingham-zoo/2026-11-04/",
    "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "Survival of the Slowest Opening Day – Saturday 6/13",
-   "date": "2026-11-04",
-   "venue": "McWane Science Center",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/survival-of-the-slowest-opening-day-saturday-6-13/2026-11-04/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Sweethearts Special",
-   "date": "2026-11-04",
-   "venue": "Heart of Dixie Railroad Museum",
-   "town": "Calera",
-   "url": "https://bhamnow.com/bhamn-event/sweethearts-special/2026-11-04/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "TECHNICAL SOCCER CAMP – 11PLUS1",
-   "date": "2026-11-04",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/technical-soccer-camp-11plus1/2026-11-04/",
-   "source": "Bham Now"
   },
   {
    "name": "Tinker Time for Tots at North Shelby Library",
@@ -2612,84 +516,12 @@
    "source": "Birmingham Mom Collective"
   },
   {
-   "name": "Trivia at BDBC",
-   "date": "2026-11-04",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/trivia-at-bdbc/2026-11-04/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Trivia at Birmingham District Brewing Co",
-   "date": "2026-11-04",
-   "venue": "2201 2nd Ave S",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/trivia-at-birmingham-district-brewing-co/2026-11-04/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Zumba Gold",
-   "date": "2026-11-04",
-   "venue": "Pelham Senior Center – 50 Racquet Club Parkway Pelham AL 351",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/zumba-gold-15/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "2026 Angels Benefit Dinner: Harlem Nights Edition – A Night of Hope and Healing",
-   "date": "2026-11-05",
-   "venue": "Bessemer Civic Center",
-   "town": "Bessemer",
-   "url": "https://bhamnow.com/bhamn-event/2026-angels-benefit-dinner-harlem-nights-edition-a-night-of-hope-and-healing/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "$3 Red Cup Specials: Weekend Warmup",
-   "date": "2026-11-05",
-   "venue": "Tin Roof Birmingham",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/3-red-cup-specials-weekend-warmup/2026-11-05/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Aaron Branch – Birmingham",
-   "date": "2026-11-05",
-   "venue": "StarDome",
-   "town": "Hoover",
-   "url": "https://bhamnow.com/bhamn-event/aaron-branch-birmingham/",
-   "source": "Bham Now"
-  },
-  {
    "name": "City Center Art Fall 2026 – Studio art classes for young artists in Grades 2-12",
    "date": "2026-11-05",
    "venue": "Space One Eleven Arts Center",
    "town": "Birmingham",
    "url": "https://birminghammomcollective.com/event/city-center-art-fall-2026-studio-art-classes-for-young-artists-in-grades-2-12/2026-11-05/",
    "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "City Center Art Fall 2026 – Studio art classes for young artists in grades 9-12",
-   "date": "2026-11-05",
-   "venue": "Space One Eleven, 2409 2nd Ave N, Birmingham, AL 35203, USA",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/city-center-art-fall-2026-studio-art-classes-for-young-artists-in-grades-9-12/2026-11-05/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "DANCING WITH THE STARS OF THE MAGIC CITY",
-   "date": "2026-11-05",
-   "venue": "Lyric Theater",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/dancing-with-the-stars-of-the-magic-city/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Dirty Rotten Scoundrels at Leeds Arts Council",
-   "date": "2026-11-05",
-   "venue": "Leeds Arts Council",
-   "town": "Leeds",
-   "url": "https://bhamnow.com/bhamn-event/dirty-rotten-scoundrels-at-leeds-arts-council/2026-11-05/",
-   "source": "Bham Now"
   },
   {
    "name": "Experience Highlands School – Open House (Pre-K to 8th Grade)",
@@ -2700,108 +532,12 @@
    "source": "Birmingham Mom Collective"
   },
   {
-   "name": "Forest Futsal Academy Training Session",
-   "date": "2026-11-05",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/forest-futsal-academy-training-session/2026-11-05/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Funnies for Furbabies benefit for the Alabama Pet Pantry",
-   "date": "2026-11-05",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/funnies-for-furbabies-benefit-for-the-alabama-pet-pantry/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "GirlSpring SHE Camp July 2026",
-   "date": "2026-11-05",
-   "venue": "Artplay",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/girlspring-she-camp-july-2026/2026-11-05/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Karaoke Kickback",
-   "date": "2026-11-05",
-   "venue": "Jazzi’s On 3rd Music Gallery",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/karaoke-kickback/2026-11-05/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "KIDZ BOP LIVE: The Concert Movie – Birmingham",
-   "date": "2026-11-05",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/kidz-bop-live-the-concert-movie-birmingham/2026-11-05/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Magic City Futbol",
-   "date": "2026-11-05",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/magic-city-futbol-5/",
-   "source": "Bham Now"
-  },
-  {
    "name": "Mommies Who Run Run Club",
    "date": "2026-11-05",
    "venue": "Veteran’s Park",
    "town": "Hoover",
    "url": "https://birminghammomcollective.com/event/mommies-who-run-run-club/2026-11-05/",
    "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "Movie Madness",
-   "date": "2026-11-05",
-   "venue": "Pelham Senior Center – 50 Racquet Club Parkway Pelham AL 351",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/movie-madness-7/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Painting Acrylic Abstracts with Madison Faile",
-   "date": "2026-11-05",
-   "venue": "Forstall Art Center",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/painting-acrylic-abstracts-with-madison-faile-3/2026-11-05/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Pickleball Clinics",
-   "date": "2026-11-05",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/pickleball-clinics-225/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Renata The Band Hits The Roof!",
-   "date": "2026-11-05",
-   "venue": "Tin Roof",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/renata-the-band-hits-the-roof/2026-11-05/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Revolutionary Roots: Celebrating Alabama’s Unique History and Natural Beauty",
-   "date": "2026-11-05",
-   "venue": "Vulcan Park and Museum",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/revolutionary-roots-celebrating-alabamas-unique-history-and-natural-beauty/2026-11-05/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Special Event: Aaron Branch",
-   "date": "2026-11-05",
-   "venue": "StarDome",
-   "town": "Hoover",
-   "url": "https://bhamnow.com/bhamn-event/special-event-aaron-branch/",
-   "source": "Bham Now"
   },
   {
    "name": "Story Time at the Birmingham Zoo",
@@ -2820,14 +556,6 @@
    "source": "Birmingham Mom Collective"
   },
   {
-   "name": "Survival of the Slowest Opening Day – Saturday 6/13",
-   "date": "2026-11-05",
-   "venue": "McWane Science Center",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/survival-of-the-slowest-opening-day-saturday-6-13/2026-11-05/",
-   "source": "Bham Now"
-  },
-  {
    "name": "Sweet Peas Story Time at Calera Public Library",
    "date": "2026-11-05",
    "venue": "Calera Roy Downs Memorial Library",
@@ -2836,84 +564,12 @@
    "source": "Birmingham Mom Collective"
   },
   {
-   "name": "Sweethearts Special",
-   "date": "2026-11-05",
-   "venue": "Heart of Dixie Railroad Museum",
-   "town": "Calera",
-   "url": "https://bhamnow.com/bhamn-event/sweethearts-special/2026-11-05/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Tablescapes “Where Art Meets Music”",
-   "date": "2026-11-05",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/tablescapes-where-art-meets-music/2026-11-05/1/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "TECHNICAL SOCCER CAMP – 11PLUS1",
-   "date": "2026-11-05",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/technical-soccer-camp-11plus1/2026-11-05/",
-   "source": "Bham Now"
-  },
-  {
    "name": "Time for Tales at Avondale Regional Branch Library",
    "date": "2026-11-05",
    "venue": "Avondale Regional Library",
    "town": "Birmingham",
    "url": "https://birminghammomcollective.com/event/time-for-tales-at-avondale-regional-branch-library/2026-11-05/",
    "source": "Birmingham Mom Collective"
-  },
-  {
-   "name": "$5 Bags of Groceries at Bid Llama",
-   "date": "2026-11-06",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/5-bags-of-groceries-at-bid-llama/2026-11-06/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Crocheting",
-   "date": "2026-11-06",
-   "venue": "Pelham Senior Center – 50 Racquet Club Parkway Pelham AL 351",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/crocheting-13/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "GirlSpring SHE Camp July 2026",
-   "date": "2026-11-06",
-   "venue": "Artplay",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/girlspring-she-camp-july-2026/2026-11-06/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "KIDZ BOP LIVE: The Concert Movie – Birmingham",
-   "date": "2026-11-06",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/kidz-bop-live-the-concert-movie-birmingham/2026-11-06/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Paint a Sweater Ornament",
-   "date": "2026-11-06",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/paint-a-sweater-ornament/2026-11-06/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Revolutionary Roots: Celebrating Alabama’s Unique History and Natural Beauty",
-   "date": "2026-11-06",
-   "venue": "Vulcan Park and Museum",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/revolutionary-roots-celebrating-alabamas-unique-history-and-natural-beauty/2026-11-06/",
-   "source": "Bham Now"
   },
   {
    "name": "Small Fry Friday at Albert L Scott Library",
@@ -2932,43 +588,115 @@
    "source": "Birmingham Mom Collective"
   },
   {
-   "name": "Survival of the Slowest Opening Day – Saturday 6/13",
-   "date": "2026-11-06",
-   "venue": "McWane Science Center",
-   "town": "Birmingham",
-   "url": "https://bhamnow.com/bhamn-event/survival-of-the-slowest-opening-day-saturday-6-13/2026-11-06/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Sweethearts Special",
-   "date": "2026-11-06",
-   "venue": "Heart of Dixie Railroad Museum",
-   "town": "Calera",
-   "url": "https://bhamnow.com/bhamn-event/sweethearts-special/2026-11-06/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "Tai Chi",
-   "date": "2026-11-06",
-   "venue": "Pelham Senior Center – 50 Racquet Club Parkway Pelham AL 351",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/tai-chi-19/",
-   "source": "Bham Now"
-  },
-  {
-   "name": "TECHNICAL SOCCER CAMP – 11PLUS1",
-   "date": "2026-11-06",
-   "venue": "",
-   "town": "",
-   "url": "https://bhamnow.com/bhamn-event/technical-soccer-camp-11plus1/2026-11-06/",
-   "source": "Bham Now"
-  },
-  {
    "name": "Teeny Tiny Time at Albert L Scott Library",
    "date": "2026-11-06",
    "venue": "Albert L. Scott Library – Alabaster Library",
    "town": "Alabaster",
    "url": "https://birminghammomcollective.com/event/teeny-tiny-time-at-albert-l-scott-library/2026-11-06/",
+   "source": "Birmingham Mom Collective"
+  },
+  {
+   "name": "Appalachian Festival",
+   "date": "2026-11-07",
+   "venue": "Oak Mountain State Park",
+   "town": "Pelham",
+   "url": "https://birminghammomcollective.com/event/appalachian-festival/",
+   "source": "Birmingham Mom Collective"
+  },
+  {
+   "name": "Fountain Heights to get first new grocery store in 70 years",
+   "date": "2026-11-07",
+   "venue": "",
+   "town": "",
+   "url": "https://bhamnow.com/2026/10/23/fountain-heights-to-get-first-new-grocery-store-in-70-years/#utm_source=rss&utm_medium=rss&utm_campaign=fountain-heights-to-get-first-new-grocery-store-in-70-years",
+   "source": "Bham Now"
+  },
+  {
+   "name": "Mommy & Me Group",
+   "date": "2026-11-07",
+   "venue": "unitarian universalist Church of Birmingham",
+   "town": "Birmingham",
+   "url": "https://birminghammomcollective.com/event/mommy-me-group/2026-11-07/",
+   "source": "Birmingham Mom Collective"
+  },
+  {
+   "name": "Mommy & Me Group",
+   "date": "2026-11-07",
+   "venue": "4300 Hampton Heights Dr Birmingham, AL 35209 United States",
+   "town": "Birmingham",
+   "url": "https://birminghammomcollective.com/event/mommy-me-group-2/2026-11-07/",
+   "source": "Birmingham Mom Collective"
+  },
+  {
+   "name": "Moss Rock Festival’s exciting weekend lineup + how you can get tickets, Nov. 7 +",
+   "date": "2026-11-07",
+   "venue": "",
+   "town": "",
+   "url": "https://bhamnow.com/2026/10/21/moss-rock-festivals-exciting-weekend-lineup-how-you-can-get-tickets-nov-7-8-2026/#utm_source=rss&utm_medium=rss&utm_campaign=moss-rock-festivals-exciting-weekend-lineup-how-you-can-get-tickets-nov-7-8-2026",
+   "source": "Bham Now"
+  },
+  {
+   "name": "Story Time at the Birmingham Zoo",
+   "date": "2026-11-07",
+   "venue": "Birmingham Zoo",
+   "town": "Birmingham",
+   "url": "https://birminghammomcollective.com/event/story-time-at-the-birmingham-zoo/2026-11-07/",
+   "source": "Birmingham Mom Collective"
+  },
+  {
+   "name": "Y’all Aboard for a Train Ride!",
+   "date": "2026-11-07",
+   "venue": "Heart of Dixie Railroad Museum",
+   "town": "Calera",
+   "url": "https://birminghammomcollective.com/event/yall-aboard-for-a-train-ride/2026-11-07/",
+   "source": "Birmingham Mom Collective"
+  },
+  {
+   "name": "Your Weight Matters Regional Birmingham",
+   "date": "2026-11-07",
+   "venue": "Embassy Suites",
+   "town": "birmingham",
+   "url": "https://birminghammomcollective.com/event/your-weight-matters-regional-birmingham/",
+   "source": "Birmingham Mom Collective"
+  },
+  {
+   "name": "Birmingham Vegan Fest Returns November 8 With 60+ Vendors, Food Trucks, and Free",
+   "date": "2026-11-08",
+   "venue": "",
+   "town": "",
+   "url": "https://birminghamparent.com/birmingham-vegan-fest-returns-november-8-with-60-vendors-food-trucks-and-free-admission/",
+   "source": "Birmingham Parent"
+  },
+  {
+   "name": "Story Time at the Birmingham Zoo",
+   "date": "2026-11-08",
+   "venue": "Birmingham Zoo",
+   "town": "Birmingham",
+   "url": "https://birminghammomcollective.com/event/story-time-at-the-birmingham-zoo/2026-11-08/",
+   "source": "Birmingham Mom Collective"
+  },
+  {
+   "name": "Breakfast Club at Vestavia Hills Library",
+   "date": "2026-11-09",
+   "venue": "Vestavia Hills Library in the Forest",
+   "town": "Vestavia Hills",
+   "url": "https://birminghammomcollective.com/event/breakfast-club-at-vestavia-hills-library/2026-11-09/",
+   "source": "Birmingham Mom Collective"
+  },
+  {
+   "name": "City Center Art Fall 2026 – Studio art classes for young artists in Grades 2-12",
+   "date": "2026-11-09",
+   "venue": "Space One Eleven Arts Center",
+   "town": "Birmingham",
+   "url": "https://birminghammomcollective.com/event/city-center-art-fall-2026-studio-art-classes-for-young-artists-in-grades-2-12/2026-11-09/",
+   "source": "Birmingham Mom Collective"
+  },
+  {
+   "name": "Titusville Branch Creative Horizons After-School Reading Club",
+   "date": "2026-11-09",
+   "venue": "Titusville Library",
+   "town": "Birmingham",
+   "url": "https://birminghammomcollective.com/event/titusville-branch-creative-horizons-after-school-reading-club/2026-11-09/",
    "source": "Birmingham Mom Collective"
   }
  ]

@@ -1,11 +1,11 @@
 {
  "schema": "lantern-events/v1",
  "region": "chesterfield-mo",
- "generated_at": "2026-10-26T17:22:25Z",
+ "generated_at": "2026-10-30T17:24:18Z",
  "events": [
   {
    "name": "Big Joel's Spooky Safari",
-   "date": "2026-10-25",
+   "date": "2026-10-29",
    "venue": "Big Joel's Safari Petting Zoo & Educational Park",
    "town": "Wright City",
    "url": "https://saintlouis.kidsoutandabout.com/content/big-joels-spooky-safari-1",
@@ -14,7 +14,7 @@
   },
   {
    "name": "Boo at the Zoo",
-   "date": "2026-10-25",
+   "date": "2026-10-29",
    "venue": "Saint Louis Zoo",
    "town": "St. Louis",
    "url": "https://saintlouis.kidsoutandabout.com/content/boo-zoo-38",
@@ -23,7 +23,7 @@
   },
   {
    "name": "BOOterfly House",
-   "date": "2026-10-25",
+   "date": "2026-10-29",
    "venue": "Sophia M. Sachs Butterfly House",
    "town": "Chesterfield",
    "url": "https://saintlouis.kidsoutandabout.com/content/booterfly-house-1",
@@ -32,7 +32,7 @@
   },
   {
    "name": "Corn Maze- Broemmelsiek Park",
-   "date": "2026-10-25",
+   "date": "2026-10-29",
    "venue": "Broemmelsiek Park",
    "town": "Defiance",
    "url": "https://saintlouis.kidsoutandabout.com/content/corn-maze-broemmelsiek-park-0",
@@ -41,7 +41,7 @@
   },
   {
    "name": "Dinoroarus",
-   "date": "2026-10-25",
+   "date": "2026-10-29",
    "venue": "Saint Louis Zoo",
    "town": "St. Louis",
    "url": "https://saintlouis.kidsoutandabout.com/content/dinoroarus",
@@ -50,7 +50,7 @@
   },
   {
    "name": "Fright at the Museum 2026",
-   "date": "2026-10-25",
+   "date": "2026-10-29",
    "venue": "",
    "town": "St. Louis",
    "url": "https://saintlouis.kidsoutandabout.com/content/fright-museum-2026",
@@ -58,17 +58,8 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Glow City at City Museum",
-   "date": "2026-10-25",
-   "venue": "",
-   "town": "St. Louis",
-   "url": "https://saintlouis.kidsoutandabout.com/content/glow-city-city-museum",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
    "name": "Grant's Farm Halloween Nights",
-   "date": "2026-10-25",
+   "date": "2026-10-29",
    "venue": "Grant's Farm Parking",
    "town": "Gravois Township",
    "url": "https://saintlouis.kidsoutandabout.com/content/grants-farm-halloween-nights-0",
@@ -77,7 +68,7 @@
   },
   {
    "name": "Jack’s Lighted Trail",
-   "date": "2026-10-25",
+   "date": "2026-10-29",
    "venue": "",
    "town": "Belleville",
    "url": "https://saintlouis.kidsoutandabout.com/content/jack%E2%80%99s-lighted-trail-0",
@@ -85,35 +76,8 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Minerals Make Missouri",
-   "date": "2026-10-25",
-   "venue": "Felix Valle House State Historic Site",
-   "town": "Ste. Genevieve",
-   "url": "https://saintlouis.kidsoutandabout.com/content/minerals-make-missouri",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Pirates and Pumpkins at the St. Louis Aquarium",
-   "date": "2026-10-25",
-   "venue": "St. Louis Aquarium at Union Station",
-   "town": "St. Louis",
-   "url": "https://saintlouis.kidsoutandabout.com/content/pirates-and-pumpkins-st-louis-aquarium-1",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Pumpkin Patch & Fall Festival",
-   "date": "2026-10-25",
-   "venue": "Pin Oak Farms",
-   "town": "New Haven",
-   "url": "https://saintlouis.kidsoutandabout.com/content/pumpkin-patch-fall-festival-0",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
    "name": "Open Play at Enchanted Playroom",
-   "date": "2026-10-26",
+   "date": "2026-10-29",
    "venue": "Enchanted Playroom",
    "town": "O'Fallon",
    "url": "https://saintlouis.kidsoutandabout.com/content/open-play-enchanted-playroom",
@@ -122,7 +86,7 @@
   },
   {
    "name": "Open Play at Your Village",
-   "date": "2026-10-26",
+   "date": "2026-10-29",
    "venue": "Your Village STL: Jennifer Tietjen",
    "town": "Chesterfield",
    "url": "https://saintlouis.kidsoutandabout.com/content/open-play-your-village",
@@ -130,11 +94,11 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Open Gym - Come play at Miss Kelly's Gym!",
-   "date": "2026-10-28",
-   "venue": "",
-   "town": "Miss Kelly's Gym - Creve Coeur and Cottl",
-   "url": "https://saintlouis.kidsoutandabout.com/content/open-gym-come-play-miss-kellys-gym",
+   "name": "Pirates and Pumpkins at the St. Louis Aquarium",
+   "date": "2026-10-29",
+   "venue": "St. Louis Aquarium at Union Station",
+   "town": "St. Louis",
+   "url": "https://saintlouis.kidsoutandabout.com/content/pirates-and-pumpkins-st-louis-aquarium-1",
    "source": "Kids Out and About STL",
    "extraction": "heuristic"
   },
@@ -144,6 +108,33 @@
    "venue": "",
    "town": "Saint Ann",
    "url": "https://saintlouis.kidsoutandabout.com/content/lap-time",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Minerals Make Missouri",
+   "date": "2026-10-30",
+   "venue": "Felix Valle House State Historic Site",
+   "town": "Ste. Genevieve",
+   "url": "https://saintlouis.kidsoutandabout.com/content/minerals-make-missouri",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Open Gym - Come play at Miss Kelly's Gym!",
+   "date": "2026-10-30",
+   "venue": "",
+   "town": "Miss Kelly's Gym - Creve Coeur and Cottl",
+   "url": "https://saintlouis.kidsoutandabout.com/content/open-gym-come-play-miss-kellys-gym",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Pumpkin Patch & Fall Festival",
+   "date": "2026-10-30",
+   "venue": "Pin Oak Farms",
+   "town": "New Haven",
+   "url": "https://saintlouis.kidsoutandabout.com/content/pumpkin-patch-fall-festival-0",
    "source": "Kids Out and About STL",
    "extraction": "heuristic"
   }

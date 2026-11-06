@@ -1,29 +1,11 @@
 {
  "schema": "lantern-events/v1",
  "region": "chesterfield-mo",
- "generated_at": "2026-11-02T18:23:17Z",
+ "generated_at": "2026-11-06T18:23:36Z",
  "events": [
   {
-   "name": "6 Kid-Friendly Coffee Shops We Love in St. Louis",
-   "date": "2026-11-01",
-   "venue": "",
-   "town": "",
-   "url": "https://stlouismom.com/in-and-around-st-louis/6-kid-friendly-coffee-shops-we-love-in-st-louis/",
-   "source": "STL Mom",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "A Merry Morning with Santa -St. Louis Mom’s 9th Annual Donuts...",
-   "date": "2026-11-01",
-   "venue": "",
-   "town": "",
-   "url": "https://stlouismom.com/in-and-around-st-louis/a-merry-morning-with-santa-st-louis-moms-9th-annual-donuts-with-santa/",
-   "source": "STL Mom",
-   "extraction": "heuristic"
-  },
-  {
    "name": "Carol Kerber",
-   "date": "2026-11-01",
+   "date": "2026-11-05",
    "venue": "",
    "town": "",
    "url": "https://stlouismom.com/author/carolkerber/",
@@ -31,35 +13,26 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Michelle Hanna",
-   "date": "2026-11-01",
+   "name": "Haley Strebler",
+   "date": "2026-11-05",
    "venue": "",
    "town": "",
-   "url": "https://stlouismom.com/author/michellehanna/",
+   "url": "https://stlouismom.com/author/haleystrebler/",
    "source": "STL Mom",
    "extraction": "heuristic"
   },
   {
-   "name": "Rebekah Coste",
-   "date": "2026-11-01",
+   "name": "Pre-Holiday Local Events in St. Louis this November",
+   "date": "2026-11-05",
    "venue": "",
    "town": "",
-   "url": "https://stlouismom.com/author/rebekahsasse/",
+   "url": "https://stlouismom.com/in-and-around-st-louis/pre-holiday-local-events-in-st-louis-this-november/",
    "source": "STL Mom",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Build Something Real With AI",
-   "date": "2026-11-02",
-   "venue": "Rush Public Library",
-   "town": "Rush",
-   "url": "https://saintlouis.kidsoutandabout.com/content/build-something-real-ai",
-   "source": "Kids Out and About STL",
    "extraction": "heuristic"
   },
   {
    "name": "Candy Buyback",
-   "date": "2026-11-02",
+   "date": "2026-11-06",
    "venue": "Edwardsville Children's Museum",
    "town": "Edwardsville",
    "url": "https://saintlouis.kidsoutandabout.com/content/candy-buyback",
@@ -68,7 +41,7 @@
   },
   {
    "name": "Children's Lighthouse Community Food Drive",
-   "date": "2026-11-02",
+   "date": "2026-11-06",
    "venue": "Children's Lighthouse of O'Fallon",
    "town": "O'Fallon",
    "url": "https://saintlouis.kidsoutandabout.com/content/childrens-lighthouse-community-food-drive",
@@ -76,17 +49,8 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Cookie Connoisseurs Club",
-   "date": "2026-11-02",
-   "venue": "Jefferson County Library - Arnold Branch",
-   "town": "Arnold",
-   "url": "https://saintlouis.kidsoutandabout.com/content/cookie-connoisseurs-club",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
    "name": "Dinoroarus",
-   "date": "2026-11-02",
+   "date": "2026-11-06",
    "venue": "Saint Louis Zoo",
    "town": "St. Louis",
    "url": "https://saintlouis.kidsoutandabout.com/content/dinoroarus",
@@ -95,52 +59,79 @@
   },
   {
    "name": "Fall Into Girl Scouts",
-   "date": "2026-11-02",
+   "date": "2026-11-06",
+   "venue": "Scenic Regional Library - Sullivan Branch",
+   "town": "Sullivan",
+   "url": "https://saintlouis.kidsoutandabout.com/content/fall-girl-scouts-2",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "First Fridays",
+   "date": "2026-11-06",
+   "venue": "Foundry Art Centre",
+   "town": "St Charles",
+   "url": "https://saintlouis.kidsoutandabout.com/content/first-fridays",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Fish Tales",
+   "date": "2026-11-06",
+   "venue": "Arnold Recreation Center",
+   "town": "Arnold",
+   "url": "https://saintlouis.kidsoutandabout.com/content/fish-tales-1",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Friendsgiving at Eckert's Belleville",
+   "date": "2026-11-06",
    "venue": "",
-   "town": "Pacific",
-   "url": "https://saintlouis.kidsoutandabout.com/content/fall-girl-scouts",
+   "town": "Belleville",
+   "url": "https://saintlouis.kidsoutandabout.com/content/friendsgiving-eckerts-belleville",
    "source": "Kids Out and About STL",
    "extraction": "heuristic"
   },
   {
-   "name": "Illustration Mentorship",
-   "date": "2026-11-02",
-   "venue": "Winged Canvas",
-   "town": "Markham",
-   "url": "https://saintlouis.kidsoutandabout.com/content/illustration-mentorship",
+   "name": "Indigenous Peoples Celebration",
+   "date": "2026-11-06",
+   "venue": "Missouri Botanical Garden",
+   "town": "St. Louis",
+   "url": "https://saintlouis.kidsoutandabout.com/content/indigenous-peoples-celebration",
    "source": "Kids Out and About STL",
    "extraction": "heuristic"
   },
   {
-   "name": "Little's Playtime at Enchanted Playroom",
-   "date": "2026-11-02",
-   "venue": "Enchanted Playroom",
-   "town": "O'Fallon",
-   "url": "https://saintlouis.kidsoutandabout.com/content/littles-playtime-enchanted-playroom-0",
+   "name": "Kids’ Art Night Out (KANO)",
+   "date": "2026-11-06",
+   "venue": "Yucandu Art Studio",
+   "town": "Webster Groves",
+   "url": "https://saintlouis.kidsoutandabout.com/content/kids%E2%80%99-art-night-out-kano-0",
    "source": "Kids Out and About STL",
    "extraction": "heuristic"
   },
   {
-   "name": "Luminari Award",
-   "date": "2026-11-02",
+   "name": "Lap Time",
+   "date": "2026-11-06",
    "venue": "",
-   "town": "In home essay writing",
-   "url": "https://saintlouis.kidsoutandabout.com/content/luminari-award",
+   "town": "Saint Ann",
+   "url": "https://saintlouis.kidsoutandabout.com/content/lap-time",
    "source": "Kids Out and About STL",
    "extraction": "heuristic"
   },
   {
-   "name": "Maria Tavares",
-   "date": "2026-11-02",
+   "name": "Open Gym - Come play at Miss Kelly's Gym!",
+   "date": "2026-11-06",
    "venue": "",
-   "town": "",
-   "url": "https://stlouismom.com/author/mtavares/",
-   "source": "STL Mom",
+   "town": "Miss Kelly's Gym - Creve Coeur and Cottl",
+   "url": "https://saintlouis.kidsoutandabout.com/content/open-gym-come-play-miss-kellys-gym",
+   "source": "Kids Out and About STL",
    "extraction": "heuristic"
   },
   {
    "name": "Open Play at Enchanted Playroom",
-   "date": "2026-11-02",
+   "date": "2026-11-06",
    "venue": "Enchanted Playroom",
    "town": "O'Fallon",
    "url": "https://saintlouis.kidsoutandabout.com/content/open-play-enchanted-playroom",
@@ -149,7 +140,7 @@
   },
   {
    "name": "Open Play at Your Village",
-   "date": "2026-11-02",
+   "date": "2026-11-06",
    "venue": "Your Village STL: Jennifer Tietjen",
    "town": "Chesterfield",
    "url": "https://saintlouis.kidsoutandabout.com/content/open-play-your-village",
@@ -157,47 +148,29 @@
    "extraction": "heuristic"
   },
   {
-   "name": "School Break Camps- Taste Buds Kitchen - O'Fallon",
-   "date": "2026-11-02",
-   "venue": "Taste Buds Kitchen - St. Louis - O'Fallon",
-   "town": "O'Fallon",
-   "url": "https://saintlouis.kidsoutandabout.com/content/school-break-camps-taste-buds-kitchen-ofallon-1",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "School Day Out",
-   "date": "2026-11-02",
+   "name": "Parents Night Out - Miss Kelly's Gym",
+   "date": "2026-11-06",
    "venue": "",
-   "town": "Olympia Gymnastics Ellisville",
-   "url": "https://saintlouis.kidsoutandabout.com/content/school-day-out-1",
+   "town": "Miss Kelly's Gym - Creve Coeur and Cottl",
+   "url": "https://saintlouis.kidsoutandabout.com/content/parents-night-out-miss-kellys-gym",
    "source": "Kids Out and About STL",
    "extraction": "heuristic"
   },
   {
-   "name": "School Day Out Camp",
-   "date": "2026-11-02",
-   "venue": "Olympia Gymnastics & Ninja City - Manchester",
-   "town": "Manchester",
-   "url": "https://saintlouis.kidsoutandabout.com/content/school-day-out-camp",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Story Time",
-   "date": "2026-11-02",
-   "venue": "",
-   "town": "St. Louis County Library - Rock Road Bra",
-   "url": "https://saintlouis.kidsoutandabout.com/content/story-time-131",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Ultimate Ninjas Day Camp",
-   "date": "2026-11-02",
-   "venue": "Ultimate Ninjas Chesterfield",
+   "name": "Storytelling: November",
+   "date": "2026-11-06",
+   "venue": "Missouri History Museum",
    "town": "St. Louis",
-   "url": "https://saintlouis.kidsoutandabout.com/content/ultimate-ninjas-day-camp",
+   "url": "https://saintlouis.kidsoutandabout.com/content/storytelling-november",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Whitaker St. Louis International Film Festival",
+   "date": "2026-11-06",
+   "venue": "Cinema St Louis",
+   "town": "St. Louis",
+   "url": "https://saintlouis.kidsoutandabout.com/content/whitaker-st-louis-international-film-festival-1",
    "source": "Kids Out and About STL",
    "extraction": "heuristic"
   }

@@ -1,56 +1,11 @@
 {
  "schema": "lantern-events/v1",
  "region": "chesterfield-mo",
- "generated_at": "2026-11-06T18:23:36Z",
+ "generated_at": "2026-11-09T18:22:18Z",
  "events": [
   {
-   "name": "Carol Kerber",
-   "date": "2026-11-05",
-   "venue": "",
-   "town": "",
-   "url": "https://stlouismom.com/author/carolkerber/",
-   "source": "STL Mom",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Haley Strebler",
-   "date": "2026-11-05",
-   "venue": "",
-   "town": "",
-   "url": "https://stlouismom.com/author/haleystrebler/",
-   "source": "STL Mom",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Pre-Holiday Local Events in St. Louis this November",
-   "date": "2026-11-05",
-   "venue": "",
-   "town": "",
-   "url": "https://stlouismom.com/in-and-around-st-louis/pre-holiday-local-events-in-st-louis-this-november/",
-   "source": "STL Mom",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Candy Buyback",
-   "date": "2026-11-06",
-   "venue": "Edwardsville Children's Museum",
-   "town": "Edwardsville",
-   "url": "https://saintlouis.kidsoutandabout.com/content/candy-buyback",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Children's Lighthouse Community Food Drive",
-   "date": "2026-11-06",
-   "venue": "Children's Lighthouse of O'Fallon",
-   "town": "O'Fallon",
-   "url": "https://saintlouis.kidsoutandabout.com/content/childrens-lighthouse-community-food-drive",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
    "name": "Dinoroarus",
-   "date": "2026-11-06",
+   "date": "2026-11-08",
    "venue": "Saint Louis Zoo",
    "town": "St. Louis",
    "url": "https://saintlouis.kidsoutandabout.com/content/dinoroarus",
@@ -58,35 +13,8 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Fall Into Girl Scouts",
-   "date": "2026-11-06",
-   "venue": "Scenic Regional Library - Sullivan Branch",
-   "town": "Sullivan",
-   "url": "https://saintlouis.kidsoutandabout.com/content/fall-girl-scouts-2",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "First Fridays",
-   "date": "2026-11-06",
-   "venue": "Foundry Art Centre",
-   "town": "St Charles",
-   "url": "https://saintlouis.kidsoutandabout.com/content/first-fridays",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Fish Tales",
-   "date": "2026-11-06",
-   "venue": "Arnold Recreation Center",
-   "town": "Arnold",
-   "url": "https://saintlouis.kidsoutandabout.com/content/fish-tales-1",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
    "name": "Friendsgiving at Eckert's Belleville",
-   "date": "2026-11-06",
+   "date": "2026-11-08",
    "venue": "",
    "town": "Belleville",
    "url": "https://saintlouis.kidsoutandabout.com/content/friendsgiving-eckerts-belleville",
@@ -95,7 +23,7 @@
   },
   {
    "name": "Indigenous Peoples Celebration",
-   "date": "2026-11-06",
+   "date": "2026-11-08",
    "venue": "Missouri Botanical Garden",
    "town": "St. Louis",
    "url": "https://saintlouis.kidsoutandabout.com/content/indigenous-peoples-celebration",
@@ -103,35 +31,26 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Kids’ Art Night Out (KANO)",
-   "date": "2026-11-06",
-   "venue": "Yucandu Art Studio",
-   "town": "Webster Groves",
-   "url": "https://saintlouis.kidsoutandabout.com/content/kids%E2%80%99-art-night-out-kano-0",
+   "name": "Whitaker St. Louis International Film Festival",
+   "date": "2026-11-08",
+   "venue": "Cinema St Louis",
+   "town": "St. Louis",
+   "url": "https://saintlouis.kidsoutandabout.com/content/whitaker-st-louis-international-film-festival-1",
    "source": "Kids Out and About STL",
    "extraction": "heuristic"
   },
   {
-   "name": "Lap Time",
-   "date": "2026-11-06",
-   "venue": "",
-   "town": "Saint Ann",
-   "url": "https://saintlouis.kidsoutandabout.com/content/lap-time",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Open Gym - Come play at Miss Kelly's Gym!",
-   "date": "2026-11-06",
-   "venue": "",
-   "town": "Miss Kelly's Gym - Creve Coeur and Cottl",
-   "url": "https://saintlouis.kidsoutandabout.com/content/open-gym-come-play-miss-kellys-gym",
+   "name": "Children's Lighthouse Community Food Drive",
+   "date": "2026-11-09",
+   "venue": "Children's Lighthouse of O'Fallon",
+   "town": "O'Fallon",
+   "url": "https://saintlouis.kidsoutandabout.com/content/childrens-lighthouse-community-food-drive",
    "source": "Kids Out and About STL",
    "extraction": "heuristic"
   },
   {
    "name": "Open Play at Enchanted Playroom",
-   "date": "2026-11-06",
+   "date": "2026-11-09",
    "venue": "Enchanted Playroom",
    "town": "O'Fallon",
    "url": "https://saintlouis.kidsoutandabout.com/content/open-play-enchanted-playroom",
@@ -140,7 +59,7 @@
   },
   {
    "name": "Open Play at Your Village",
-   "date": "2026-11-06",
+   "date": "2026-11-09",
    "venue": "Your Village STL: Jennifer Tietjen",
    "town": "Chesterfield",
    "url": "https://saintlouis.kidsoutandabout.com/content/open-play-your-village",
@@ -148,17 +67,8 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Parents Night Out - Miss Kelly's Gym",
-   "date": "2026-11-06",
-   "venue": "",
-   "town": "Miss Kelly's Gym - Creve Coeur and Cottl",
-   "url": "https://saintlouis.kidsoutandabout.com/content/parents-night-out-miss-kellys-gym",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
    "name": "Storytelling: November",
-   "date": "2026-11-06",
+   "date": "2026-11-10",
    "venue": "Missouri History Museum",
    "town": "St. Louis",
    "url": "https://saintlouis.kidsoutandabout.com/content/storytelling-november",
@@ -166,11 +76,29 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Whitaker St. Louis International Film Festival",
-   "date": "2026-11-06",
-   "venue": "Cinema St Louis",
-   "town": "St. Louis",
-   "url": "https://saintlouis.kidsoutandabout.com/content/whitaker-st-louis-international-film-festival-1",
+   "name": "Open Gym - Come play at Miss Kelly's Gym!",
+   "date": "2026-11-11",
+   "venue": "",
+   "town": "Miss Kelly's Gym - Creve Coeur and Cottl",
+   "url": "https://saintlouis.kidsoutandabout.com/content/open-gym-come-play-miss-kellys-gym",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Lap Time",
+   "date": "2026-11-13",
+   "venue": "",
+   "town": "Saint Ann",
+   "url": "https://saintlouis.kidsoutandabout.com/content/lap-time",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Parents Night Out - Miss Kelly's Gym",
+   "date": "2026-11-20",
+   "venue": "",
+   "town": "Miss Kelly's Gym - Creve Coeur and Cottl",
+   "url": "https://saintlouis.kidsoutandabout.com/content/parents-night-out-miss-kellys-gym",
    "source": "Kids Out and About STL",
    "extraction": "heuristic"
   }

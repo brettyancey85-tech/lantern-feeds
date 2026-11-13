@@ -1,47 +1,11 @@
 {
  "schema": "lantern-events/v1",
  "region": "chesterfield-mo",
- "generated_at": "2026-11-09T18:22:18Z",
+ "generated_at": "2026-11-13T18:22:01Z",
  "events": [
   {
-   "name": "Dinoroarus",
-   "date": "2026-11-08",
-   "venue": "Saint Louis Zoo",
-   "town": "St. Louis",
-   "url": "https://saintlouis.kidsoutandabout.com/content/dinoroarus",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Friendsgiving at Eckert's Belleville",
-   "date": "2026-11-08",
-   "venue": "",
-   "town": "Belleville",
-   "url": "https://saintlouis.kidsoutandabout.com/content/friendsgiving-eckerts-belleville",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Indigenous Peoples Celebration",
-   "date": "2026-11-08",
-   "venue": "Missouri Botanical Garden",
-   "town": "St. Louis",
-   "url": "https://saintlouis.kidsoutandabout.com/content/indigenous-peoples-celebration",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Whitaker St. Louis International Film Festival",
-   "date": "2026-11-08",
-   "venue": "Cinema St Louis",
-   "town": "St. Louis",
-   "url": "https://saintlouis.kidsoutandabout.com/content/whitaker-st-louis-international-film-festival-1",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
    "name": "Children's Lighthouse Community Food Drive",
-   "date": "2026-11-09",
+   "date": "2026-11-12",
    "venue": "Children's Lighthouse of O'Fallon",
    "town": "O'Fallon",
    "url": "https://saintlouis.kidsoutandabout.com/content/childrens-lighthouse-community-food-drive",
@@ -49,8 +13,17 @@
    "extraction": "heuristic"
   },
   {
+   "name": "Friendsgiving at Eckert's Belleville",
+   "date": "2026-11-12",
+   "venue": "",
+   "town": "Belleville",
+   "url": "https://saintlouis.kidsoutandabout.com/content/friendsgiving-eckerts-belleville",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
    "name": "Open Play at Enchanted Playroom",
-   "date": "2026-11-09",
+   "date": "2026-11-12",
    "venue": "Enchanted Playroom",
    "town": "O'Fallon",
    "url": "https://saintlouis.kidsoutandabout.com/content/open-play-enchanted-playroom",
@@ -59,7 +32,7 @@
   },
   {
    "name": "Open Play at Your Village",
-   "date": "2026-11-09",
+   "date": "2026-11-12",
    "venue": "Your Village STL: Jennifer Tietjen",
    "town": "Chesterfield",
    "url": "https://saintlouis.kidsoutandabout.com/content/open-play-your-village",
@@ -67,20 +40,20 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Storytelling: November",
-   "date": "2026-11-10",
-   "venue": "Missouri History Museum",
-   "town": "St. Louis",
-   "url": "https://saintlouis.kidsoutandabout.com/content/storytelling-november",
-   "source": "Kids Out and About STL",
+   "name": "Rebekah Coste",
+   "date": "2026-11-12",
+   "venue": "",
+   "town": "",
+   "url": "https://stlouismom.com/author/rebekahsasse/",
+   "source": "STL Mom",
    "extraction": "heuristic"
   },
   {
-   "name": "Open Gym - Come play at Miss Kelly's Gym!",
-   "date": "2026-11-11",
-   "venue": "",
-   "town": "Miss Kelly's Gym - Creve Coeur and Cottl",
-   "url": "https://saintlouis.kidsoutandabout.com/content/open-gym-come-play-miss-kellys-gym",
+   "name": "Whitaker St. Louis International Film Festival",
+   "date": "2026-11-12",
+   "venue": "Cinema St Louis",
+   "town": "St. Louis",
+   "url": "https://saintlouis.kidsoutandabout.com/content/whitaker-st-louis-international-film-festival-1",
    "source": "Kids Out and About STL",
    "extraction": "heuristic"
   },
@@ -90,6 +63,24 @@
    "venue": "",
    "town": "Saint Ann",
    "url": "https://saintlouis.kidsoutandabout.com/content/lap-time",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Open Gym - Come play at Miss Kelly's Gym!",
+   "date": "2026-11-13",
+   "venue": "",
+   "town": "Miss Kelly's Gym - Creve Coeur and Cottl",
+   "url": "https://saintlouis.kidsoutandabout.com/content/open-gym-come-play-miss-kellys-gym",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Storytelling: November",
+   "date": "2026-11-13",
+   "venue": "Missouri History Museum",
+   "town": "St. Louis",
+   "url": "https://saintlouis.kidsoutandabout.com/content/storytelling-november",
    "source": "Kids Out and About STL",
    "extraction": "heuristic"
   },

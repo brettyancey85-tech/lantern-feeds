@@ -1,20 +1,11 @@
 {
  "schema": "lantern-events/v1",
  "region": "katy-tx",
- "generated_at": "2026-11-09T18:22:18Z",
+ "generated_at": "2026-11-13T18:22:01Z",
  "events": [
   {
-   "name": "Beetlejuice",
-   "date": "2026-11-08",
-   "venue": "The Hobby Center for the Performing Arts",
-   "town": "Houston",
-   "url": "https://houston.kidsoutandabout.com/content/beetlejuice-5",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
    "name": "Coffee Cake Book Club",
-   "date": "2026-11-08",
+   "date": "2026-11-12",
    "venue": "",
    "town": "",
    "url": "https://houstonfamilymagazine.com/events/coffee-cake-book-club-18/",
@@ -22,17 +13,8 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Esplanade at Navigation Market",
-   "date": "2026-11-08",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/esplanade-at-navigation-market-7/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
    "name": "FREE fall and holiday mini photo sessions with Shoott! - Greater Houston",
-   "date": "2026-11-08",
+   "date": "2026-11-12",
    "venue": "Shoott",
    "town": "New York",
    "url": "https://houston.kidsoutandabout.com/content/free-fall-and-holiday-mini-photo-sessions-shoott-greater-houston",
@@ -40,26 +22,8 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Froberg's Annual Corn Maze and Fall Festival",
-   "date": "2026-11-08",
-   "venue": "Froberg's Fruit and Vegetable Farm",
-   "town": "Alvin",
-   "url": "https://houston.kidsoutandabout.com/content/frobergs-annual-corn-maze-and-fall-festival-0",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Galveston’s Own Farmers Market",
-   "date": "2026-11-08",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/galvestons-own-farmers-market-15/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
    "name": "General Registration period for 2027 International Math Contest - deadline 12/14",
-   "date": "2026-11-08",
+   "date": "2026-11-12",
    "venue": "Russian School of Mathematics - RSM Sugar Land",
    "town": "Sugar Land",
    "url": "https://houston.kidsoutandabout.com/content/general-registration-period-2027-international-math-contest-deadline-1214",
@@ -68,7 +32,7 @@
   },
   {
    "name": "Holiday food drive at Epic Waters",
-   "date": "2026-11-08",
+   "date": "2026-11-12",
    "venue": "Epic Waters Indoor Waterpark",
    "town": "Grand Prairie",
    "url": "https://houston.kidsoutandabout.com/content/holiday-food-drive-epic-waters",
@@ -76,8 +40,26 @@
    "extraction": "heuristic"
   },
   {
+   "name": "I’m With the Banned Book Club",
+   "date": "2026-11-12",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/111563/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "In Person: Storytime",
+   "date": "2026-11-12",
+   "venue": "",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/in-person-storytime-13/",
+   "source": "Houston Family Magazine",
+   "extraction": "heuristic"
+  },
+  {
    "name": "Made In Texas",
-   "date": "2026-11-08",
+   "date": "2026-11-12",
    "venue": "",
    "town": "",
    "url": "https://houstonfamilymagazine.com/events/made-in-texas/",
@@ -85,17 +67,8 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Mary Poppins",
-   "date": "2026-11-08",
-   "venue": "CYT Houston (Christian Youth Theater)",
-   "town": "Spring",
-   "url": "https://houston.kidsoutandabout.com/content/mary-poppins-4",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
    "name": "The Moonwalkers: A Journey with Tom Hanks",
-   "date": "2026-11-08",
+   "date": "2026-11-12",
    "venue": "",
    "town": "",
    "url": "https://houstonfamilymagazine.com/events/the-moonwalkers-a-journey-with-tom-hanks-4/",
@@ -104,7 +77,7 @@
   },
   {
    "name": "Second Saturday Bird Survey",
-   "date": "2026-11-08",
+   "date": "2026-11-12",
    "venue": "",
    "town": "",
    "url": "https://houstonfamilymagazine.com/events/second-saturday-bird-survey-20/",
@@ -113,7 +86,7 @@
   },
   {
    "name": "StoryTime with Ms. Maria",
-   "date": "2026-11-08",
+   "date": "2026-11-12",
    "venue": "",
    "town": "",
    "url": "https://houstonfamilymagazine.com/events/storytime-with-ms-maria-10/",
@@ -122,7 +95,7 @@
   },
   {
    "name": "Texas America250 Reading Challenge",
-   "date": "2026-11-08",
+   "date": "2026-11-12",
    "venue": "Texas State Library and Archives Commission",
    "town": "Texas 78701",
    "url": "https://houston.kidsoutandabout.com/content/texas-america250-reading-challenge",
@@ -131,7 +104,7 @@
   },
   {
    "name": "Trail mix",
-   "date": "2026-11-08",
+   "date": "2026-11-12",
    "venue": "",
    "town": "",
    "url": "https://houstonfamilymagazine.com/events/trail-mix-28/",
@@ -140,7 +113,7 @@
   },
   {
    "name": "Undercurrents",
-   "date": "2026-11-08",
+   "date": "2026-11-12",
    "venue": "",
    "town": "",
    "url": "https://houstonfamilymagazine.com/events/undercurrents/",
@@ -149,44 +122,12 @@
   },
   {
    "name": "View Details",
-   "date": "2026-11-08",
+   "date": "2026-11-12",
    "venue": "",
    "town": "",
-   "url": "https://houstonfamilymagazine.com/events/galvestons-own-farmers-market-15/",
+   "url": "https://houstonfamilymagazine.com/events/second-saturday-bird-survey-20/",
    "source": "Houston Family Magazine",
    "extraction": "heuristic"
-  },
-  {
-   "name": "Houston Highlights: November 9 to November 12 – Food, Music, Arts & More",
-   "date": "2026-11-09",
-   "venue": "",
-   "town": "",
-   "url": "https://www.houstononthecheap.com/houston-picks-november-9-november-12-2026/",
-   "source": "Houston on the Cheap"
-  },
-  {
-   "name": "International Quilt Festival at George R. Brown Convention Center",
-   "date": "2026-11-12",
-   "venue": "George R. Brown Convention Center",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/international-quilt-festival-at-george-r-brown-convention-center/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "M-K-T Sunset Market: Holiday Edition at M-K-T Trailside",
-   "date": "2026-11-12",
-   "venue": "M-K-T",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/m-k-t-sunset-market-holiday-edition-at-m-k-t-trailside/",
-   "source": "365 Things in Houston"
-  },
-  {
-   "name": "The Stray Cats in Concert at Smart Financial Centre",
-   "date": "2026-11-12",
-   "venue": "Smart Financial Centre at Sugar Land",
-   "town": "Sugar Land",
-   "url": "https://365thingsinhouston.com/calendar/the-stray-cats-in-concert-at-smart-financial-centre/",
-   "source": "365 Things in Houston"
   },
   {
    "name": "Comedian Nurse John at Smart Financial Centre",
@@ -213,6 +154,14 @@
    "url": "https://houston.kidsoutandabout.com/content/fall-season-oil-ranch-1",
    "source": "Kids Out and About Houston",
    "extraction": "heuristic"
+  },
+  {
+   "name": "Fish Fry Friday & Pop-Up Market at Black Wall Street Market",
+   "date": "2026-11-13",
+   "venue": "Black Wall Street Market",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/black-wall-street-market-in-greater-ost-south-union-1/",
+   "source": "365 Things in Houston"
   },
   {
    "name": "Fun, Free & Cheap Events in Houston | November 13 – November 15",
@@ -274,6 +223,15 @@
    "town": "Houston",
    "url": "https://365thingsinhouston.com/calendar/international-quilt-festival-at-george-r-brown-convention-center-2/",
    "source": "365 Things in Houston"
+  },
+  {
+   "name": "Mary Poppins",
+   "date": "2026-11-13",
+   "venue": "CYT Houston (Christian Youth Theater)",
+   "town": "Spring",
+   "url": "https://houston.kidsoutandabout.com/content/mary-poppins-4",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
   },
   {
    "name": "Open Dance Project: A Midsummer Night’s Dream at Miller Outdoor Theatre",
@@ -350,6 +308,14 @@
    "source": "365 Things in Houston"
   },
   {
+   "name": "Kidpreneur Fall Festival & Pop-Up Market at Black Wall Street Market",
+   "date": "2026-11-14",
+   "venue": "Black Wall Street Market",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/black-wall-street-market-in-greater-ost-south-union-2/",
+   "source": "365 Things in Houston"
+  },
+  {
    "name": "ROCO In Concert: Fellow Travelers at The Ismaili Center Houston",
    "date": "2026-11-14",
    "venue": "The Ismaili Center Houston",
@@ -387,6 +353,14 @@
    "venue": "Believe in Dog",
    "town": "Houston",
    "url": "https://365thingsinhouston.com/calendar/barking-up-the-right-tree-two-day-seminar-with-dr-ian-dunbar-at-believe-in-dog-training-2/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Community Pop-Up Market at Black Wall Street Market",
+   "date": "2026-11-15",
+   "venue": "Black Wall Street Market",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/black-wall-street-market-in-greater-ost-south-union-3/",
    "source": "365 Things in Houston"
   },
   {
@@ -511,6 +485,22 @@
    "url": "https://houston.kidsoutandabout.com/content/fall-break-day-camps-2",
    "source": "Kids Out and About Houston",
    "extraction": "heuristic"
+  },
+  {
+   "name": "’90s Party! at Social Beer Garden HTX",
+   "date": "2026-11-25",
+   "venue": "Social Beer Garden HTX",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/90s-party-at-social-beer-garden-htx/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Yuri & Lucero in Concert at Smart Financial Centre",
+   "date": "2026-11-27",
+   "venue": "Smart Financial Centre at Sugar Land",
+   "town": "Sugar Land",
+   "url": "https://365thingsinhouston.com/calendar/yuri-lucero-in-concert-at-smart-financial-centre/",
+   "source": "365 Things in Houston"
   }
  ]
 }

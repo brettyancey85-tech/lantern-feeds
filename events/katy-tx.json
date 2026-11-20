@@ -1,20 +1,11 @@
 {
  "schema": "lantern-events/v1",
  "region": "katy-tx",
- "generated_at": "2026-11-16T18:22:09Z",
+ "generated_at": "2026-11-20T18:21:46Z",
  "events": [
   {
-   "name": "Baby Story Time",
-   "date": "2026-11-16",
-   "venue": "Sterling Municipal Library",
-   "town": "Baytown",
-   "url": "https://houston.kidsoutandabout.com/content/baby-story-time-35",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
    "name": "Coffee Cake Book Club",
-   "date": "2026-11-16",
+   "date": "2026-11-19",
    "venue": "",
    "town": "",
    "url": "https://houstonfamilymagazine.com/events/coffee-cake-book-club-18/",
@@ -22,79 +13,8 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Drama Kids Classes at Good Shepherd UMC (Fairfield Area)",
-   "date": "2026-11-16",
-   "venue": "Good Shepherd United Methodist",
-   "town": "Cypress",
-   "url": "https://houston.kidsoutandabout.com/content/drama-kids-classes-good-shepherd-umc-fairfield-area",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Drama Kids Classes at St. Aidan's Church (Cypress Area)",
-   "date": "2026-11-16",
-   "venue": "St. Aidan's Episcopal Church",
-   "town": "Cypress",
-   "url": "https://houston.kidsoutandabout.com/content/drama-kids-classes-st-aidans-church-cypress-area",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "General Registration period for 2027 International Math Contest - deadline 12/14",
-   "date": "2026-11-16",
-   "venue": "Russian School of Mathematics - RSM Sugar Land",
-   "town": "Sugar Land",
-   "url": "https://houston.kidsoutandabout.com/content/general-registration-period-2027-international-math-contest-deadline-1214",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Give a Year of Fun at Our Lowest Price of the Year",
-   "date": "2026-11-16",
-   "venue": "",
-   "town": "Grand Prairie",
-   "url": "https://houston.kidsoutandabout.com/content/give-year-fun-our-lowest-price-year",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Holiday food drive at Epic Waters",
-   "date": "2026-11-16",
-   "venue": "Epic Waters Indoor Waterpark",
-   "town": "Grand Prairie",
-   "url": "https://houston.kidsoutandabout.com/content/holiday-food-drive-epic-waters",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Homeschool Day: Rhythms of Nature",
-   "date": "2026-11-16",
-   "venue": "The Meadows Center for Water and the Environment",
-   "town": "San Marcos",
-   "url": "https://houston.kidsoutandabout.com/content/homeschool-day-rhythms-nature",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Houston Highlights: November 16 to November 19 – Food, Music, Arts & More",
-   "date": "2026-11-16",
-   "venue": "",
-   "town": "",
-   "url": "https://www.houstononthecheap.com/houston-picks-november-16-november-19-2026/",
-   "source": "Houston on the Cheap"
-  },
-  {
-   "name": "Illustration Mentorship",
-   "date": "2026-11-16",
-   "venue": "Winged Canvas",
-   "town": "Markham",
-   "url": "https://houston.kidsoutandabout.com/content/illustration-mentorship",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
    "name": "I’m With the Banned Book Club",
-   "date": "2026-11-16",
+   "date": "2026-11-19",
    "venue": "",
    "town": "",
    "url": "https://houstonfamilymagazine.com/events/111563/",
@@ -102,35 +22,17 @@
    "extraction": "heuristic"
   },
   {
-   "name": "The Light Park- Katy",
-   "date": "2026-11-16",
-   "venue": "Typhoon Texas Waterpark Houston",
-   "town": "Katy",
-   "url": "https://houston.kidsoutandabout.com/content/light-park-katy-0",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "The Light Park- Spring",
-   "date": "2026-11-16",
+   "name": "In Person: Storytime",
+   "date": "2026-11-19",
    "venue": "",
-   "town": "Spring",
-   "url": "https://houston.kidsoutandabout.com/content/light-park-spring-0",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Luminari Award",
-   "date": "2026-11-16",
-   "venue": "",
-   "town": "In home essay writing",
-   "url": "https://houston.kidsoutandabout.com/content/luminari-award",
-   "source": "Kids Out and About Houston",
+   "town": "",
+   "url": "https://houstonfamilymagazine.com/events/in-person-storytime-13/",
+   "source": "Houston Family Magazine",
    "extraction": "heuristic"
   },
   {
    "name": "Made In Texas",
-   "date": "2026-11-16",
+   "date": "2026-11-19",
    "venue": "",
    "town": "",
    "url": "https://houstonfamilymagazine.com/events/made-in-texas/",
@@ -139,7 +41,7 @@
   },
   {
    "name": "The Moonwalkers: A Journey with Tom Hanks",
-   "date": "2026-11-16",
+   "date": "2026-11-19",
    "venue": "",
    "town": "",
    "url": "https://houstonfamilymagazine.com/events/the-moonwalkers-a-journey-with-tom-hanks-4/",
@@ -147,35 +49,8 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Pollywogs",
-   "date": "2026-11-16",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/pollywogs-2/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Reading Camp with Ms. Najia",
-   "date": "2026-11-16",
-   "venue": "",
-   "town": "",
-   "url": "https://houstonfamilymagazine.com/events/reading-camp-with-ms-najia-12/",
-   "source": "Houston Family Magazine",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Santa's Wonderland",
-   "date": "2026-11-16",
-   "venue": "Santa's Wonderland",
-   "town": "College Station",
-   "url": "https://houston.kidsoutandabout.com/content/santas-wonderland-3",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
    "name": "Second Saturday Bird Survey",
-   "date": "2026-11-16",
+   "date": "2026-11-19",
    "venue": "",
    "town": "",
    "url": "https://houstonfamilymagazine.com/events/second-saturday-bird-survey-20/",
@@ -184,7 +59,7 @@
   },
   {
    "name": "StoryTime with Ms. Maria",
-   "date": "2026-11-16",
+   "date": "2026-11-19",
    "venue": "",
    "town": "",
    "url": "https://houstonfamilymagazine.com/events/storytime-with-ms-maria-10/",
@@ -192,17 +67,8 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Texas America250 Reading Challenge",
-   "date": "2026-11-16",
-   "venue": "Texas State Library and Archives Commission",
-   "town": "Texas 78701",
-   "url": "https://houston.kidsoutandabout.com/content/texas-america250-reading-challenge",
-   "source": "Kids Out and About Houston",
-   "extraction": "heuristic"
-  },
-  {
    "name": "Trail mix",
-   "date": "2026-11-16",
+   "date": "2026-11-19",
    "venue": "",
    "town": "",
    "url": "https://houstonfamilymagazine.com/events/trail-mix-28/",
@@ -211,7 +77,7 @@
   },
   {
    "name": "Undercurrents",
-   "date": "2026-11-16",
+   "date": "2026-11-19",
    "venue": "",
    "town": "",
    "url": "https://houstonfamilymagazine.com/events/undercurrents/",
@@ -220,7 +86,7 @@
   },
   {
    "name": "View Details",
-   "date": "2026-11-16",
+   "date": "2026-11-19",
    "venue": "",
    "town": "",
    "url": "https://houstonfamilymagazine.com/events/second-saturday-bird-survey-20/",
@@ -228,36 +94,49 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Campbell Lecture Series: Ben Rhodes on The Battle for American Identity at Rice ",
-   "date": "2026-11-17",
-   "venue": "Pitman Cinema Theatre in Sarofim Hall at Rice University",
+   "name": "A Motown Christmas (A Musical Revue)",
+   "date": "2026-11-20",
+   "venue": "The Ensemble Theatre",
    "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/campbell-lecture-series-ben-rhodes-talk-at-rice-university/",
-   "source": "365 Things in Houston"
+   "url": "https://houston.kidsoutandabout.com/content/motown-christmas-musical-revue",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
   },
   {
-   "name": "Campbell Lecture Series: Ben Rhodes on The Age of AI & Authoritarianism at Rice ",
-   "date": "2026-11-18",
-   "venue": "Pitman Cinema Theatre in Sarofim Hall at Rice University",
+   "name": "Baby Party: Thanksgiving",
+   "date": "2026-11-20",
+   "venue": "Houston Public Library - Central Library",
    "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/campbell-lecture-series-ben-rhodes-talk-at-rice-university-2/",
-   "source": "365 Things in Houston"
+   "url": "https://houston.kidsoutandabout.com/content/baby-party-thanksgiving",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
   },
   {
-   "name": "Journey in Concert at Toyota Center",
-   "date": "2026-11-18",
-   "venue": "Toyota Center",
+   "name": "Choir! Choir! Choir! Un-Silent Night: An EPIC Holiday Sing-Along!",
+   "date": "2026-11-20",
+   "venue": "The Hobby Center for the Performing Arts",
    "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/journey-in-concert-at-toyota-center/",
-   "source": "365 Things in Houston"
+   "url": "https://houston.kidsoutandabout.com/content/choir-choir-choir-un-silent-night-epic-holiday-sing-along",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
   },
   {
-   "name": "Comedian Phil Hanley at Houston Improv",
-   "date": "2026-11-19",
-   "venue": "Houston Improv",
-   "town": "Houston",
-   "url": "https://365thingsinhouston.com/calendar/comedian-phil-hanley-at-houston-improv/",
-   "source": "365 Things in Houston"
+   "name": "Christmas Tree Lighting in Sugar Land",
+   "date": "2026-11-20",
+   "venue": "Sugar Land Town Square",
+   "town": "Sugar Land",
+   "url": "https://houston.kidsoutandabout.com/content/christmas-tree-lighting-sugar-land-1",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "The Christmas Village",
+   "date": "2026-11-20",
+   "venue": "The Christmas Village",
+   "town": "Huntsville",
+   "url": "https://houston.kidsoutandabout.com/content/christmas-village-9",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
   },
   {
    "name": "Comedian Phil Hanley at Houston Improv",
@@ -268,6 +147,59 @@
    "source": "365 Things in Houston"
   },
   {
+   "name": "Drama Kids Classes at Good Shepherd (Tomball/Magnolia/Pinehurst/Klein Area)",
+   "date": "2026-11-20",
+   "venue": "",
+   "town": "Church of the Good Shepherd 715 Carrell ",
+   "url": "https://houston.kidsoutandabout.com/content/drama-kids-classes-good-shepherd-tomballmagnoliapinehurstklein-area",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Exploring the Moon in the Age of Artemis (A Free, Hybrid Lecture)",
+   "date": "2026-11-20",
+   "venue": "",
+   "town": "East Hampton",
+   "url": "https://houston.kidsoutandabout.com/content/exploring-moon-age-artemis-free-hybrid-lecture",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Fall Season at the Oil Ranch",
+   "date": "2026-11-20",
+   "venue": "Oil Ranch",
+   "town": "Hockley",
+   "url": "https://houston.kidsoutandabout.com/content/fall-season-oil-ranch-1",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Fish Fry Friday & Pop-Up Market at Black Wall Street Market",
+   "date": "2026-11-20",
+   "venue": "Black Wall Street Market",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/black-wall-street-market-in-greater-ost-south-union-4/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "FREE fall and holiday mini photo sessions with Shoott! - Greater Houston",
+   "date": "2026-11-20",
+   "venue": "Shoott",
+   "town": "New York",
+   "url": "https://houston.kidsoutandabout.com/content/free-fall-and-holiday-mini-photo-sessions-shoott-greater-houston",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Frozen The Musical",
+   "date": "2026-11-20",
+   "venue": "",
+   "town": "Shenandoah",
+   "url": "https://houston.kidsoutandabout.com/content/frozen-musical-0",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
    "name": "Fun, Free & Cheap Events in Houston | November 20 – November 22",
    "date": "2026-11-20",
    "venue": "",
@@ -276,12 +208,246 @@
    "source": "Houston on the Cheap"
   },
   {
+   "name": "Galaxy Lights- Space Center Houston",
+   "date": "2026-11-20",
+   "venue": "Space Center Houston",
+   "town": "Houston",
+   "url": "https://houston.kidsoutandabout.com/content/galaxy-lights-space-center-houston-0",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "General Registration period for 2027 International Math Contest - deadline 12/14",
+   "date": "2026-11-20",
+   "venue": "Russian School of Mathematics - RSM Sugar Land",
+   "town": "Sugar Land",
+   "url": "https://houston.kidsoutandabout.com/content/general-registration-period-2027-international-math-contest-deadline-1214",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Give a Year of Fun at Our Lowest Price of the Year",
+   "date": "2026-11-20",
+   "venue": "",
+   "town": "Grand Prairie",
+   "url": "https://houston.kidsoutandabout.com/content/give-year-fun-our-lowest-price-year",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Holiday Train & Holiday Carousel",
+   "date": "2026-11-20",
+   "venue": "Hermann Park Railroad",
+   "town": "Houston",
+   "url": "https://houston.kidsoutandabout.com/content/holiday-train-holiday-carousel",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Homeschool Academy: Brick to Screen – Robotics & Filmmaking Lab",
+   "date": "2026-11-20",
+   "venue": "Six Pixels Film & STEM Academy 7676 North Fwy",
+   "town": "#603",
+   "url": "https://houston.kidsoutandabout.com/content/homeschool-academy-brick-screen-%E2%80%93-robotics-filmmaking-lab",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Homeschool Academy: Cosplay, Prop Design & Makeup FX",
+   "date": "2026-11-20",
+   "venue": "Six Pixels Film & STEM Academy 7676 North Fwy",
+   "town": "#603",
+   "url": "https://houston.kidsoutandabout.com/content/homeschool-academy-cosplay-prop-design-makeup-fx",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Homeschool Academy: Stop Motion Animation",
+   "date": "2026-11-20",
+   "venue": "Six Pixels Film & STEM Academy 7676 North Fwy",
+   "town": "#603",
+   "url": "https://houston.kidsoutandabout.com/content/homeschool-academy-stop-motion-animation",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Homeschool Academy Video Editing Course",
+   "date": "2026-11-20",
+   "venue": "Six Pixels Film & STEM Academy 7676 North Fwy",
+   "town": "#603 Houston",
+   "url": "https://houston.kidsoutandabout.com/content/homeschool-academy-video-editing-course",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Homeschool Academy Youth Filmmaking",
+   "date": "2026-11-20",
+   "venue": "Six Pixels Film & STEM Academy 7676 North Fwy",
+   "town": "#603 Houston",
+   "url": "https://houston.kidsoutandabout.com/content/homeschool-academy-youth-filmmaking",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "The Ice Rink at The Woodlands Town Center",
+   "date": "2026-11-20",
+   "venue": "",
+   "town": "The Woodlands",
+   "url": "https://houston.kidsoutandabout.com/content/ice-rink-woodlands-town-center-3",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "The Light Park- Katy",
+   "date": "2026-11-20",
+   "venue": "Typhoon Texas Waterpark Houston",
+   "town": "Katy",
+   "url": "https://houston.kidsoutandabout.com/content/light-park-katy-0",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "The Light Park- Spring",
+   "date": "2026-11-20",
+   "venue": "",
+   "town": "Spring",
+   "url": "https://houston.kidsoutandabout.com/content/light-park-spring-0",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "LINE. TEXTURE. FORM.",
+   "date": "2026-11-20",
+   "venue": "Cultural Center - Our Texas",
+   "town": "Houston",
+   "url": "https://houston.kidsoutandabout.com/content/line-texture-form",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
    "name": "The Murder Mystery Co’s Dinner Theater Show at Saltgrass Steak House",
    "date": "2026-11-20",
    "venue": "Saltgrass Steak House",
    "town": "Houston",
    "url": "https://365thingsinhouston.com/calendar/the-murder-mystery-cos-dinner-theater-show-at-saltgrass-steak-house-november-2026/",
    "source": "365 Things in Houston"
+  },
+  {
+   "name": "The Nutcracker presented by Vicki Michelle",
+   "date": "2026-11-20",
+   "venue": "Klein Oak High School",
+   "town": "Klein",
+   "url": "https://houston.kidsoutandabout.com/content/nutcracker-presented-vicki-michelle-0",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Parents' Night Out",
+   "date": "2026-11-20",
+   "venue": "My Gym Atascocita",
+   "town": "Houston",
+   "url": "https://houston.kidsoutandabout.com/content/parents-night-out-231",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "THE POLAR EXPRESS™ Train Ride at Galveston Railroad Museum",
+   "date": "2026-11-20",
+   "venue": "Galveston Railroad Museum",
+   "town": "Galveston",
+   "url": "https://houston.kidsoutandabout.com/content/polar-express%E2%84%A2-train-ride-galveston-railroad-museum",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Radiant Nature- See the Garden Glow",
+   "date": "2026-11-20",
+   "venue": "",
+   "town": "Houston",
+   "url": "https://houston.kidsoutandabout.com/content/radiant-nature-see-garden-glow-0",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Santa's Wonderland",
+   "date": "2026-11-20",
+   "venue": "Santa's Wonderland",
+   "town": "College Station",
+   "url": "https://houston.kidsoutandabout.com/content/santas-wonderland-3",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "SpongeBob the Musical JR (Grades 6-12) Performance 1",
+   "date": "2026-11-20",
+   "venue": "HITS Theatre",
+   "town": "Houston",
+   "url": "https://houston.kidsoutandabout.com/content/spongebob-musical-jr-grades-6-12-performance-1",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Starlight Swans",
+   "date": "2026-11-20",
+   "venue": "Rob Fleming Park Picnic Area",
+   "town": "The Woodlands",
+   "url": "https://houston.kidsoutandabout.com/content/starlight-swans",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Storybook Theatre in November",
+   "date": "2026-11-20",
+   "venue": "The Woodlands Children's Museum",
+   "town": "The Woodlands",
+   "url": "https://houston.kidsoutandabout.com/content/storybook-theatre-november-1",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Storytime in the Garden",
+   "date": "2026-11-20",
+   "venue": "",
+   "town": "Houston",
+   "url": "https://houston.kidsoutandabout.com/content/storytime-garden-9",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Storytime on The Terrace",
+   "date": "2026-11-20",
+   "venue": "Montrose Collective",
+   "town": "Houston",
+   "url": "https://houston.kidsoutandabout.com/content/storytime-terrace-1",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Texas America250 Reading Challenge",
+   "date": "2026-11-20",
+   "venue": "Texas State Library and Archives Commission",
+   "town": "Texas 78701",
+   "url": "https://houston.kidsoutandabout.com/content/texas-america250-reading-challenge",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Texas State Railroad -THE POLAR EXPRESS™",
+   "date": "2026-11-20",
+   "venue": "Texas State Railroad",
+   "town": "Rusk",
+   "url": "https://houston.kidsoutandabout.com/content/texas-state-railroad-polar-express%E2%84%A2-1",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Tree Lighting- LaCenterra",
+   "date": "2026-11-20",
+   "venue": "LaCenterra at Cinco Ranch",
+   "town": "Katy",
+   "url": "https://houston.kidsoutandabout.com/content/tree-lighting-lacenterra-1",
+   "source": "Kids Out and About Houston",
+   "extraction": "heuristic"
   },
   {
    "name": "Apollo Chamber Players: Flow at Live Oak Friends Meeting House",
@@ -321,6 +487,22 @@
    "venue": "Toyota Center",
    "town": "Houston",
    "url": "https://365thingsinhouston.com/calendar/nick-cannons-wild-n-out-live-the-next-generation-at-toyota-center/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Pop-Up Market at Black Wall Street Market",
+   "date": "2026-11-21",
+   "venue": "Black Wall Street Market",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/black-wall-street-market-in-greater-ost-south-union-5/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Pop-Up Market at Black Wall Street Market",
+   "date": "2026-11-22",
+   "venue": "Black Wall Street Market",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/black-wall-street-market-in-greater-ost-south-union-6/",
    "source": "365 Things in Houston"
   },
   {
@@ -369,6 +551,30 @@
    "venue": "Smart Financial Centre at Sugar Land",
    "town": "Sugar Land",
    "url": "https://365thingsinhouston.com/calendar/outlander-in-concert-at-smart-financial-centre/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Disney Worlds Collide Concert Tour: Descendants, Zombies & Camp Rock at Toyota C",
+   "date": "2026-12-02",
+   "venue": "Toyota Center",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/disney-worlds-collide-concert-tour-descendants-zombies-camp-rock-at-toyota-center/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "For King + Country: Drummer Boy Christmas Concert at Toyota Center",
+   "date": "2026-12-03",
+   "venue": "Toyota Center",
+   "town": "Houston",
+   "url": "https://365thingsinhouston.com/calendar/for-king-country-drummer-boy-christmas-concert-at-toyota-center/",
+   "source": "365 Things in Houston"
+  },
+  {
+   "name": "Rene Vaca & That Mexican OT at Smart Financial Centre",
+   "date": "2026-12-03",
+   "venue": "Smart Financial Centre at Sugar Land",
+   "town": "Sugar Land",
+   "url": "https://365thingsinhouston.com/calendar/rene-vaca-that-mexican-ot-at-smart-financial-centre/",
    "source": "365 Things in Houston"
   }
  ]

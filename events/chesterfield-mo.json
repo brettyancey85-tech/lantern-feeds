@@ -1,11 +1,11 @@
 {
  "schema": "lantern-events/v1",
  "region": "chesterfield-mo",
- "generated_at": "2026-11-16T18:22:09Z",
+ "generated_at": "2026-11-20T18:21:46Z",
  "events": [
   {
    "name": "2026 Salvation Army Toy Drive at Swing-A-Round Fun Town",
-   "date": "2026-11-15",
+   "date": "2026-11-20",
    "venue": "Swing-A-Round Fun Town",
    "town": "Fenton",
    "url": "https://saintlouis.kidsoutandabout.com/content/2026-salvation-army-toy-drive-swing-round-fun-town",
@@ -13,8 +13,53 @@
    "extraction": "heuristic"
   },
   {
+   "name": "The 25th Annual Putnam County Spelling Bee",
+   "date": "2026-11-20",
+   "venue": "The Emerson Black Box Theater",
+   "town": "Saint Charles",
+   "url": "https://saintlouis.kidsoutandabout.com/content/25th-annual-putnam-county-spelling-bee-11",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Craft Fair at SCC Light the Tree!",
+   "date": "2026-11-20",
+   "venue": "St. Charles Community College",
+   "town": "Cottleville",
+   "url": "https://saintlouis.kidsoutandabout.com/content/craft-fair-scc-light-tree",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "District 5 Coffee Chat",
+   "date": "2026-11-20",
+   "venue": "Latté Lounge",
+   "town": "Florissant",
+   "url": "https://saintlouis.kidsoutandabout.com/content/district-5-coffee-chat-1",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Exploring the Moon in the Age of Artemis (A Free, Hybrid Lecture)",
+   "date": "2026-11-20",
+   "venue": "",
+   "town": "East Hampton",
+   "url": "https://saintlouis.kidsoutandabout.com/content/exploring-moon-age-artemis-free-hybrid-lecture",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Family Night Out Bingo Series",
+   "date": "2026-11-20",
+   "venue": "James J. Eagan Center",
+   "town": "Florissant",
+   "url": "https://saintlouis.kidsoutandabout.com/content/family-night-out-bingo-series",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
    "name": "FREE fall and holiday mini photo sessions with Shoott! - St. Louis",
-   "date": "2026-11-15",
+   "date": "2026-11-20",
    "venue": "Shoott",
    "town": "New York",
    "url": "https://saintlouis.kidsoutandabout.com/content/free-fall-and-holiday-mini-photo-sessions-shoott-st-louis",
@@ -23,7 +68,7 @@
   },
   {
    "name": "Friendsgiving at Eckert's Belleville",
-   "date": "2026-11-15",
+   "date": "2026-11-20",
    "venue": "",
    "town": "Belleville",
    "url": "https://saintlouis.kidsoutandabout.com/content/friendsgiving-eckerts-belleville",
@@ -31,8 +76,17 @@
    "extraction": "heuristic"
   },
   {
+   "name": "Friendsgiving Weekend at YMCA Trout Lodge",
+   "date": "2026-11-20",
+   "venue": "Trout Lodge",
+   "town": "Potosi",
+   "url": "https://saintlouis.kidsoutandabout.com/content/friendsgiving-weekend-ymca-trout-lodge",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
    "name": "Garden Glow at Missouri Botanical Garden",
-   "date": "2026-11-15",
+   "date": "2026-11-20",
    "venue": "Missouri Botanical Garden",
    "town": "St. Louis",
    "url": "https://saintlouis.kidsoutandabout.com/content/garden-glow-missouri-botanical-garden-1",
@@ -41,7 +95,7 @@
   },
   {
    "name": "Give a Year of Fun at Our Lowest Price of the Year",
-   "date": "2026-11-15",
+   "date": "2026-11-20",
    "venue": "",
    "town": "Grand Prairie",
    "url": "https://saintlouis.kidsoutandabout.com/content/give-year-fun-our-lowest-price-year",
@@ -50,7 +104,7 @@
   },
   {
    "name": "Holiday Flower and Train Show",
-   "date": "2026-11-15",
+   "date": "2026-11-20",
    "venue": "Missouri Botanical Garden",
    "town": "St. Louis",
    "url": "https://saintlouis.kidsoutandabout.com/content/holiday-flower-and-train-show-1",
@@ -58,17 +112,89 @@
    "extraction": "heuristic"
   },
   {
-   "name": "Meet, Greet & Play with Elsa & Anna",
-   "date": "2026-11-15",
-   "venue": "Wild Sprouts",
-   "town": "St Charles",
-   "url": "https://saintlouis.kidsoutandabout.com/content/meet-greet-play-elsa-anna",
+   "name": "Jurassic Quest- St. Charles",
+   "date": "2026-11-20",
+   "venue": "St. Charles Convention Center",
+   "town": "Saint Charles",
+   "url": "https://saintlouis.kidsoutandabout.com/content/jurassic-quest-st-charles-0",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Kawaii Pajama Skate",
+   "date": "2026-11-20",
+   "venue": "Skate City Belleville",
+   "town": "Belleville",
+   "url": "https://saintlouis.kidsoutandabout.com/content/kawaii-pajama-skate",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Lap Time",
+   "date": "2026-11-20",
+   "venue": "",
+   "town": "Saint Ann",
+   "url": "https://saintlouis.kidsoutandabout.com/content/lap-time",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Lebanon's Winter Wonderland",
+   "date": "2026-11-20",
+   "venue": "",
+   "town": "Lebanon",
+   "url": "https://saintlouis.kidsoutandabout.com/content/lebanons-winter-wonderland-0",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Little Red Hen Play Dates",
+   "date": "2026-11-20",
+   "venue": "The Waldorf School of St. Louis",
+   "town": "Webster Groves",
+   "url": "https://saintlouis.kidsoutandabout.com/content/little-red-hen-play-dates",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Open Gym - Come play at Miss Kelly's Gym!",
+   "date": "2026-11-20",
+   "venue": "",
+   "town": "Miss Kelly's Gym - Creve Coeur and Cottl",
+   "url": "https://saintlouis.kidsoutandabout.com/content/open-gym-come-play-miss-kellys-gym",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Open Play at Enchanted Playroom",
+   "date": "2026-11-20",
+   "venue": "Enchanted Playroom",
+   "town": "O'Fallon",
+   "url": "https://saintlouis.kidsoutandabout.com/content/open-play-enchanted-playroom",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Open Play at Your Village",
+   "date": "2026-11-20",
+   "venue": "Your Village STL: Jennifer Tietjen",
+   "town": "Chesterfield",
+   "url": "https://saintlouis.kidsoutandabout.com/content/open-play-your-village",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Parents Night Out: Cat In The Hat",
+   "date": "2026-11-20",
+   "venue": "Kids Club St. Louis",
+   "town": "St. Peters",
+   "url": "https://saintlouis.kidsoutandabout.com/content/parents-night-out-cat-hat",
    "source": "Kids Out and About STL",
    "extraction": "heuristic"
   },
   {
    "name": "THE POLAR EXPRESS™ Train Ride at Union Station",
-   "date": "2026-11-15",
+   "date": "2026-11-20",
    "venue": "St. Louis Union Station",
    "town": "St. Louis",
    "url": "https://saintlouis.kidsoutandabout.com/content/polar-express%E2%84%A2-train-ride-union-station-1",
@@ -76,8 +202,17 @@
    "extraction": "heuristic"
   },
   {
+   "name": "Santa’s Magical Kingdom",
+   "date": "2026-11-20",
+   "venue": "Jellystone Park™ St. Louis Eureka",
+   "town": "Eureka",
+   "url": "https://saintlouis.kidsoutandabout.com/content/santa%E2%80%99s-magical-kingdom",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
    "name": "Santa's Workshop at West County Center",
-   "date": "2026-11-15",
+   "date": "2026-11-20",
    "venue": "West County Center",
    "town": "St. Louis",
    "url": "https://saintlouis.kidsoutandabout.com/content/santas-workshop-west-county-center",
@@ -85,44 +220,44 @@
    "extraction": "heuristic"
   },
   {
-   "name": "St. Louis Storytelling Festival",
-   "date": "2026-11-15",
+   "name": "Storytelling: November",
+   "date": "2026-11-20",
+   "venue": "Missouri History Museum",
+   "town": "St. Louis",
+   "url": "https://saintlouis.kidsoutandabout.com/content/storytelling-november",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Thanksgiving Craft",
+   "date": "2026-11-20",
+   "venue": "Edwardsville Children's Museum",
+   "town": "Edwardsville",
+   "url": "https://saintlouis.kidsoutandabout.com/content/thanksgiving-craft-0",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Wee Weekend",
+   "date": "2026-11-20",
+   "venue": "",
+   "town": "Saint Louis Art Museum",
+   "url": "https://saintlouis.kidsoutandabout.com/content/wee-weekend-1",
+   "source": "Kids Out and About STL",
+   "extraction": "heuristic"
+  },
+  {
+   "name": "Weirdly Wonderful Holidays at City Museum",
+   "date": "2026-11-20",
    "venue": "",
    "town": "St. Louis",
-   "url": "https://saintlouis.kidsoutandabout.com/content/st-louis-storytelling-festival-2",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Take an Urban Hike with Girl Scouts",
-   "date": "2026-11-15",
-   "venue": "Centennial Greenway",
-   "town": "Clayton",
-   "url": "https://saintlouis.kidsoutandabout.com/content/take-urban-hike-girl-scouts",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Tots & Tales St Louis Storytime",
-   "date": "2026-11-15",
-   "venue": "TotSpot Social",
-   "town": "St. Louis",
-   "url": "https://saintlouis.kidsoutandabout.com/content/tots-tales-st-louis-storytime",
-   "source": "Kids Out and About STL",
-   "extraction": "heuristic"
-  },
-  {
-   "name": "Whitaker St. Louis International Film Festival",
-   "date": "2026-11-15",
-   "venue": "Cinema St Louis",
-   "town": "St. Louis",
-   "url": "https://saintlouis.kidsoutandabout.com/content/whitaker-st-louis-international-film-festival-1",
+   "url": "https://saintlouis.kidsoutandabout.com/content/weirdly-wonderful-holidays-city-museum-0",
    "source": "Kids Out and About STL",
    "extraction": "heuristic"
   },
   {
    "name": "WonderLight's Christmas in St. Louis",
-   "date": "2026-11-15",
+   "date": "2026-11-20",
    "venue": "",
    "town": "Illinois",
    "url": "https://saintlouis.kidsoutandabout.com/content/wonderlights-christmas-st-louis-0",
